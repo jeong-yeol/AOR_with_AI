@@ -1,0 +1,201 @@
+business_id,name,cuisine,neighborhood,latitude,longitude,price_tier
+B0001,Calloway Thai Kitchen,Thai,Old Harbor,45.271361,-68.420022,2
+B0002,Brookvale Cafe,Cafe,Riverside,45.282475,-68.461456,3
+B0003,Tindle House,Thai,Riverside,45.303764,-68.466527,2
+B0004,Linden Catch,Seafood,Old Harbor,45.283044,-68.433051,4
+B0005,Gravelle Luncheonette,Diner,South Mills,45.219793,-68.442416,3
+B0006,Mistral Cucina,Italian,University Hill,45.245517,-68.518836,2
+B0007,Tindle Osteria,Italian,Garden District,45.286822,-68.533047,3
+B0008,Pemberton Smokehouse,BBQ,Old Harbor,45.280381,-68.43111,4
+B0009,Gravelle Grill,Diner,South Mills,45.242484,-68.432571,3
+B0010,Calder Diner,Diner,Maple Heights,45.232988,-68.486932,4
+B0011,Halcyon Greens,Vegan,Garden District,45.301858,-68.52041,4
+B0012,Thornwood Luncheonette,Diner,South Mills,45.231723,-68.41065,2
+B0013,Larkspur Oyster Bar,Seafood,Garden District,45.285798,-68.52499,1
+B0014,Linden Pizzeria,Pizza,University Hill,45.233919,-68.513444,3
+B0015,Brookvale Pizzeria,Pizza,University Hill,45.233917,-68.529271,1
+B0016,Esten Pizza Co.,Pizza,University Hill,45.227705,-68.542517,4
+B0017,Tindle Cocina,Mexican,South Mills,45.240433,-68.41456,2
+B0018,Brightwater Bistro,Thai,University Hill,45.239171,-68.519448,4
+B0019,Calloway Greens,Vegan,South Mills,45.225265,-68.429848,2
+B0020,Gravelle Omakase,Sushi,Riverside,45.284627,-68.477948,3
+B0021,Dunmore Omakase,Sushi,Old Harbor,45.273123,-68.431977,4
+B0022,Linden Table,Vegan,Old Harbor,45.264952,-68.411715,2
+B0023,Gravelle Sushi Bar,Sushi,Riverside,45.305945,-68.460336,4
+B0024,Wexford Greens,Vegan,University Hill,45.242943,-68.542137,4
+B0025,Calder Oyster Bar,Seafood,Garden District,45.288131,-68.531441,2
+B0026,Pemberton Roastery,Cafe,University Hill,45.2265,-68.517043,1
+B0027,Gravelle Pizza Co.,Pizza,University Hill,45.234077,-68.513619,4
+B0028,Norwood Diner,Diner,Old Harbor,45.27111,-68.412927,4
+B0029,Marlowe Luncheonette,Diner,Maple Heights,45.217989,-68.466146,3
+B0030,Linden Roastery,Cafe,University Hill,45.242864,-68.533045,2
+B0031,Calder Cantina,Mexican,Maple Heights,45.225755,-68.465238,2
+B0032,Tindle Pizza Co.,Pizza,University Hill,45.237016,-68.523062,2
+B0033,Larkspur Omakase,Sushi,Garden District,45.292269,-68.52751,3
+B0034,Brightwater Fish House,Seafood,Old Harbor,45.259636,-68.40926,2
+B0035,Brightwater Slice,Pizza,University Hill,45.241089,-68.513409,1
+B0036,Gravelle Luncheonette,Diner,Maple Heights,45.206257,-68.458757,4
+B0037,Ashby Trattoria,Italian,Maple Heights,45.21692,-68.463448,2
+B0038,Ashby Osteria,Italian,Garden District,45.302765,-68.545,1
+B0039,Calloway Omakase,Sushi,Riverside,45.29264,-68.455393,1
+B0040,Mistral Trattoria,Italian,Garden District,45.299646,-68.527562,3
+B0041,Mistral Catch,Seafood,Old Harbor,45.273201,-68.40816,2
+B0042,Ashby Cantina,Mexican,Maple Heights,45.238342,-68.462522,4
+B0043,Pemberton Izakaya,Sushi,Riverside,45.272741,-68.45733,2
+B0044,Calloway Pizzeria,Pizza,University Hill,45.226498,-68.528746,1
+B0045,Ashby Cocina,Mexican,Maple Heights,45.23005,-68.45138,2
+B0046,Pemberton Luncheonette,Diner,South Mills,45.214218,-68.426086,3
+B0047,Tindle Table,Vegan,Riverside,45.299777,-68.484432,3
+B0048,Thornwood Osteria,Italian,Garden District,45.285095,-68.545,3
+B0049,Pemberton Pizza Co.,Pizza,University Hill,45.235418,-68.532589,2
+B0050,Brightwater Izakaya,Sushi,Riverside,45.299564,-68.490843,3
+B0051,Calder Cucina,Italian,Garden District,45.271218,-68.527442,4
+B0052,Fennwick Roastery,Cafe,Riverside,45.308212,-68.469505,3
+B0053,Calder BBQ,BBQ,South Mills,45.235584,-68.41307,4
+B0054,Norwood Grill,Diner,South Mills,45.214871,-68.437824,2
+B0055,Dunmore House,Thai,University Hill,45.228047,-68.503669,2
+B0056,Mistral Table,Vegan,Riverside,45.290866,-68.463951,4
+B0057,Dunmore Grill,Diner,South Mills,45.230249,-68.412819,4
+B0058,Norwood Grill,Diner,South Mills,45.236161,-68.426216,2
+B0059,Tindle Roastery,Cafe,Old Harbor,45.291532,-68.409253,4
+B0060,Brookvale Fish House,Seafood,Garden District,45.297023,-68.50341,4
+B0061,Calder Bistro,Thai,University Hill,45.218909,-68.545,1
+B0062,Calloway Pit,BBQ,South Mills,45.226731,-68.409258,4
+B0063,Halcyon Pit,BBQ,Old Harbor,45.27793,-68.420834,2
+B0064,Ashby Cantina,Mexican,Maple Heights,45.210103,-68.465327,4
+B0065,Larkspur Greens,Vegan,Riverside,45.296871,-68.452246,2
+B0066,Holloway Roastery,Cafe,University Hill,45.226353,-68.53353,1
+B0067,Dunmore Greens,Vegan,Riverside,45.289524,-68.485171,1
+B0068,Ashby Taqueria,Mexican,Maple Heights,45.226645,-68.464351,2
+B0069,Holloway Pizza Co.,Pizza,University Hill,45.234266,-68.518446,3
+B0070,Thornwood Coffee House,Cafe,University Hill,45.229637,-68.52747,3
+B0071,Larkspur Kitchen,Vegan,Riverside,45.31079,-68.462646,2
+B0072,Calder Cafe,Cafe,University Hill,45.231163,-68.519115,1
+B0073,Larkspur BBQ,BBQ,South Mills,45.234613,-68.410016,2
+B0074,Fennwick Luncheonette,Diner,South Mills,45.224774,-68.420115,3
+B0075,Brightwater Catch,Seafood,South Mills,45.223458,-68.43471,1
+B0076,Halcyon Bistro,Thai,Riverside,45.301052,-68.466178,2
+B0077,Brightwater Thai Kitchen,Thai,Riverside,45.302583,-68.484375,3
+B0078,Brookvale Pizzeria,Pizza,University Hill,45.24482,-68.515451,1
+B0079,Linden Pizzeria,Pizza,University Hill,45.244727,-68.503351,2
+B0080,Marlowe Table,Vegan,University Hill,45.235307,-68.530995,4
+B0081,Linden Trattoria,Italian,Old Harbor,45.269962,-68.409042,2
+B0082,Wexford Omakase,Sushi,Garden District,45.296429,-68.53066,1
+B0083,Tindle Pit,BBQ,South Mills,45.22403,-68.42384,3
+B0084,Holloway Table,Vegan,Old Harbor,45.266243,-68.410679,3
+B0085,Pemberton Trattoria,Italian,Garden District,45.281542,-68.545,4
+B0086,Mistral Roastery,Cafe,University Hill,45.205,-68.52851,3
+B0087,Esten Sushi Bar,Sushi,Riverside,45.295893,-68.480743,3
+B0088,Linden Bistro,Thai,University Hill,45.229793,-68.526288,1
+B0089,Gravelle House,Thai,Maple Heights,45.207685,-68.480602,1
+B0090,Dunmore Oyster Bar,Seafood,Old Harbor,45.266185,-68.412993,2
+B0091,Larkspur Cafe,Cafe,University Hill,45.228709,-68.516901,1
+B0092,Thornwood Diner,Diner,Maple Heights,45.222136,-68.471002,1
+B0093,Dunmore Izakaya,Sushi,Riverside,45.313322,-68.478101,3
+B0094,Esten Cantina,Mexican,Garden District,45.286491,-68.539689,4
+B0095,Pemberton Kitchen,Vegan,Old Harbor,45.267425,-68.418826,4
+B0096,Marlowe Trattoria,Italian,Garden District,45.278161,-68.51761,4
+B0097,Holloway Kitchen,Vegan,Riverside,45.299427,-68.480869,1
+B0098,Mistral Pizza Co.,Pizza,University Hill,45.233903,-68.51633,3
+B0099,Wexford Diner,Diner,Maple Heights,45.238319,-68.459374,1
+B0100,Calloway Kitchen,Vegan,Riverside,45.292504,-68.48204,3
+B0101,Gravelle Roastery,Cafe,University Hill,45.231009,-68.539675,1
+B0102,Pemberton Oyster Bar,Seafood,Garden District,45.299307,-68.544333,4
+B0103,Brookvale Diner,Diner,South Mills,45.229663,-68.405,2
+B0104,Esten Sushi Bar,Sushi,Maple Heights,45.230105,-68.485903,1
+B0105,Mistral House,Thai,University Hill,45.214103,-68.51982,2
+B0106,Tindle Thai Kitchen,Thai,Riverside,45.293253,-68.485796,1
+B0107,Esten House,Thai,University Hill,45.234264,-68.522307,1
+B0108,Thornwood Slice,Pizza,University Hill,45.228093,-68.535558,1
+B0109,Ashby Sushi Bar,Sushi,Maple Heights,45.216885,-68.477701,1
+B0110,Fennwick Osteria,Italian,Garden District,45.291543,-68.540561,3
+B0111,Brightwater Oyster Bar,Seafood,Garden District,45.284116,-68.514176,4
+B0112,Dunmore Osteria,Italian,Garden District,45.294512,-68.538269,3
+B0113,Fennwick Smokehouse,BBQ,South Mills,45.212215,-68.440689,2
+B0114,Pemberton Cocina,Mexican,Maple Heights,45.228969,-68.474228,1
+B0115,Brookvale Luncheonette,Diner,Maple Heights,45.216779,-68.469558,2
+B0116,Ashby Izakaya,Sushi,Old Harbor,45.279122,-68.408166,4
+B0117,Wexford Catch,Seafood,Old Harbor,45.27372,-68.418321,2
+B0118,Larkspur Fish House,Seafood,Old Harbor,45.283107,-68.431991,4
+B0119,Fennwick Luncheonette,Diner,Old Harbor,45.258607,-68.417297,4
+B0120,Dunmore Diner,Diner,Maple Heights,45.236415,-68.468304,3
+B0121,Halcyon Catch,Seafood,Old Harbor,45.278683,-68.423289,2
+B0122,Fennwick Greens,Vegan,Garden District,45.296019,-68.517731,4
+B0123,Holloway Fish House,Seafood,Old Harbor,45.277462,-68.426387,2
+B0124,Thornwood Roastery,Cafe,University Hill,45.250435,-68.517295,2
+B0125,Tindle Diner,Diner,South Mills,45.215923,-68.423958,3
+B0126,Calder Catch,Seafood,Old Harbor,45.279297,-68.418268,1
+B0127,Calder Cucina,Italian,Old Harbor,45.278828,-68.418362,3
+B0128,Marlowe Omakase,Sushi,Old Harbor,45.273333,-68.438509,3
+B0129,Wexford Diner,Diner,South Mills,45.221212,-68.409444,4
+B0130,Brightwater Luncheonette,Diner,Maple Heights,45.2224,-68.463617,2
+B0131,Linden Cantina,Mexican,Maple Heights,45.220227,-68.470638,1
+B0132,Dunmore Thai Kitchen,Thai,Riverside,45.286329,-68.477789,2
+B0133,Fennwick Pizza Co.,Pizza,University Hill,45.240167,-68.523636,2
+B0134,Pemberton BBQ,BBQ,South Mills,45.219779,-68.441863,4
+B0135,Dunmore Coffee House,Cafe,Old Harbor,45.283334,-68.4125,4
+B0136,Brightwater Pizzeria,Pizza,University Hill,45.242112,-68.506709,4
+B0137,Fennwick Diner,Diner,Maple Heights,45.22664,-68.478356,4
+B0138,Calloway Taqueria,Mexican,Maple Heights,45.22201,-68.460795,2
+B0139,Larkspur Kitchen,Vegan,Garden District,45.267089,-68.533352,4
+B0140,Marlowe Sushi Bar,Sushi,Garden District,45.30159,-68.537684,1
+B0141,Brightwater Fish House,Seafood,Old Harbor,45.287037,-68.409913,1
+B0142,Mistral Kitchen,Vegan,Riverside,45.304568,-68.48983,3
+B0143,Holloway BBQ,BBQ,Garden District,45.28675,-68.545,3
+B0144,Calloway Grill,Diner,Maple Heights,45.234447,-68.467105,4
+B0145,Larkspur Taqueria,Mexican,Maple Heights,45.247058,-68.462371,4
+B0146,Pemberton Kitchen,Vegan,Riverside,45.297692,-68.470565,1
+B0147,Norwood Pit,BBQ,Garden District,45.297508,-68.500788,4
+B0148,Pemberton Cafe,Cafe,Garden District,45.292927,-68.53107,4
+B0149,Gravelle Grill,Diner,Garden District,45.309183,-68.544319,4
+B0150,Calloway Oyster Bar,Seafood,Old Harbor,45.273515,-68.417824,4
+B0151,Norwood BBQ,BBQ,South Mills,45.228841,-68.428769,3
+B0152,Brightwater Grill,Diner,Garden District,45.280811,-68.529135,4
+B0153,Norwood Kitchen,Vegan,Riverside,45.295063,-68.474302,3
+B0154,Brightwater Bistro,Thai,Riverside,45.28658,-68.495236,2
+B0155,Wexford Luncheonette,Diner,Maple Heights,45.227689,-68.476949,2
+B0156,Dunmore Taqueria,Mexican,South Mills,45.225785,-68.432044,1
+B0157,Tindle Smokehouse,BBQ,Old Harbor,45.281364,-68.413474,4
+B0158,Wexford Omakase,Sushi,Riverside,45.303311,-68.43839,4
+B0159,Thornwood Kitchen,Vegan,Riverside,45.290709,-68.459686,2
+B0160,Halcyon Coffee House,Cafe,Old Harbor,45.278832,-68.41905,4
+B0161,Marlowe Fish House,Seafood,Old Harbor,45.27376,-68.409669,1
+B0162,Holloway Diner,Diner,South Mills,45.227035,-68.424403,1
+B0163,Calder Izakaya,Sushi,Riverside,45.306911,-68.465168,2
+B0164,Marlowe Taqueria,Mexican,Maple Heights,45.223426,-68.472898,1
+B0165,Marlowe Pit,BBQ,Maple Heights,45.215086,-68.450672,1
+B0166,Norwood Table,Vegan,Riverside,45.304119,-68.455108,2
+B0167,Larkspur Cucina,Italian,Garden District,45.293603,-68.525172,4
+B0168,Mistral Cantina,Mexican,Maple Heights,45.228448,-68.478584,3
+B0169,Wexford Kitchen,Vegan,Old Harbor,45.268218,-68.411255,3
+B0170,Norwood Cantina,Mexican,Maple Heights,45.205117,-68.452796,3
+B0171,Mistral Oyster Bar,Seafood,Old Harbor,45.254889,-68.42076,1
+B0172,Dunmore Greens,Vegan,University Hill,45.242553,-68.527795,1
+B0173,Pemberton Grill,Diner,Garden District,45.297968,-68.534651,3
+B0174,Wexford Roastery,Cafe,University Hill,45.239444,-68.521992,1
+B0175,Esten Grill,Diner,South Mills,45.215297,-68.405,1
+B0176,Gravelle House,Thai,University Hill,45.228184,-68.535505,4
+B0177,Mistral Osteria,Italian,Old Harbor,45.28536,-68.431453,2
+B0178,Marlowe Cucina,Italian,University Hill,45.230457,-68.5225,1
+B0179,Gravelle Cocina,Mexican,Maple Heights,45.233184,-68.468579,4
+B0180,Norwood Oyster Bar,Seafood,Old Harbor,45.265127,-68.425086,4
+B0181,Esten Cafe,Cafe,Old Harbor,45.271011,-68.411678,4
+B0182,Gravelle Osteria,Italian,Garden District,45.282331,-68.520213,3
+B0183,Thornwood Smokehouse,BBQ,Old Harbor,45.287293,-68.418311,4
+B0184,Linden Catch,Seafood,Old Harbor,45.279494,-68.4137,3
+B0185,Brookvale Pit,BBQ,South Mills,45.229461,-68.414099,3
+B0186,Thornwood Trattoria,Italian,Garden District,45.289718,-68.528903,3
+B0187,Gravelle House,Thai,Riverside,45.290084,-68.471353,2
+B0188,Ashby Pit,BBQ,South Mills,45.211756,-68.407474,4
+B0189,Dunmore Oyster Bar,Seafood,Old Harbor,45.274909,-68.408913,3
+B0190,Gravelle Cafe,Cafe,University Hill,45.246332,-68.531033,2
+B0191,Brookvale Cocina,Mexican,South Mills,45.2287,-68.434291,3
+B0192,Ashby Kitchen,Vegan,South Mills,45.223816,-68.405,2
+B0193,Larkspur Cocina,Mexican,Maple Heights,45.235569,-68.454606,2
+B0194,Fennwick Izakaya,Sushi,Old Harbor,45.27578,-68.43852,2
+B0195,Mistral Bistro,Thai,Riverside,45.290859,-68.484829,2
+B0196,Brightwater Sushi Bar,Sushi,Riverside,45.293228,-68.4908,3
+B0197,Brightwater Taqueria,Mexican,Maple Heights,45.224111,-68.462363,4
+B0198,Linden Luncheonette,Diner,Maple Heights,45.230638,-68.462078,2
+B0199,Calloway Sushi Bar,Sushi,Old Harbor,45.288846,-68.417417,3
+B0200,Linden Osteria,Italian,Old Harbor,45.266701,-68.41002,4

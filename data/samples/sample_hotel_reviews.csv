@@ -1,0 +1,501 @@
+review_id,hotel_id,date,rating,review_text,traveler_type,platform
+0001,H007,2025-01-04,5,We loved this hotel. Breakfast was delicious and fresh. Excellent value for the price.,group,Booking
+0002,H004,2025-07-19,3,"Comfortable bed, but the bathroom needed cleaning.",business,Expedia
+0003,H004,2025-01-17,5,We loved this hotel. Excellent value for the price. Staff were friendly and helpful.,couple,TripAdvisor
+0004,H002,2025-11-28,5,Highly recommend this place. Check-in was fast and smooth. The view was beautiful.,couple,Expedia
+0005,H005,2025-06-13,5,Would absolutely return. Great location near everything. The bed was very comfortable.,solo,Expedia
+0006,H003,2025-11-24,5,Would absolutely return. Check-in was fast and smooth. Excellent value for the price.,group,Booking
+0007,H004,2025-05-10,4,A wonderful experience from start to finish. Breakfast was delicious and fresh. Quiet room and a good night's sleep.,solo,Expedia
+0008,H008,2025-11-07,4,Highly recommend this place. Great location near everything. Staff were friendly and helpful.,couple,TripAdvisor
+0009,H004,2025-02-27,5,Highly recommend this place. Check-in was fast and smooth. The bed was very comfortable.,family,Google
+0010,H004,2025-01-02,4,A wonderful experience from start to finish. Staff were friendly and helpful. Quiet room and a good night's sleep.,solo,Google
+0011,H007,2025-12-23,2,A frustrating experience. Overpriced for what you get. The walls were thin and the room was noisy.,family,Booking
+0012,H007,2025-02-25,2,Would not stay here again. The front desk staff were rude. Housekeeping never came.,solo,Booking
+0013,H002,2025-09-08,5,A wonderful experience from start to finish. Great location near everything. Quiet room and a good night's sleep.,group,TripAdvisor
+0014,H007,2025-08-20,4,Would absolutely return. Quiet room and a good night's sleep. Great location near everything.,solo,Expedia
+0015,H004,2025-05-25,1,Very let down by this hotel. The bathroom was not clean. Housekeeping never came.,solo,Google
+0016,H002,2025-05-15,5,Highly recommend this place. Check-in was fast and smooth. The bed was very comfortable.,couple,TripAdvisor
+0017,H002,2025-06-18,3,"Clean room, but the breakfast was disappointing.",family,Google
+0018,H003,2025-07-23,5,Highly recommend this place. The bed was very comfortable. Staff were friendly and helpful.,solo,Expedia
+0019,H008,2025-06-18,4,A wonderful experience from start to finish. The room was spotless and clean. The bed was very comfortable.,solo,Expedia
+0020,H001,2025-10-23,4,Would absolutely return. Excellent value for the price. Quiet room and a good night's sleep.,business,TripAdvisor
+0021,H007,2025-05-25,2,A frustrating experience. Housekeeping never came. Housekeeping never came.,group,Google
+0022,H005,2025-08-08,4,A wonderful experience from start to finish. Quiet room and a good night's sleep. The room was spotless and clean.,solo,TripAdvisor
+0023,H007,2025-11-22,4,Highly recommend this place. Great location near everything. Quiet room and a good night's sleep.,family,Booking
+0024,H001,2025-07-19,3,"Friendly staff, although check-in was slow.",solo,Google
+0025,H001,2025-08-06,5,We loved this hotel. Excellent value for the price. Breakfast was delicious and fresh.,family,Expedia
+0026,H007,2025-06-11,1,Far below expectations. Overpriced for what you get. The bathroom was not clean.,business,Expedia
+0027,H001,2025-01-24,4,We loved this hotel. The bed was very comfortable. Staff were friendly and helpful.,business,Booking
+0028,H001,2025-04-07,4,Would absolutely return. Great location near everything. The bed was very comfortable.,family,Expedia
+0029,H004,2025-11-04,4,A wonderful experience from start to finish. Check-in was fast and smooth. Breakfast was delicious and fresh.,family,Booking
+0030,H002,2025-03-10,4,Would absolutely return. The room was spotless and clean. Check-in was fast and smooth.,group,Expedia
+0031,H004,2025-07-23,5,Fantastic stay overall. The bed was very comfortable. Staff were friendly and helpful.,couple,Booking
+0032,H001,2025-10-26,5,We loved this hotel. The view was beautiful. Excellent value for the price.,couple,Booking
+0033,H006,2025-09-21,4,Fantastic stay overall. Excellent value for the price. Quiet room and a good night's sleep.,business,Expedia
+0034,H008,2025-06-21,5,Highly recommend this place. Great location near everything. Excellent value for the price.,family,TripAdvisor
+0035,H008,2025-10-26,4,A wonderful experience from start to finish. Excellent value for the price. Check-in was fast and smooth.,couple,Google
+0036,H008,2025-02-09,5,Exceeded our expectations. Quiet room and a good night's sleep. Excellent value for the price.,couple,Booking
+0037,H006,2025-08-28,2,Would not stay here again. The air conditioning did not work. The walls were thin and the room was noisy.,couple,TripAdvisor
+0038,H005,2025-06-09,5,Would absolutely return. The room was spotless and clean. The view was beautiful.,family,Booking
+0039,H007,2025-04-24,4,A wonderful experience from start to finish. The view was beautiful. The bed was very comfortable.,solo,Expedia
+0040,H001,2025-08-26,5,Fantastic stay overall. Check-in was fast and smooth. The bed was very comfortable.,solo,Google
+0041,H006,2025-05-22,3,"Standard hotel, met basic expectations.",group,TripAdvisor
+0042,H006,2025-07-24,4,We loved this hotel. Quiet room and a good night's sleep. Check-in was fast and smooth.,couple,TripAdvisor
+0043,H004,2025-04-04,5,We loved this hotel. Staff were friendly and helpful. The view was beautiful.,family,Google
+0044,H008,2025-04-24,5,We loved this hotel. The view was beautiful. Check-in was fast and smooth.,business,Google
+0045,H006,2025-05-08,3,"Clean room, but the breakfast was disappointing.",couple,Booking
+0046,H003,2025-12-18,5,We loved this hotel. The room was spotless and clean. The room was spotless and clean.,group,TripAdvisor
+0047,H008,2025-12-05,5,Fantastic stay overall. The room was spotless and clean. Check-in was fast and smooth.,solo,Expedia
+0048,H003,2025-08-11,4,Fantastic stay overall. Check-in was fast and smooth. Quiet room and a good night's sleep.,business,Booking
+0049,H002,2025-07-16,5,Would absolutely return. The room was spotless and clean. Great location near everything.,family,TripAdvisor
+0050,H002,2025-02-08,5,Would absolutely return. Excellent value for the price. The bed was very comfortable.,group,Expedia
+0051,H005,2025-08-15,5,Would absolutely return. Excellent value for the price. Check-in was fast and smooth.,group,Booking
+0052,H002,2025-10-24,5,Exceeded our expectations. The bed was very comfortable. Check-in was fast and smooth.,business,Google
+0053,H002,2025-04-06,2,Would not stay here again. The room was dirty and smelled musty. Overpriced for what you get.,solo,Expedia
+0054,H004,2025-05-02,4,We loved this hotel. Check-in was fast and smooth. Quiet room and a good night's sleep.,business,Google
+0055,H004,2025-05-26,5,A wonderful experience from start to finish. Staff were friendly and helpful. The view was beautiful.,family,Google
+0056,H003,2025-05-27,5,Fantastic stay overall. The room was spotless and clean. Great location near everything.,couple,TripAdvisor
+0057,H008,2025-08-04,4,Highly recommend this place. Check-in was fast and smooth. Excellent value for the price.,couple,Expedia
+0058,H001,2025-08-03,5,A wonderful experience from start to finish. Breakfast was delicious and fresh. Check-in was fast and smooth.,business,Booking
+0059,H001,2025-04-22,5,Highly recommend this place. Check-in was fast and smooth. The room was spotless and clean.,family,Expedia
+0060,H008,2025-09-21,3,"Comfortable bed, but the bathroom needed cleaning.",family,Expedia
+0061,H008,2025-11-27,5,Fantastic stay overall. Quiet room and a good night's sleep. Breakfast was delicious and fresh.,solo,TripAdvisor
+0062,H002,2025-06-22,3,"Clean room, but the breakfast was disappointing.",couple,Expedia
+0063,H005,2025-12-16,5,Highly recommend this place. Excellent value for the price. The view was beautiful.,business,Expedia
+0064,H005,2025-02-11,5,We loved this hotel. Staff were friendly and helpful. Excellent value for the price.,group,Booking
+0065,H008,2025-11-28,5,A wonderful experience from start to finish. The room was spotless and clean. The bed was very comfortable.,group,TripAdvisor
+0066,H008,2025-10-25,5,Highly recommend this place. Quiet room and a good night's sleep. The room was spotless and clean.,family,TripAdvisor
+0067,H005,2025-09-05,4,A wonderful experience from start to finish. Quiet room and a good night's sleep. Staff were friendly and helpful.,business,Google
+0068,H005,2025-12-06,5,Would absolutely return. The room was spotless and clean. The view was beautiful.,solo,Booking
+0069,H002,2025-04-27,3,"Standard hotel, met basic expectations.",business,Google
+0070,H005,2025-08-23,1,Save your money and stay elsewhere. The bathroom was not clean. Overpriced for what you get.,solo,Expedia
+0071,H003,2025-04-15,5,A wonderful experience from start to finish. The bed was very comfortable. The view was beautiful.,family,Booking
+0072,H007,2025-05-25,1,Far below expectations. Housekeeping never came. The bathroom was not clean.,business,TripAdvisor
+0073,H008,2025-12-10,4,Exceeded our expectations. Quiet room and a good night's sleep. The view was beautiful.,solo,TripAdvisor
+0074,H007,2025-06-18,3,"Standard hotel, met basic expectations.",couple,Google
+0075,H007,2025-12-08,2,Would not stay here again. Overpriced for what you get. The room was dirty and smelled musty.,couple,Expedia
+0076,H007,2025-12-26,2,A frustrating experience. The front desk staff were rude. The air conditioning did not work.,business,Google
+0077,H006,2025-09-19,5,Fantastic stay overall. Quiet room and a good night's sleep. Staff were friendly and helpful.,group,Expedia
+0078,H003,2025-01-24,4,A wonderful experience from start to finish. Great location near everything. Staff were friendly and helpful.,solo,TripAdvisor
+0079,H007,2025-06-20,4,Highly recommend this place. Staff were friendly and helpful. Breakfast was delicious and fresh.,group,Expedia
+0080,H008,2025-06-21,5,Would absolutely return. The room was spotless and clean. Staff were friendly and helpful.,family,TripAdvisor
+0081,H002,2025-04-24,5,A wonderful experience from start to finish. Staff were friendly and helpful. Staff were friendly and helpful.,solo,Google
+0082,H001,2025-12-10,5,Fantastic stay overall. Breakfast was delicious and fresh. The room was spotless and clean.,couple,TripAdvisor
+0083,H003,2025-06-14,2,Would not stay here again. Housekeeping never came. Overpriced for what you get.,group,Google
+0084,H002,2025-03-06,4,Would absolutely return. Excellent value for the price. The bed was very comfortable.,solo,Google
+0085,H005,2025-04-15,3,"Standard hotel, met basic expectations.",couple,Booking
+0086,H003,2025-08-10,2,Disappointing stay. The air conditioning did not work. Breakfast was cold and limited.,group,TripAdvisor
+0087,H005,2025-11-14,3,"Standard hotel, met basic expectations.",couple,Google
+0088,H008,2025-07-28,5,Fantastic stay overall. The bed was very comfortable. Excellent value for the price.,group,TripAdvisor
+0089,H005,2025-10-10,2,Disappointing stay. Overpriced for what you get. The bathroom was not clean.,business,Booking
+0090,H008,2025-10-24,5,We loved this hotel. The bed was very comfortable. Breakfast was delicious and fresh.,family,Google
+0091,H003,2025-10-09,5,Highly recommend this place. Staff were friendly and helpful. The room was spotless and clean.,couple,Expedia
+0092,H006,2025-01-19,5,Highly recommend this place. Great location near everything. Staff were friendly and helpful.,couple,TripAdvisor
+0093,H003,2025-12-14,4,Exceeded our expectations. Great location near everything. The view was beautiful.,couple,TripAdvisor
+0094,H008,2025-03-09,4,We loved this hotel. Breakfast was delicious and fresh. Staff were friendly and helpful.,solo,Booking
+0095,H004,2025-03-25,5,Highly recommend this place. Excellent value for the price. The view was beautiful.,couple,Booking
+0096,H005,2025-07-01,5,Would absolutely return. Staff were friendly and helpful. Quiet room and a good night's sleep.,couple,TripAdvisor
+0097,H006,2025-10-13,5,Fantastic stay overall. The bed was very comfortable. Quiet room and a good night's sleep.,business,TripAdvisor
+0098,H002,2025-10-08,2,Very let down by this hotel. The air conditioning did not work. The bathroom was not clean.,solo,Booking
+0099,H001,2025-03-02,3,"Comfortable bed, but the bathroom needed cleaning.",solo,Booking
+0100,H003,2025-02-08,5,A wonderful experience from start to finish. Quiet room and a good night's sleep. Breakfast was delicious and fresh.,group,Expedia
+0101,H003,2025-10-24,4,A wonderful experience from start to finish. Staff were friendly and helpful. Quiet room and a good night's sleep.,group,Expedia
+0102,H006,2025-05-02,3,"Good value, yet the walls were thin and noisy.",solo,Expedia
+0103,H006,2025-04-28,4,Fantastic stay overall. Breakfast was delicious and fresh. The view was beautiful.,couple,Booking
+0104,H004,2025-07-09,3,"Friendly staff, although check-in was slow.",solo,Booking
+0105,H001,2025-11-07,5,Fantastic stay overall. Breakfast was delicious and fresh. The bed was very comfortable.,family,Google
+0106,H004,2025-02-27,4,Would absolutely return. The bed was very comfortable. The bed was very comfortable.,couple,Google
+0107,H005,2025-10-01,5,Exceeded our expectations. Great location near everything. The view was beautiful.,couple,Google
+0108,H001,2025-02-22,3,"Clean room, but the breakfast was disappointing.",business,TripAdvisor
+0109,H006,2025-04-19,5,Fantastic stay overall. Great location near everything. Check-in was fast and smooth.,business,Google
+0110,H002,2025-12-14,4,Highly recommend this place. Staff were friendly and helpful. Quiet room and a good night's sleep.,solo,TripAdvisor
+0111,H002,2025-09-19,5,A wonderful experience from start to finish. The view was beautiful. The bed was very comfortable.,group,Booking
+0112,H005,2025-12-26,3,"Standard hotel, met basic expectations.",business,Booking
+0113,H007,2025-08-28,5,A wonderful experience from start to finish. Staff were friendly and helpful. Quiet room and a good night's sleep.,solo,Booking
+0114,H003,2025-02-11,5,Fantastic stay overall. Great location near everything. Check-in was fast and smooth.,group,TripAdvisor
+0115,H005,2025-07-20,3,"Standard hotel, met basic expectations.",group,Expedia
+0116,H002,2025-02-26,1,Very let down by this hotel. Housekeeping never came. The walls were thin and the room was noisy.,solo,Expedia
+0117,H006,2025-04-14,2,A frustrating experience. Overpriced for what you get. Overpriced for what you get.,business,TripAdvisor
+0118,H005,2025-07-11,5,We loved this hotel. Great location near everything. Quiet room and a good night's sleep.,business,Booking
+0119,H007,2025-02-03,5,Fantastic stay overall. Breakfast was delicious and fresh. Great location near everything.,group,Booking
+0120,H006,2025-10-18,4,Highly recommend this place. Staff were friendly and helpful. Excellent value for the price.,couple,Expedia
+0121,H005,2025-12-02,5,Would absolutely return. Check-in was fast and smooth. Breakfast was delicious and fresh.,business,Google
+0122,H008,2025-03-22,4,Exceeded our expectations. Staff were friendly and helpful. Breakfast was delicious and fresh.,group,TripAdvisor
+0123,H005,2025-02-25,1,Save your money and stay elsewhere. The walls were thin and the room was noisy. Overpriced for what you get.,group,Booking
+0124,H005,2025-10-22,4,Fantastic stay overall. Great location near everything. Check-in was fast and smooth.,couple,TripAdvisor
+0125,H003,2025-06-01,4,Exceeded our expectations. Excellent value for the price. Staff were friendly and helpful.,family,Booking
+0126,H004,2025-02-24,2,A frustrating experience. Overpriced for what you get. The air conditioning did not work.,couple,Google
+0127,H006,2025-06-10,4,Would absolutely return. Staff were friendly and helpful. The room was spotless and clean.,family,Google
+0128,H002,2025-10-02,5,We loved this hotel. Quiet room and a good night's sleep. Excellent value for the price.,solo,Expedia
+0129,H004,2025-07-09,5,Would absolutely return. Staff were friendly and helpful. Breakfast was delicious and fresh.,solo,Booking
+0130,H008,2025-05-22,4,Would absolutely return. Check-in was fast and smooth. The room was spotless and clean.,family,Expedia
+0131,H001,2025-10-02,4,Exceeded our expectations. Check-in was fast and smooth. The bed was very comfortable.,family,TripAdvisor
+0132,H002,2025-05-11,5,Fantastic stay overall. Quiet room and a good night's sleep. Excellent value for the price.,family,Google
+0133,H004,2025-07-18,5,Would absolutely return. The view was beautiful. Breakfast was delicious and fresh.,business,Expedia
+0134,H007,2025-12-02,1,Disappointing stay. The air conditioning did not work. Check-in was painfully slow.,couple,Expedia
+0135,H007,2025-10-13,4,We loved this hotel. Staff were friendly and helpful. Excellent value for the price.,business,TripAdvisor
+0136,H008,2025-03-26,5,Highly recommend this place. Breakfast was delicious and fresh. Staff were friendly and helpful.,solo,Booking
+0137,H007,2025-04-14,4,Would absolutely return. Staff were friendly and helpful. Excellent value for the price.,couple,TripAdvisor
+0138,H003,2025-04-11,4,Fantastic stay overall. The view was beautiful. Staff were friendly and helpful.,group,Google
+0139,H003,2025-06-12,3,"Good value, yet the walls were thin and noisy.",business,Google
+0140,H003,2025-05-07,1,Save your money and stay elsewhere. The front desk staff were rude. Check-in was painfully slow.,family,Expedia
+0141,H008,2025-08-25,5,Highly recommend this place. Breakfast was delicious and fresh. Breakfast was delicious and fresh.,family,Expedia
+0142,H008,2025-02-16,2,Very let down by this hotel. The bathroom was not clean. The bathroom was not clean.,group,Booking
+0143,H002,2025-06-17,5,We loved this hotel. Quiet room and a good night's sleep. Quiet room and a good night's sleep.,business,Booking
+0144,H005,2025-06-27,5,Fantastic stay overall. Staff were friendly and helpful. The view was beautiful.,solo,Expedia
+0145,H001,2025-10-18,5,A wonderful experience from start to finish. The bed was very comfortable. Breakfast was delicious and fresh.,group,Expedia
+0146,H001,2025-09-05,5,A wonderful experience from start to finish. Staff were friendly and helpful. Breakfast was delicious and fresh.,business,Google
+0147,H008,2025-01-08,2,A frustrating experience. Housekeeping never came. Housekeeping never came.,group,Google
+0148,H005,2025-06-12,4,A wonderful experience from start to finish. Excellent value for the price. Breakfast was delicious and fresh.,group,Booking
+0149,H006,2025-11-21,4,Fantastic stay overall. Breakfast was delicious and fresh. Staff were friendly and helpful.,group,Expedia
+0150,H003,2025-05-09,1,Far below expectations. Check-in was painfully slow. The front desk staff were rude.,couple,TripAdvisor
+0151,H007,2025-11-23,4,Exceeded our expectations. Staff were friendly and helpful. Check-in was fast and smooth.,group,Expedia
+0152,H006,2025-11-26,5,Exceeded our expectations. The view was beautiful. Staff were friendly and helpful.,solo,TripAdvisor
+0153,H005,2025-01-12,2,Would not stay here again. The walls were thin and the room was noisy. Breakfast was cold and limited.,solo,Google
+0154,H003,2025-04-05,4,Fantastic stay overall. Check-in was fast and smooth. Staff were friendly and helpful.,group,Booking
+0155,H003,2025-11-11,3,"Did the job, no complaints and no highlights.",solo,Google
+0156,H003,2025-03-06,1,Very let down by this hotel. The air conditioning did not work. The room was dirty and smelled musty.,solo,TripAdvisor
+0157,H004,2025-11-24,4,A wonderful experience from start to finish. Check-in was fast and smooth. Quiet room and a good night's sleep.,family,Google
+0158,H008,2025-05-26,5,Exceeded our expectations. Breakfast was delicious and fresh. Quiet room and a good night's sleep.,solo,TripAdvisor
+0159,H007,2025-07-17,2,Would not stay here again. The walls were thin and the room was noisy. The front desk staff were rude.,couple,Booking
+0160,H006,2025-11-16,5,Would absolutely return. Staff were friendly and helpful. The view was beautiful.,business,TripAdvisor
+0161,H003,2025-02-25,5,We loved this hotel. Quiet room and a good night's sleep. The view was beautiful.,family,Expedia
+0162,H008,2025-02-08,4,We loved this hotel. The room was spotless and clean. Excellent value for the price.,business,Expedia
+0163,H004,2025-09-12,4,A wonderful experience from start to finish. Staff were friendly and helpful. Breakfast was delicious and fresh.,family,Booking
+0164,H006,2025-06-04,4,Exceeded our expectations. Great location near everything. The room was spotless and clean.,couple,Expedia
+0165,H003,2025-12-27,3,"Standard hotel, met basic expectations.",solo,Booking
+0166,H005,2025-02-01,4,Exceeded our expectations. Great location near everything. The view was beautiful.,group,Expedia
+0167,H005,2025-02-25,5,Exceeded our expectations. Check-in was fast and smooth. Staff were friendly and helpful.,business,Google
+0168,H008,2025-07-21,4,Fantastic stay overall. Staff were friendly and helpful. Quiet room and a good night's sleep.,group,Booking
+0169,H004,2025-11-17,3,"Clean room, but the breakfast was disappointing.",couple,Expedia
+0170,H006,2025-01-20,3,"Good value, yet the walls were thin and noisy.",group,Expedia
+0171,H002,2025-03-22,5,Would absolutely return. Breakfast was delicious and fresh. Staff were friendly and helpful.,group,Booking
+0172,H008,2025-07-28,4,Fantastic stay overall. Excellent value for the price. Breakfast was delicious and fresh.,couple,Booking
+0173,H002,2025-06-26,2,Far below expectations. The walls were thin and the room was noisy. Check-in was painfully slow.,group,TripAdvisor
+0174,H006,2025-03-02,5,Would absolutely return. Breakfast was delicious and fresh. Great location near everything.,solo,Expedia
+0175,H003,2025-11-06,5,Fantastic stay overall. Quiet room and a good night's sleep. The room was spotless and clean.,couple,Google
+0176,H004,2025-01-26,5,Fantastic stay overall. Breakfast was delicious and fresh. Check-in was fast and smooth.,group,Expedia
+0177,H005,2025-09-16,4,Fantastic stay overall. The bed was very comfortable. Check-in was fast and smooth.,couple,Booking
+0178,H005,2025-11-11,5,Fantastic stay overall. Breakfast was delicious and fresh. Excellent value for the price.,solo,Expedia
+0179,H003,2025-07-11,3,"Standard hotel, met basic expectations.",solo,TripAdvisor
+0180,H002,2025-09-09,1,Very let down by this hotel. Overpriced for what you get. Check-in was painfully slow.,solo,Google
+0181,H006,2025-09-10,4,Fantastic stay overall. Staff were friendly and helpful. Breakfast was delicious and fresh.,couple,TripAdvisor
+0182,H007,2025-08-20,5,Exceeded our expectations. Quiet room and a good night's sleep. Breakfast was delicious and fresh.,solo,Booking
+0183,H006,2025-12-28,4,Would absolutely return. Excellent value for the price. Check-in was fast and smooth.,business,Booking
+0184,H007,2025-11-21,1,Far below expectations. Housekeeping never came. The front desk staff were rude.,business,Google
+0185,H008,2025-10-22,2,Disappointing stay. The front desk staff were rude. Check-in was painfully slow.,family,TripAdvisor
+0186,H001,2025-06-13,5,Would absolutely return. Great location near everything. Quiet room and a good night's sleep.,couple,TripAdvisor
+0187,H002,2025-08-25,5,Would absolutely return. Great location near everything. The view was beautiful.,couple,Expedia
+0188,H005,2025-06-21,1,Would not stay here again. Check-in was painfully slow. The room was dirty and smelled musty.,family,Expedia
+0189,H002,2025-09-13,5,We loved this hotel. Check-in was fast and smooth. Quiet room and a good night's sleep.,family,TripAdvisor
+0190,H004,2025-12-16,5,Fantastic stay overall. Great location near everything. Staff were friendly and helpful.,solo,Google
+0191,H002,2025-12-15,3,"An average stay, nothing special.",couple,Booking
+0192,H005,2025-09-18,4,We loved this hotel. Great location near everything. Great location near everything.,couple,Google
+0193,H003,2025-02-07,4,Exceeded our expectations. Quiet room and a good night's sleep. The room was spotless and clean.,couple,TripAdvisor
+0194,H003,2025-08-26,1,Save your money and stay elsewhere. Check-in was painfully slow. Check-in was painfully slow.,couple,Expedia
+0195,H008,2025-12-24,5,Would absolutely return. Excellent value for the price. Excellent value for the price.,group,Booking
+0196,H002,2025-03-11,4,A wonderful experience from start to finish. Quiet room and a good night's sleep. The view was beautiful.,couple,Google
+0197,H003,2025-09-21,5,Exceeded our expectations. Excellent value for the price. The view was beautiful.,business,Booking
+0198,H005,2025-09-05,5,Exceeded our expectations. Great location near everything. Breakfast was delicious and fresh.,family,TripAdvisor
+0199,H002,2025-09-10,5,We loved this hotel. The bed was very comfortable. The view was beautiful.,couple,Google
+0200,H002,2025-11-10,2,Save your money and stay elsewhere. The front desk staff were rude. The front desk staff were rude.,family,TripAdvisor
+0201,H001,2025-10-02,4,Fantastic stay overall. The room was spotless and clean. Check-in was fast and smooth.,family,Expedia
+0202,H001,2025-10-21,4,A wonderful experience from start to finish. The view was beautiful. Check-in was fast and smooth.,couple,Expedia
+0203,H007,2025-04-26,3,"Comfortable bed, but the bathroom needed cleaning.",solo,Booking
+0204,H003,2025-12-02,1,A frustrating experience. Overpriced for what you get. The air conditioning did not work.,solo,Google
+0205,H003,2025-06-20,4,We loved this hotel. Breakfast was delicious and fresh. Breakfast was delicious and fresh.,solo,Google
+0206,H002,2025-06-17,1,Far below expectations. The walls were thin and the room was noisy. The air conditioning did not work.,business,TripAdvisor
+0207,H003,2025-08-08,5,Fantastic stay overall. The room was spotless and clean. Check-in was fast and smooth.,solo,Expedia
+0208,H003,2025-04-28,5,We loved this hotel. Breakfast was delicious and fresh. The bed was very comfortable.,family,Expedia
+0209,H008,2025-09-15,4,We loved this hotel. Quiet room and a good night's sleep. The room was spotless and clean.,business,Expedia
+0210,H004,2025-09-15,5,Exceeded our expectations. Breakfast was delicious and fresh. The room was spotless and clean.,business,TripAdvisor
+0211,H008,2025-08-20,3,"Comfortable bed, but the bathroom needed cleaning.",group,Booking
+0212,H003,2025-02-14,3,"Comfortable bed, but the bathroom needed cleaning.",couple,Expedia
+0213,H007,2025-06-02,2,Disappointing stay. Housekeeping never came. The walls were thin and the room was noisy.,couple,TripAdvisor
+0214,H008,2025-02-13,4,Would absolutely return. Check-in was fast and smooth. Staff were friendly and helpful.,family,Booking
+0215,H006,2025-07-12,1,Save your money and stay elsewhere. Breakfast was cold and limited. The front desk staff were rude.,family,Expedia
+0216,H001,2025-09-02,3,"The location was great, but the room was dated.",family,TripAdvisor
+0217,H008,2025-08-17,4,Exceeded our expectations. The view was beautiful. Great location near everything.,couple,TripAdvisor
+0218,H005,2025-03-13,2,Save your money and stay elsewhere. Breakfast was cold and limited. Housekeeping never came.,group,Expedia
+0219,H005,2025-12-19,2,A frustrating experience. The room was dirty and smelled musty. Breakfast was cold and limited.,couple,Booking
+0220,H005,2025-07-19,5,Highly recommend this place. The room was spotless and clean. Quiet room and a good night's sleep.,couple,Google
+0221,H008,2025-12-02,4,Exceeded our expectations. The view was beautiful. Excellent value for the price.,family,Google
+0222,H002,2025-01-19,1,Would not stay here again. The room was dirty and smelled musty. The air conditioning did not work.,couple,Expedia
+0223,H004,2025-03-14,5,A wonderful experience from start to finish. The view was beautiful. Quiet room and a good night's sleep.,business,Google
+0224,H006,2025-09-07,3,"Standard hotel, met basic expectations.",group,Expedia
+0225,H008,2025-06-06,5,Would absolutely return. Breakfast was delicious and fresh. The view was beautiful.,couple,TripAdvisor
+0226,H004,2025-10-16,1,Would not stay here again. The bathroom was not clean. Housekeeping never came.,couple,Google
+0227,H005,2025-05-25,5,Highly recommend this place. The bed was very comfortable. Quiet room and a good night's sleep.,couple,Expedia
+0228,H005,2025-06-18,4,We loved this hotel. Staff were friendly and helpful. The view was beautiful.,solo,Expedia
+0229,H003,2025-06-25,5,We loved this hotel. The room was spotless and clean. Check-in was fast and smooth.,business,TripAdvisor
+0230,H005,2025-08-21,1,Very let down by this hotel. The air conditioning did not work. The walls were thin and the room was noisy.,family,TripAdvisor
+0231,H005,2025-09-23,1,Would not stay here again. Check-in was painfully slow. The walls were thin and the room was noisy.,family,Booking
+0232,H004,2025-11-17,2,Very let down by this hotel. The walls were thin and the room was noisy. The room was dirty and smelled musty.,business,Expedia
+0233,H008,2025-06-23,4,Fantastic stay overall. Great location near everything. The room was spotless and clean.,group,Google
+0234,H008,2025-07-21,2,A frustrating experience. The walls were thin and the room was noisy. The bathroom was not clean.,couple,TripAdvisor
+0235,H002,2025-11-02,5,Highly recommend this place. The bed was very comfortable. The view was beautiful.,business,Google
+0236,H003,2025-07-27,3,"The location was great, but the room was dated.",solo,Expedia
+0237,H005,2025-03-24,5,Fantastic stay overall. The room was spotless and clean. Check-in was fast and smooth.,group,Booking
+0238,H008,2025-06-10,1,Very let down by this hotel. Housekeeping never came. Housekeeping never came.,solo,Google
+0239,H005,2025-09-15,5,Exceeded our expectations. Staff were friendly and helpful. Breakfast was delicious and fresh.,family,Expedia
+0240,H003,2025-11-09,4,Fantastic stay overall. Breakfast was delicious and fresh. Check-in was fast and smooth.,group,Google
+0241,H007,2025-03-20,2,A frustrating experience. Housekeeping never came. Breakfast was cold and limited.,business,Expedia
+0242,H003,2025-11-04,5,Exceeded our expectations. Quiet room and a good night's sleep. Breakfast was delicious and fresh.,family,Booking
+0243,H004,2025-05-13,5,A wonderful experience from start to finish. Check-in was fast and smooth. Breakfast was delicious and fresh.,couple,Booking
+0244,H006,2025-05-21,4,Highly recommend this place. The bed was very comfortable. The room was spotless and clean.,business,Expedia
+0245,H007,2025-05-06,4,Highly recommend this place. The view was beautiful. Check-in was fast and smooth.,business,TripAdvisor
+0246,H004,2025-06-20,4,Exceeded our expectations. Great location near everything. Quiet room and a good night's sleep.,family,Expedia
+0247,H006,2025-12-20,5,A wonderful experience from start to finish. The view was beautiful. Quiet room and a good night's sleep.,group,Google
+0248,H002,2025-04-22,1,Save your money and stay elsewhere. The air conditioning did not work. Housekeeping never came.,couple,Booking
+0249,H001,2025-10-04,5,Would absolutely return. The view was beautiful. The bed was very comfortable.,group,Google
+0250,H008,2025-03-11,5,Fantastic stay overall. The bed was very comfortable. Quiet room and a good night's sleep.,business,Expedia
+0251,H003,2025-01-15,4,Would absolutely return. Excellent value for the price. Quiet room and a good night's sleep.,group,Booking
+0252,H005,2025-09-15,2,Very let down by this hotel. The room was dirty and smelled musty. Overpriced for what you get.,couple,Booking
+0253,H002,2025-12-07,1,Disappointing stay. Overpriced for what you get. Breakfast was cold and limited.,business,Booking
+0254,H001,2025-02-16,1,Far below expectations. Overpriced for what you get. The front desk staff were rude.,family,Expedia
+0255,H008,2025-06-13,1,A frustrating experience. Overpriced for what you get. Check-in was painfully slow.,group,Google
+0256,H006,2025-11-28,5,Fantastic stay overall. Great location near everything. The view was beautiful.,solo,Google
+0257,H001,2025-12-08,4,Fantastic stay overall. Check-in was fast and smooth. Quiet room and a good night's sleep.,group,Expedia
+0258,H004,2025-09-13,2,Would not stay here again. The air conditioning did not work. Breakfast was cold and limited.,family,TripAdvisor
+0259,H002,2025-04-24,5,Fantastic stay overall. Excellent value for the price. The room was spotless and clean.,family,Google
+0260,H001,2025-02-04,4,A wonderful experience from start to finish. The room was spotless and clean. The bed was very comfortable.,business,Expedia
+0261,H004,2025-08-08,5,Fantastic stay overall. Great location near everything. The view was beautiful.,couple,Google
+0262,H006,2025-12-19,3,"Did the job, no complaints and no highlights.",group,TripAdvisor
+0263,H003,2025-04-10,5,Highly recommend this place. The view was beautiful. The bed was very comfortable.,solo,TripAdvisor
+0264,H003,2025-05-02,4,Highly recommend this place. Excellent value for the price. The view was beautiful.,solo,Booking
+0265,H007,2025-06-21,5,Would absolutely return. Breakfast was delicious and fresh. Excellent value for the price.,solo,Google
+0266,H003,2025-05-13,2,Save your money and stay elsewhere. The air conditioning did not work. The walls were thin and the room was noisy.,family,TripAdvisor
+0267,H008,2025-12-05,1,Disappointing stay. Housekeeping never came. Overpriced for what you get.,solo,Google
+0268,H005,2025-07-08,3,"Good value, yet the walls were thin and noisy.",couple,Booking
+0269,H006,2025-08-28,3,"Friendly staff, although check-in was slow.",group,Google
+0270,H007,2025-01-09,5,Highly recommend this place. The room was spotless and clean. Staff were friendly and helpful.,family,Google
+0271,H006,2025-08-07,5,We loved this hotel. The room was spotless and clean. The bed was very comfortable.,family,Booking
+0272,H008,2025-12-25,3,"Good value, yet the walls were thin and noisy.",group,Google
+0273,H006,2025-07-08,5,We loved this hotel. Excellent value for the price. Quiet room and a good night's sleep.,group,TripAdvisor
+0274,H006,2025-05-09,3,Adequate but unremarkable.,solo,Expedia
+0275,H008,2025-02-26,5,We loved this hotel. The bed was very comfortable. Breakfast was delicious and fresh.,couple,Expedia
+0276,H004,2025-01-19,4,Highly recommend this place. Great location near everything. The room was spotless and clean.,couple,Expedia
+0277,H004,2025-05-05,4,We loved this hotel. The bed was very comfortable. Excellent value for the price.,group,Google
+0278,H006,2025-08-18,4,We loved this hotel. Quiet room and a good night's sleep. Quiet room and a good night's sleep.,solo,Google
+0279,H006,2025-12-26,4,Exceeded our expectations. Great location near everything. The view was beautiful.,solo,Google
+0280,H001,2025-09-21,3,Adequate but unremarkable.,business,Booking
+0281,H001,2025-11-02,5,A wonderful experience from start to finish. Great location near everything. The bed was very comfortable.,business,Google
+0282,H008,2025-01-07,5,We loved this hotel. The room was spotless and clean. Quiet room and a good night's sleep.,solo,Booking
+0283,H007,2025-01-18,4,Fantastic stay overall. The room was spotless and clean. The view was beautiful.,couple,TripAdvisor
+0284,H007,2025-01-17,3,"Clean room, but the breakfast was disappointing.",business,Booking
+0285,H004,2025-09-05,3,"Good value, yet the walls were thin and noisy.",group,TripAdvisor
+0286,H007,2025-06-09,3,"Friendly staff, although check-in was slow.",couple,Expedia
+0287,H004,2025-08-19,3,"Good value, yet the walls were thin and noisy.",couple,Booking
+0288,H001,2025-11-28,5,Fantastic stay overall. Excellent value for the price. Excellent value for the price.,solo,Expedia
+0289,H001,2025-01-21,4,Highly recommend this place. Great location near everything. Staff were friendly and helpful.,solo,Expedia
+0290,H006,2025-11-26,4,Would absolutely return. Staff were friendly and helpful. The view was beautiful.,business,Google
+0291,H008,2025-04-28,5,We loved this hotel. The room was spotless and clean. Staff were friendly and helpful.,couple,Booking
+0292,H006,2025-03-28,5,Fantastic stay overall. The bed was very comfortable. Great location near everything.,solo,Booking
+0293,H004,2025-05-06,4,Would absolutely return. Excellent value for the price. The view was beautiful.,couple,Expedia
+0294,H002,2025-12-05,2,Save your money and stay elsewhere. Breakfast was cold and limited. The room was dirty and smelled musty.,business,Expedia
+0295,H002,2025-04-27,4,We loved this hotel. Excellent value for the price. Breakfast was delicious and fresh.,business,TripAdvisor
+0296,H004,2025-08-16,5,We loved this hotel. The view was beautiful. Excellent value for the price.,solo,Google
+0297,H007,2025-11-19,2,Disappointing stay. The bathroom was not clean. The walls were thin and the room was noisy.,business,Booking
+0298,H007,2025-05-05,3,"Clean room, but the breakfast was disappointing.",solo,TripAdvisor
+0299,H002,2025-06-04,5,Fantastic stay overall. Check-in was fast and smooth. Quiet room and a good night's sleep.,couple,TripAdvisor
+0300,H002,2025-02-05,5,Exceeded our expectations. Excellent value for the price. Quiet room and a good night's sleep.,group,Expedia
+0301,H002,2025-02-01,5,We loved this hotel. The view was beautiful. Staff were friendly and helpful.,group,TripAdvisor
+0302,H005,2025-07-01,5,A wonderful experience from start to finish. Excellent value for the price. Staff were friendly and helpful.,group,Google
+0303,H003,2025-10-17,3,It was fine for one night.,family,Google
+0304,H005,2025-05-10,4,A wonderful experience from start to finish. Great location near everything. Staff were friendly and helpful.,family,Expedia
+0305,H005,2025-05-14,5,A wonderful experience from start to finish. Staff were friendly and helpful. Breakfast was delicious and fresh.,couple,Google
+0306,H008,2025-12-21,4,Would absolutely return. The bed was very comfortable. Quiet room and a good night's sleep.,business,Google
+0307,H007,2025-05-01,5,We loved this hotel. Excellent value for the price. Breakfast was delicious and fresh.,solo,TripAdvisor
+0308,H003,2025-07-27,4,We loved this hotel. Breakfast was delicious and fresh. The bed was very comfortable.,solo,TripAdvisor
+0309,H006,2025-03-13,5,We loved this hotel. Quiet room and a good night's sleep. The bed was very comfortable.,couple,Expedia
+0310,H007,2025-05-27,4,We loved this hotel. Staff were friendly and helpful. The bed was very comfortable.,group,Google
+0311,H001,2025-11-25,4,Highly recommend this place. Quiet room and a good night's sleep. The bed was very comfortable.,solo,TripAdvisor
+0312,H007,2025-12-03,5,Highly recommend this place. Quiet room and a good night's sleep. Great location near everything.,couple,Google
+0313,H003,2025-05-22,5,Highly recommend this place. Excellent value for the price. Excellent value for the price.,business,Expedia
+0314,H007,2025-10-16,3,Adequate but unremarkable.,group,Expedia
+0315,H006,2025-09-02,1,Very let down by this hotel. Housekeeping never came. Check-in was painfully slow.,business,Google
+0316,H006,2025-11-22,3,"Clean room, but the breakfast was disappointing.",group,Booking
+0317,H007,2025-10-21,4,We loved this hotel. Excellent value for the price. Staff were friendly and helpful.,business,Booking
+0318,H004,2025-05-08,5,A wonderful experience from start to finish. Breakfast was delicious and fresh. Excellent value for the price.,solo,Google
+0319,H008,2025-06-01,5,Fantastic stay overall. Check-in was fast and smooth. Excellent value for the price.,business,Booking
+0320,H006,2025-12-05,4,We loved this hotel. Breakfast was delicious and fresh. Quiet room and a good night's sleep.,family,Expedia
+0321,H002,2025-06-16,5,A wonderful experience from start to finish. Quiet room and a good night's sleep. Breakfast was delicious and fresh.,business,TripAdvisor
+0322,H002,2025-01-26,4,Fantastic stay overall. Breakfast was delicious and fresh. Staff were friendly and helpful.,family,Google
+0323,H003,2025-09-06,2,Far below expectations. Housekeeping never came. Overpriced for what you get.,solo,Google
+0324,H003,2025-07-21,5,Exceeded our expectations. Excellent value for the price. Excellent value for the price.,business,Google
+0325,H007,2025-08-19,1,A frustrating experience. The room was dirty and smelled musty. The walls were thin and the room was noisy.,family,TripAdvisor
+0326,H002,2025-12-26,5,Would absolutely return. Staff were friendly and helpful. The view was beautiful.,family,TripAdvisor
+0327,H008,2025-06-07,4,Fantastic stay overall. Check-in was fast and smooth. Quiet room and a good night's sleep.,group,TripAdvisor
+0328,H007,2025-10-13,2,Save your money and stay elsewhere. Check-in was painfully slow. Breakfast was cold and limited.,couple,Expedia
+0329,H005,2025-10-06,1,Save your money and stay elsewhere. Check-in was painfully slow. The front desk staff were rude.,couple,Booking
+0330,H002,2025-04-10,1,Would not stay here again. Breakfast was cold and limited. The front desk staff were rude.,group,Expedia
+0331,H003,2025-07-20,4,Would absolutely return. Excellent value for the price. Excellent value for the price.,family,Expedia
+0332,H003,2025-11-18,2,Save your money and stay elsewhere. The front desk staff were rude. The air conditioning did not work.,couple,Google
+0333,H008,2025-03-11,2,Save your money and stay elsewhere. The room was dirty and smelled musty. Breakfast was cold and limited.,business,Expedia
+0334,H007,2025-03-07,5,Would absolutely return. The view was beautiful. Quiet room and a good night's sleep.,solo,Expedia
+0335,H008,2025-07-23,5,A wonderful experience from start to finish. Great location near everything. Staff were friendly and helpful.,group,Booking
+0336,H001,2025-04-10,4,We loved this hotel. The bed was very comfortable. The view was beautiful.,couple,Google
+0337,H008,2025-08-19,5,Would absolutely return. The view was beautiful. Staff were friendly and helpful.,group,Booking
+0338,H006,2025-05-25,4,Would absolutely return. The room was spotless and clean. Quiet room and a good night's sleep.,group,Google
+0339,H004,2025-07-04,4,We loved this hotel. The room was spotless and clean. Quiet room and a good night's sleep.,couple,TripAdvisor
+0340,H002,2025-02-15,2,Would not stay here again. The walls were thin and the room was noisy. Breakfast was cold and limited.,group,Expedia
+0341,H003,2025-03-20,5,Exceeded our expectations. The bed was very comfortable. The room was spotless and clean.,group,TripAdvisor
+0342,H003,2025-09-09,5,We loved this hotel. Check-in was fast and smooth. Check-in was fast and smooth.,group,TripAdvisor
+0343,H002,2025-09-22,5,Exceeded our expectations. Excellent value for the price. The room was spotless and clean.,couple,Google
+0344,H003,2025-12-28,4,Exceeded our expectations. Great location near everything. Breakfast was delicious and fresh.,family,Expedia
+0345,H005,2025-08-05,1,Very let down by this hotel. Overpriced for what you get. Overpriced for what you get.,solo,Booking
+0346,H002,2025-11-26,1,A frustrating experience. Housekeeping never came. The bathroom was not clean.,couple,Expedia
+0347,H001,2025-08-11,2,Very let down by this hotel. Check-in was painfully slow. The air conditioning did not work.,couple,Booking
+0348,H004,2025-09-13,5,A wonderful experience from start to finish. The bed was very comfortable. Quiet room and a good night's sleep.,couple,TripAdvisor
+0349,H003,2025-05-11,5,Would absolutely return. Quiet room and a good night's sleep. Breakfast was delicious and fresh.,business,Booking
+0350,H008,2025-02-21,5,Fantastic stay overall. Staff were friendly and helpful. Great location near everything.,solo,Expedia
+0351,H004,2025-01-14,5,Highly recommend this place. Great location near everything. Check-in was fast and smooth.,family,TripAdvisor
+0352,H006,2025-02-21,4,We loved this hotel. Staff were friendly and helpful. Breakfast was delicious and fresh.,family,Booking
+0353,H005,2025-07-21,4,Highly recommend this place. The bed was very comfortable. Excellent value for the price.,business,Booking
+0354,H008,2025-01-07,5,Fantastic stay overall. Great location near everything. The bed was very comfortable.,group,Expedia
+0355,H006,2025-01-01,3,"Friendly staff, although check-in was slow.",solo,Google
+0356,H004,2025-08-03,2,A frustrating experience. Check-in was painfully slow. Check-in was painfully slow.,business,TripAdvisor
+0357,H003,2025-06-10,4,A wonderful experience from start to finish. Great location near everything. Great location near everything.,business,Booking
+0358,H003,2025-10-21,4,A wonderful experience from start to finish. Breakfast was delicious and fresh. The bed was very comfortable.,family,Expedia
+0359,H008,2025-10-22,4,Exceeded our expectations. Staff were friendly and helpful. Staff were friendly and helpful.,family,Booking
+0360,H007,2025-10-24,4,We loved this hotel. Excellent value for the price. Breakfast was delicious and fresh.,family,Google
+0361,H002,2025-05-21,5,Exceeded our expectations. The view was beautiful. Check-in was fast and smooth.,business,TripAdvisor
+0362,H004,2025-04-17,4,Highly recommend this place. Excellent value for the price. Check-in was fast and smooth.,business,Google
+0363,H002,2025-08-13,1,Would not stay here again. The air conditioning did not work. Check-in was painfully slow.,group,Booking
+0364,H003,2025-06-11,5,A wonderful experience from start to finish. Excellent value for the price. Breakfast was delicious and fresh.,group,Google
+0365,H002,2025-08-25,1,Disappointing stay. Check-in was painfully slow. The room was dirty and smelled musty.,couple,Google
+0366,H007,2025-01-02,2,Save your money and stay elsewhere. The bathroom was not clean. Housekeeping never came.,solo,Expedia
+0367,H002,2025-12-13,5,Highly recommend this place. The view was beautiful. The view was beautiful.,group,Google
+0368,H005,2025-05-03,4,Fantastic stay overall. The view was beautiful. The bed was very comfortable.,family,TripAdvisor
+0369,H002,2025-07-19,4,We loved this hotel. Excellent value for the price. The bed was very comfortable.,business,Google
+0370,H002,2025-02-14,4,A wonderful experience from start to finish. The room was spotless and clean. Check-in was fast and smooth.,family,Booking
+0371,H003,2025-01-23,4,Highly recommend this place. The room was spotless and clean. Great location near everything.,solo,TripAdvisor
+0372,H005,2025-09-17,3,"Clean room, but the breakfast was disappointing.",couple,Google
+0373,H005,2025-12-25,3,"Friendly staff, although check-in was slow.",business,TripAdvisor
+0374,H002,2025-07-09,3,"Comfortable bed, but the bathroom needed cleaning.",group,Booking
+0375,H006,2025-08-15,3,"The location was great, but the room was dated.",solo,Google
+0376,H005,2025-06-06,4,Fantastic stay overall. Staff were friendly and helpful. The bed was very comfortable.,group,Booking
+0377,H001,2025-01-28,5,Exceeded our expectations. The room was spotless and clean. Quiet room and a good night's sleep.,couple,Expedia
+0378,H001,2025-03-06,5,Would absolutely return. Excellent value for the price. The bed was very comfortable.,couple,Google
+0379,H006,2025-07-24,5,We loved this hotel. Staff were friendly and helpful. Breakfast was delicious and fresh.,business,Booking
+0380,H001,2025-03-08,4,A wonderful experience from start to finish. Staff were friendly and helpful. Quiet room and a good night's sleep.,couple,TripAdvisor
+0381,H008,2025-06-03,5,Fantastic stay overall. Breakfast was delicious and fresh. The bed was very comfortable.,couple,TripAdvisor
+0382,H004,2025-12-20,1,A frustrating experience. Breakfast was cold and limited. The air conditioning did not work.,family,Google
+0383,H007,2025-03-01,5,Fantastic stay overall. The bed was very comfortable. The view was beautiful.,couple,Booking
+0384,H007,2025-06-01,5,Highly recommend this place. Check-in was fast and smooth. Staff were friendly and helpful.,family,Google
+0385,H001,2025-07-16,5,Exceeded our expectations. Check-in was fast and smooth. Staff were friendly and helpful.,business,Google
+0386,H006,2025-09-14,3,"Standard hotel, met basic expectations.",business,Booking
+0387,H007,2025-09-05,1,Disappointing stay. The room was dirty and smelled musty. Overpriced for what you get.,family,Google
+0388,H006,2025-05-09,4,A wonderful experience from start to finish. Breakfast was delicious and fresh. Breakfast was delicious and fresh.,solo,TripAdvisor
+0389,H004,2025-04-03,3,"Clean room, but the breakfast was disappointing.",group,Booking
+0390,H003,2025-03-04,1,A frustrating experience. The air conditioning did not work. Breakfast was cold and limited.,solo,Booking
+0391,H004,2025-09-12,5,A wonderful experience from start to finish. Check-in was fast and smooth. Quiet room and a good night's sleep.,couple,Booking
+0392,H005,2025-02-06,1,Very let down by this hotel. The room was dirty and smelled musty. The walls were thin and the room was noisy.,couple,Google
+0393,H004,2025-02-23,4,We loved this hotel. Excellent value for the price. The view was beautiful.,business,TripAdvisor
+0394,H003,2025-05-27,2,Disappointing stay. Overpriced for what you get. The air conditioning did not work.,group,Google
+0395,H002,2025-02-15,1,Would not stay here again. Check-in was painfully slow. The room was dirty and smelled musty.,business,Google
+0396,H007,2025-03-07,2,Far below expectations. Check-in was painfully slow. The bathroom was not clean.,business,Booking
+0397,H008,2025-02-07,4,Exceeded our expectations. Staff were friendly and helpful. Breakfast was delicious and fresh.,business,Booking
+0398,H003,2025-08-02,5,Would absolutely return. Excellent value for the price. Excellent value for the price.,solo,Booking
+0399,H007,2025-07-22,2,Would not stay here again. Breakfast was cold and limited. The walls were thin and the room was noisy.,family,TripAdvisor
+0400,H003,2025-05-15,4,Fantastic stay overall. The bed was very comfortable. Check-in was fast and smooth.,solo,Expedia
+0401,H001,2025-09-16,5,Fantastic stay overall. Check-in was fast and smooth. Excellent value for the price.,family,Expedia
+0402,H004,2025-04-21,4,Highly recommend this place. The view was beautiful. The room was spotless and clean.,solo,TripAdvisor
+0403,H008,2025-08-18,3,"An average stay, nothing special.",group,TripAdvisor
+0404,H003,2025-07-09,1,Disappointing stay. Breakfast was cold and limited. The walls were thin and the room was noisy.,business,TripAdvisor
+0405,H008,2025-01-26,5,Would absolutely return. Breakfast was delicious and fresh. The bed was very comfortable.,family,Booking
+0406,H004,2025-04-22,3,"Comfortable bed, but the bathroom needed cleaning.",group,Booking
+0407,H007,2025-04-19,5,We loved this hotel. Great location near everything. Great location near everything.,family,TripAdvisor
+0408,H006,2025-12-23,5,Would absolutely return. The room was spotless and clean. Breakfast was delicious and fresh.,group,Google
+0409,H008,2025-10-07,5,Would absolutely return. Check-in was fast and smooth. Great location near everything.,solo,Booking
+0410,H004,2025-02-02,5,Would absolutely return. The bed was very comfortable. The room was spotless and clean.,group,Expedia
+0411,H004,2025-01-11,5,Exceeded our expectations. Breakfast was delicious and fresh. Great location near everything.,couple,Booking
+0412,H003,2025-01-05,4,Fantastic stay overall. The view was beautiful. Breakfast was delicious and fresh.,business,TripAdvisor
+0413,H007,2025-12-22,4,Would absolutely return. Staff were friendly and helpful. Breakfast was delicious and fresh.,couple,TripAdvisor
+0414,H007,2025-03-06,1,Very let down by this hotel. The air conditioning did not work. Breakfast was cold and limited.,family,TripAdvisor
+0415,H003,2025-04-22,2,A frustrating experience. The bathroom was not clean. The bathroom was not clean.,family,Google
+0416,H007,2025-12-01,5,Would absolutely return. The room was spotless and clean. Great location near everything.,group,TripAdvisor
+0417,H002,2025-10-08,1,A frustrating experience. The front desk staff were rude. Breakfast was cold and limited.,business,Google
+0418,H003,2025-06-11,2,Very let down by this hotel. Check-in was painfully slow. Breakfast was cold and limited.,solo,Booking
+0419,H004,2025-05-07,5,Highly recommend this place. Staff were friendly and helpful. Breakfast was delicious and fresh.,couple,Booking
+0420,H001,2025-12-01,3,It was fine for one night.,solo,Expedia
+0421,H008,2025-03-14,5,A wonderful experience from start to finish. Breakfast was delicious and fresh. The view was beautiful.,solo,Booking
+0422,H004,2025-08-26,3,"Clean room, but the breakfast was disappointing.",solo,Booking
+0423,H001,2025-01-10,5,We loved this hotel. Check-in was fast and smooth. Staff were friendly and helpful.,business,TripAdvisor
+0424,H003,2025-03-13,5,Highly recommend this place. Staff were friendly and helpful. The view was beautiful.,business,TripAdvisor
+0425,H008,2025-10-20,3,"The location was great, but the room was dated.",solo,Google
+0426,H003,2025-10-14,5,Fantastic stay overall. Staff were friendly and helpful. Breakfast was delicious and fresh.,family,Google
+0427,H005,2025-07-23,4,Highly recommend this place. Check-in was fast and smooth. Check-in was fast and smooth.,family,Booking
+0428,H008,2025-01-13,5,Exceeded our expectations. The room was spotless and clean. Breakfast was delicious and fresh.,business,Expedia
+0429,H008,2025-02-10,4,Exceeded our expectations. Staff were friendly and helpful. The room was spotless and clean.,family,Google
+0430,H002,2025-11-10,4,A wonderful experience from start to finish. Staff were friendly and helpful. Check-in was fast and smooth.,solo,Expedia
+0431,H005,2025-08-22,2,Disappointing stay. Housekeeping never came. Overpriced for what you get.,family,TripAdvisor
+0432,H003,2025-07-12,5,A wonderful experience from start to finish. The room was spotless and clean. Check-in was fast and smooth.,solo,Expedia
+0433,H005,2025-05-08,4,Would absolutely return. The room was spotless and clean. Great location near everything.,business,Booking
+0434,H007,2025-11-12,5,Would absolutely return. The bed was very comfortable. The view was beautiful.,business,Expedia
+0435,H008,2025-09-14,5,Would absolutely return. The bed was very comfortable. Quiet room and a good night's sleep.,couple,Booking
+0436,H001,2025-07-28,5,Would absolutely return. The view was beautiful. Great location near everything.,business,Expedia
+0437,H004,2025-03-06,4,Exceeded our expectations. Great location near everything. The room was spotless and clean.,solo,Booking
+0438,H004,2025-11-14,4,Highly recommend this place. Great location near everything. Check-in was fast and smooth.,couple,Booking
+0439,H007,2025-02-13,3,Adequate but unremarkable.,couple,TripAdvisor
+0440,H001,2025-09-15,5,Highly recommend this place. The view was beautiful. Excellent value for the price.,business,Expedia
+0441,H002,2025-03-05,2,Disappointing stay. Check-in was painfully slow. The bathroom was not clean.,group,TripAdvisor
+0442,H007,2025-07-09,5,Highly recommend this place. Quiet room and a good night's sleep. Quiet room and a good night's sleep.,business,Google
+0443,H003,2025-05-13,4,Would absolutely return. Excellent value for the price. The room was spotless and clean.,solo,TripAdvisor
+0444,H001,2025-12-08,5,Highly recommend this place. Quiet room and a good night's sleep. Check-in was fast and smooth.,couple,Booking
+0445,H005,2025-06-27,2,Far below expectations. The bathroom was not clean. The air conditioning did not work.,business,Google
+0446,H008,2025-03-10,5,We loved this hotel. Check-in was fast and smooth. Excellent value for the price.,group,Booking
+0447,H004,2025-04-15,5,A wonderful experience from start to finish. Quiet room and a good night's sleep. The view was beautiful.,couple,Booking
+0448,H003,2025-09-26,5,Fantastic stay overall. Check-in was fast and smooth. The view was beautiful.,solo,Google
+0449,H001,2025-09-19,1,Would not stay here again. The walls were thin and the room was noisy. The walls were thin and the room was noisy.,business,Google
+0450,H001,2025-01-15,1,Far below expectations. The walls were thin and the room was noisy. The bathroom was not clean.,couple,Expedia
+0451,H002,2025-09-13,5,Highly recommend this place. The room was spotless and clean. The bed was very comfortable.,couple,Expedia
+0452,H003,2025-10-15,3,"Standard hotel, met basic expectations.",group,TripAdvisor
+0453,H005,2025-06-06,5,Highly recommend this place. Staff were friendly and helpful. Check-in was fast and smooth.,business,Expedia
+0454,H004,2025-01-06,5,Exceeded our expectations. The bed was very comfortable. The bed was very comfortable.,couple,Expedia
+0455,H001,2025-09-01,1,A frustrating experience. The front desk staff were rude. The front desk staff were rude.,group,Booking
+0456,H005,2025-04-09,5,Highly recommend this place. Check-in was fast and smooth. Excellent value for the price.,solo,TripAdvisor
+0457,H004,2025-08-09,1,A frustrating experience. The bathroom was not clean. Housekeeping never came.,group,Expedia
+0458,H001,2025-10-04,3,Adequate but unremarkable.,couple,TripAdvisor
+0459,H002,2025-05-22,5,A wonderful experience from start to finish. Staff were friendly and helpful. Breakfast was delicious and fresh.,couple,TripAdvisor
+0460,H005,2025-05-09,2,Would not stay here again. The front desk staff were rude. Housekeeping never came.,family,Booking
+0461,H006,2025-10-13,3,"Clean room, but the breakfast was disappointing.",business,Expedia
+0462,H007,2025-05-09,5,A wonderful experience from start to finish. Excellent value for the price. The room was spotless and clean.,group,Google
+0463,H004,2025-06-24,2,Very let down by this hotel. Housekeeping never came. The air conditioning did not work.,couple,TripAdvisor
+0464,H003,2025-03-27,2,Far below expectations. Check-in was painfully slow. The air conditioning did not work.,family,TripAdvisor
+0465,H003,2025-12-26,5,Highly recommend this place. Breakfast was delicious and fresh. Staff were friendly and helpful.,family,TripAdvisor
+0466,H005,2025-04-24,4,A wonderful experience from start to finish. Breakfast was delicious and fresh. Breakfast was delicious and fresh.,couple,TripAdvisor
+0467,H002,2025-08-28,4,A wonderful experience from start to finish. The room was spotless and clean. Staff were friendly and helpful.,solo,Google
+0468,H007,2025-09-04,5,Would absolutely return. Check-in was fast and smooth. Excellent value for the price.,business,Google
+0469,H006,2025-03-07,4,A wonderful experience from start to finish. Quiet room and a good night's sleep. Great location near everything.,couple,Google
+0470,H006,2025-02-16,1,Very let down by this hotel. The front desk staff were rude. Breakfast was cold and limited.,business,Booking
+0471,H004,2025-08-09,3,"Clean room, but the breakfast was disappointing.",group,Google
+0472,H002,2025-08-26,4,Exceeded our expectations. Excellent value for the price. Excellent value for the price.,solo,Expedia
+0473,H001,2025-08-13,3,"The location was great, but the room was dated.",group,Google
+0474,H001,2025-12-12,5,We loved this hotel. The view was beautiful. The bed was very comfortable.,business,Booking
+0475,H004,2025-11-24,4,Exceeded our expectations. Breakfast was delicious and fresh. Check-in was fast and smooth.,family,Booking
+0476,H005,2025-07-17,5,Exceeded our expectations. Staff were friendly and helpful. The room was spotless and clean.,couple,TripAdvisor
+0477,H006,2025-08-24,4,A wonderful experience from start to finish. Great location near everything. Breakfast was delicious and fresh.,solo,TripAdvisor
+0478,H007,2025-04-06,4,Fantastic stay overall. The bed was very comfortable. The bed was very comfortable.,family,Google
+0479,H003,2025-12-01,5,Fantastic stay overall. Breakfast was delicious and fresh. The room was spotless and clean.,solo,TripAdvisor
+0480,H001,2025-09-20,5,Would absolutely return. The room was spotless and clean. Staff were friendly and helpful.,business,Booking
+0481,H007,2025-12-04,5,A wonderful experience from start to finish. Excellent value for the price. Staff were friendly and helpful.,group,TripAdvisor
+0482,H003,2025-08-23,5,Exceeded our expectations. The room was spotless and clean. Check-in was fast and smooth.,solo,Booking
+0483,H005,2025-11-17,5,Would absolutely return. Great location near everything. Excellent value for the price.,business,Booking
+0484,H002,2025-05-04,4,A wonderful experience from start to finish. The bed was very comfortable. The bed was very comfortable.,couple,Google
+0485,H007,2025-06-23,4,We loved this hotel. Great location near everything. The room was spotless and clean.,group,Expedia
+0486,H008,2025-04-23,5,We loved this hotel. The bed was very comfortable. The room was spotless and clean.,business,Booking
+0487,H008,2025-02-27,4,Exceeded our expectations. Staff were friendly and helpful. The view was beautiful.,business,Booking
+0488,H004,2025-05-21,1,A frustrating experience. The bathroom was not clean. The bathroom was not clean.,solo,Booking
+0489,H003,2025-02-27,1,Disappointing stay. The bathroom was not clean. Breakfast was cold and limited.,couple,Expedia
+0490,H002,2025-12-04,3,"The location was great, but the room was dated.",business,Google
+0491,H003,2025-11-21,5,We loved this hotel. Breakfast was delicious and fresh. Quiet room and a good night's sleep.,group,TripAdvisor
+0492,H006,2025-12-03,3,"An average stay, nothing special.",family,Booking
+0493,H008,2025-07-13,5,We loved this hotel. Excellent value for the price. Quiet room and a good night's sleep.,solo,Google
+0494,H001,2025-02-05,5,Exceeded our expectations. Staff were friendly and helpful. Excellent value for the price.,group,Expedia
+0495,H008,2025-10-22,5,Exceeded our expectations. Excellent value for the price. Breakfast was delicious and fresh.,group,Booking
+0496,H003,2025-11-27,5,A wonderful experience from start to finish. Quiet room and a good night's sleep. Staff were friendly and helpful.,solo,Expedia
+0497,H005,2025-01-03,3,"An average stay, nothing special.",business,Google
+0498,H006,2025-11-28,5,Would absolutely return. The view was beautiful. Staff were friendly and helpful.,solo,Google
+0499,H007,2025-08-12,5,Exceeded our expectations. The view was beautiful. The room was spotless and clean.,business,Google
+0500,H008,2025-09-28,4,A wonderful experience from start to finish. Great location near everything. Staff were friendly and helpful.,solo,TripAdvisor

@@ -1,0 +1,1001 @@
+review_id,restaurant_id,date,rating,review_text,cuisine,platform
+0001,R010,2025-07-21,3,Good food but slow service.,Italian,TripAdvisor
+0002,R038,2025-01-17,2,Dirty tables and rude staff.,Italian,Google
+0003,R005,2025-04-03,4,"Excellent value, would return.",Cafe,Google
+0004,R008,2025-04-21,5,Delicious meals and a nice atmosphere.,BBQ,Google
+0005,R026,2025-01-08,4,Great food and friendly service.,BBQ,Google
+0006,R010,2025-09-04,3,"Friendly staff, but the food was average.",Mexican,TripAdvisor
+0007,R012,2025-02-19,5,"Excellent value, would return.",Sushi,Google
+0008,R036,2025-12-03,4,"Excellent value, would return.",Italian,TripAdvisor
+0009,R044,2025-09-14,3,"Nice place, though a bit pricey.",Cafe,TripAdvisor
+0010,R024,2025-05-08,5,"Clean, comfortable, and well located.",Sushi,Google
+0011,R020,2025-09-16,2,Overpriced and disappointing.,Sushi,Yelp
+0012,R005,2025-02-17,3,"Nice place, though a bit pricey.",Korean,Yelp
+0013,R032,2025-07-02,2,"Noisy, cramped, and unclean.",Italian,TripAdvisor
+0014,R057,2025-06-11,4,Delicious meals and a nice atmosphere.,Mexican,TripAdvisor
+0015,R052,2025-08-03,4,Great food and friendly service.,Mexican,Yelp
+0016,R005,2025-01-24,5,Delicious meals and a nice atmosphere.,Mexican,TripAdvisor
+0017,R044,2025-08-10,4,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0018,R030,2025-06-06,4,"Excellent value, would return.",Italian,Yelp
+0019,R050,2025-05-05,1,"Noisy, cramped, and unclean.",Korean,Yelp
+0020,R056,2025-08-03,4,"Clean, comfortable, and well located.",Cafe,Yelp
+0021,R057,2025-03-27,4,The staff were attentive and kind.,Burgers,TripAdvisor
+0022,R027,2025-06-22,3,"Nice place, though a bit pricey.",Korean,Google
+0023,R010,2025-04-22,2,Dirty tables and rude staff.,Italian,Yelp
+0024,R012,2025-05-10,5,Great food and friendly service.,Korean,Yelp
+0025,R040,2025-10-11,4,"Clean, comfortable, and well located.",Sushi,TripAdvisor
+0026,R042,2025-11-24,5,Great food and friendly service.,Cafe,TripAdvisor
+0027,R026,2025-07-13,5,The staff were attentive and kind.,Italian,Yelp
+0028,R004,2025-04-03,5,"Clean, comfortable, and well located.",Cafe,Google
+0029,R039,2025-01-04,2,Slow service and cold food.,BBQ,Google
+0030,R024,2025-10-01,4,Great food and friendly service.,Burgers,Google
+0031,R010,2025-11-09,4,Fast service and fair prices.,BBQ,Yelp
+0032,R008,2025-08-15,4,The staff were attentive and kind.,Cafe,Yelp
+0033,R007,2025-12-11,2,"Noisy, cramped, and unclean.",Mexican,Yelp
+0034,R011,2025-09-01,5,"Clean, comfortable, and well located.",BBQ,Yelp
+0035,R035,2025-01-25,2,The order was wrong and no one apologized.,Mexican,TripAdvisor
+0036,R045,2025-05-17,5,Fast service and fair prices.,Korean,Yelp
+0037,R035,2025-09-25,5,"Excellent value, would return.",Mexican,TripAdvisor
+0038,R052,2025-04-26,3,Good food but slow service.,Burgers,Yelp
+0039,R015,2025-04-17,5,The staff were attentive and kind.,Mexican,TripAdvisor
+0040,R002,2025-05-16,1,Overpriced and disappointing.,Korean,TripAdvisor
+0041,R023,2025-08-26,4,Delicious meals and a nice atmosphere.,Mexican,Yelp
+0042,R007,2025-04-16,2,Dirty tables and rude staff.,Mexican,Google
+0043,R058,2025-10-27,4,Great food and friendly service.,Cafe,TripAdvisor
+0044,R042,2025-02-27,4,Delicious meals and a nice atmosphere.,Italian,Yelp
+0045,R049,2025-04-16,5,"Clean, comfortable, and well located.",Cafe,TripAdvisor
+0046,R052,2025-12-13,4,The staff were attentive and kind.,Cafe,TripAdvisor
+0047,R047,2025-03-06,5,"Clean, comfortable, and well located.",Italian,Google
+0048,R030,2025-11-05,4,"Excellent value, would return.",Burgers,TripAdvisor
+0049,R043,2025-06-05,5,"Excellent value, would return.",BBQ,Google
+0050,R052,2025-12-21,1,Slow service and cold food.,BBQ,TripAdvisor
+0051,R028,2025-04-27,5,"Clean, comfortable, and well located.",Italian,Yelp
+0052,R033,2025-04-25,3,"Friendly staff, but the food was average.",Mexican,Yelp
+0053,R054,2025-03-02,4,Delicious meals and a nice atmosphere.,Mexican,Yelp
+0054,R053,2025-09-14,5,"Excellent value, would return.",Korean,TripAdvisor
+0055,R033,2025-01-28,2,Long wait and poor quality.,Burgers,Google
+0056,R050,2025-03-06,4,"Clean, comfortable, and well located.",Cafe,TripAdvisor
+0057,R036,2025-01-11,5,Delicious meals and a nice atmosphere.,BBQ,TripAdvisor
+0058,R051,2025-02-18,4,Great food and friendly service.,Korean,Google
+0059,R050,2025-02-17,3,"Nice place, though a bit pricey.",BBQ,Google
+0060,R059,2025-02-15,5,Fast service and fair prices.,BBQ,TripAdvisor
+0061,R013,2025-12-09,4,The staff were attentive and kind.,BBQ,TripAdvisor
+0062,R033,2025-04-23,5,"Excellent value, would return.",Mexican,TripAdvisor
+0063,R013,2025-08-05,5,The staff were attentive and kind.,Italian,Yelp
+0064,R005,2025-11-08,4,The staff were attentive and kind.,Italian,Google
+0065,R051,2025-02-25,5,"Clean, comfortable, and well located.",Sushi,TripAdvisor
+0066,R010,2025-05-05,5,The staff were attentive and kind.,Korean,TripAdvisor
+0067,R026,2025-08-06,5,Delicious meals and a nice atmosphere.,Burgers,Google
+0068,R028,2025-09-13,2,Overpriced and disappointing.,Cafe,Google
+0069,R006,2025-12-12,4,Great food and friendly service.,Mexican,TripAdvisor
+0070,R046,2025-01-13,4,Fast service and fair prices.,BBQ,TripAdvisor
+0071,R005,2025-02-26,3,Good food but slow service.,Italian,Google
+0072,R003,2025-03-09,3,Good food but slow service.,Burgers,Yelp
+0073,R044,2025-05-13,5,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0074,R045,2025-06-03,4,Fast service and fair prices.,Italian,TripAdvisor
+0075,R058,2025-02-09,3,Good food but slow service.,Sushi,Google
+0076,R006,2025-10-28,5,"Clean, comfortable, and well located.",Italian,Yelp
+0077,R030,2025-01-11,5,"Excellent value, would return.",Cafe,Yelp
+0078,R003,2025-09-23,4,"Clean, comfortable, and well located.",Italian,Google
+0079,R012,2025-04-10,3,"Friendly staff, but the food was average.",Mexican,TripAdvisor
+0080,R019,2025-08-17,5,Delicious meals and a nice atmosphere.,Korean,Yelp
+0081,R002,2025-05-02,4,Great food and friendly service.,Italian,TripAdvisor
+0082,R013,2025-09-16,4,"Clean, comfortable, and well located.",Cafe,Google
+0083,R042,2025-07-22,5,The staff were attentive and kind.,BBQ,Yelp
+0084,R020,2025-12-07,5,"Clean, comfortable, and well located.",Mexican,Google
+0085,R046,2025-12-21,5,"Clean, comfortable, and well located.",Cafe,Yelp
+0086,R054,2025-03-01,5,Great food and friendly service.,Sushi,TripAdvisor
+0087,R028,2025-03-02,5,Great food and friendly service.,Sushi,Yelp
+0088,R043,2025-05-20,5,"Clean, comfortable, and well located.",Sushi,Yelp
+0089,R012,2025-03-09,1,Long wait and poor quality.,Italian,Yelp
+0090,R022,2025-09-11,4,"Clean, comfortable, and well located.",Italian,Yelp
+0091,R012,2025-01-11,3,"Nice place, though a bit pricey.",Italian,Yelp
+0092,R042,2025-04-08,3,"Friendly staff, but the food was average.",Burgers,Google
+0093,R053,2025-02-05,2,Long wait and poor quality.,BBQ,Google
+0094,R020,2025-05-21,4,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0095,R055,2025-03-22,5,Delicious meals and a nice atmosphere.,Burgers,TripAdvisor
+0096,R021,2025-12-16,4,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0097,R010,2025-01-27,4,Delicious meals and a nice atmosphere.,BBQ,TripAdvisor
+0098,R045,2025-09-05,4,"Excellent value, would return.",Burgers,TripAdvisor
+0099,R053,2025-01-27,4,Delicious meals and a nice atmosphere.,BBQ,TripAdvisor
+0100,R045,2025-11-08,5,Great food and friendly service.,Italian,Google
+0101,R024,2025-02-13,2,Long wait and poor quality.,BBQ,Google
+0102,R041,2025-09-22,4,"Clean, comfortable, and well located.",Cafe,Yelp
+0103,R052,2025-02-24,1,The order was wrong and no one apologized.,BBQ,Google
+0104,R005,2025-12-24,5,The staff were attentive and kind.,Mexican,Google
+0105,R016,2025-12-25,5,"Clean, comfortable, and well located.",Korean,TripAdvisor
+0106,R030,2025-08-28,5,The staff were attentive and kind.,Italian,Yelp
+0107,R019,2025-01-20,5,Delicious meals and a nice atmosphere.,Sushi,Google
+0108,R010,2025-06-09,1,"Noisy, cramped, and unclean.",Sushi,TripAdvisor
+0109,R037,2025-03-01,3,"Nice place, though a bit pricey.",Italian,Yelp
+0110,R044,2025-02-23,3,Good food but slow service.,Sushi,Yelp
+0111,R034,2025-05-15,3,"Nice place, though a bit pricey.",Cafe,Google
+0112,R036,2025-04-10,5,Great food and friendly service.,Cafe,Google
+0113,R005,2025-09-15,3,"Nice place, though a bit pricey.",Cafe,Google
+0114,R060,2025-04-03,5,"Excellent value, would return.",Italian,Google
+0115,R017,2025-06-05,5,"Excellent value, would return.",Burgers,TripAdvisor
+0116,R057,2025-02-23,4,Fast service and fair prices.,Korean,Yelp
+0117,R032,2025-07-01,5,"Clean, comfortable, and well located.",Italian,Yelp
+0118,R026,2025-05-24,5,"Clean, comfortable, and well located.",Cafe,Yelp
+0119,R008,2025-06-01,4,Fast service and fair prices.,Burgers,Yelp
+0120,R008,2025-04-23,5,Great food and friendly service.,Sushi,Yelp
+0121,R005,2025-07-13,3,"Friendly staff, but the food was average.",Italian,Yelp
+0122,R049,2025-05-28,5,Great food and friendly service.,Mexican,Google
+0123,R043,2025-05-21,1,Dirty tables and rude staff.,Korean,Yelp
+0124,R021,2025-04-25,4,Fast service and fair prices.,Burgers,Yelp
+0125,R052,2025-11-13,5,"Excellent value, would return.",BBQ,Google
+0126,R004,2025-12-14,5,The staff were attentive and kind.,BBQ,Google
+0127,R019,2025-08-02,5,"Excellent value, would return.",Korean,Google
+0128,R022,2025-05-10,4,Fast service and fair prices.,Sushi,TripAdvisor
+0129,R017,2025-07-21,5,"Clean, comfortable, and well located.",Mexican,Yelp
+0130,R026,2025-02-06,4,Delicious meals and a nice atmosphere.,Korean,Google
+0131,R058,2025-08-18,3,Good food but slow service.,Cafe,Yelp
+0132,R029,2025-07-05,5,"Excellent value, would return.",Korean,Google
+0133,R022,2025-09-03,2,Overpriced and disappointing.,Korean,Yelp
+0134,R037,2025-04-01,3,"Friendly staff, but the food was average.",Burgers,Yelp
+0135,R048,2025-09-07,4,The staff were attentive and kind.,Mexican,Yelp
+0136,R032,2025-05-19,5,Fast service and fair prices.,Korean,TripAdvisor
+0137,R041,2025-04-03,4,Fast service and fair prices.,Korean,Yelp
+0138,R029,2025-07-10,4,Great food and friendly service.,Korean,Google
+0139,R049,2025-08-19,4,The staff were attentive and kind.,Italian,Google
+0140,R060,2025-09-28,4,The staff were attentive and kind.,Cafe,Google
+0141,R015,2025-03-05,5,"Excellent value, would return.",Sushi,Google
+0142,R047,2025-12-21,5,The staff were attentive and kind.,Italian,TripAdvisor
+0143,R001,2025-03-08,5,"Excellent value, would return.",Italian,TripAdvisor
+0144,R009,2025-11-09,5,"Excellent value, would return.",Sushi,Yelp
+0145,R008,2025-02-03,5,Fast service and fair prices.,BBQ,TripAdvisor
+0146,R017,2025-04-26,3,"Friendly staff, but the food was average.",Italian,Google
+0147,R030,2025-05-11,4,Delicious meals and a nice atmosphere.,Burgers,Google
+0148,R016,2025-09-08,4,Great food and friendly service.,Cafe,TripAdvisor
+0149,R004,2025-01-07,5,The staff were attentive and kind.,Sushi,TripAdvisor
+0150,R017,2025-04-22,4,The staff were attentive and kind.,Mexican,Google
+0151,R045,2025-06-23,4,The staff were attentive and kind.,Mexican,TripAdvisor
+0152,R001,2025-05-24,4,"Excellent value, would return.",Italian,Google
+0153,R013,2025-05-25,4,"Clean, comfortable, and well located.",Korean,Yelp
+0154,R049,2025-05-04,3,"Friendly staff, but the food was average.",Cafe,TripAdvisor
+0155,R015,2025-08-14,3,"Friendly staff, but the food was average.",Italian,TripAdvisor
+0156,R026,2025-01-07,2,Slow service and cold food.,BBQ,Google
+0157,R046,2025-01-06,4,The staff were attentive and kind.,Cafe,TripAdvisor
+0158,R047,2025-02-03,5,"Clean, comfortable, and well located.",Mexican,Google
+0159,R060,2025-09-24,3,"Nice place, though a bit pricey.",Italian,Yelp
+0160,R025,2025-06-11,5,The staff were attentive and kind.,Korean,Google
+0161,R018,2025-02-12,1,Long wait and poor quality.,Italian,TripAdvisor
+0162,R014,2025-07-12,5,Fast service and fair prices.,Burgers,Yelp
+0163,R046,2025-08-07,2,Overpriced and disappointing.,BBQ,Yelp
+0164,R024,2025-12-16,3,Good food but slow service.,Sushi,Yelp
+0165,R041,2025-07-02,3,"Nice place, though a bit pricey.",Italian,Yelp
+0166,R059,2025-01-09,1,Dirty tables and rude staff.,Sushi,Google
+0167,R022,2025-06-09,5,Fast service and fair prices.,BBQ,Google
+0168,R046,2025-12-11,3,"Nice place, though a bit pricey.",Mexican,Google
+0169,R039,2025-11-03,5,Great food and friendly service.,Burgers,Google
+0170,R046,2025-08-25,2,Long wait and poor quality.,Burgers,Yelp
+0171,R053,2025-08-05,5,The staff were attentive and kind.,Korean,Google
+0172,R048,2025-05-27,5,Delicious meals and a nice atmosphere.,Burgers,Google
+0173,R021,2025-06-15,4,Fast service and fair prices.,Burgers,TripAdvisor
+0174,R013,2025-07-25,1,Dirty tables and rude staff.,Korean,Yelp
+0175,R003,2025-08-18,1,The order was wrong and no one apologized.,Mexican,Google
+0176,R057,2025-02-03,5,Fast service and fair prices.,BBQ,Google
+0177,R027,2025-08-23,3,"Nice place, though a bit pricey.",Korean,Google
+0178,R030,2025-10-22,2,Dirty tables and rude staff.,Sushi,TripAdvisor
+0179,R043,2025-02-25,5,Fast service and fair prices.,Mexican,Yelp
+0180,R024,2025-05-24,4,Fast service and fair prices.,Korean,Yelp
+0181,R016,2025-04-05,3,"Nice place, though a bit pricey.",BBQ,Google
+0182,R026,2025-05-08,3,"Friendly staff, but the food was average.",BBQ,Google
+0183,R007,2025-11-15,5,Great food and friendly service.,Italian,Google
+0184,R053,2025-04-27,4,The staff were attentive and kind.,Mexican,Google
+0185,R015,2025-02-02,5,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0186,R005,2025-06-17,3,Good food but slow service.,Cafe,TripAdvisor
+0187,R050,2025-11-01,3,Good food but slow service.,Sushi,TripAdvisor
+0188,R023,2025-04-02,5,Fast service and fair prices.,Mexican,Google
+0189,R017,2025-01-20,1,"Noisy, cramped, and unclean.",Sushi,Google
+0190,R053,2025-06-14,5,Delicious meals and a nice atmosphere.,Mexican,Google
+0191,R005,2025-04-02,4,The staff were attentive and kind.,BBQ,Yelp
+0192,R007,2025-07-22,1,The order was wrong and no one apologized.,Korean,TripAdvisor
+0193,R042,2025-03-13,4,Delicious meals and a nice atmosphere.,Mexican,Yelp
+0194,R043,2025-05-14,5,Great food and friendly service.,Mexican,TripAdvisor
+0195,R023,2025-07-14,4,Great food and friendly service.,Burgers,Yelp
+0196,R026,2025-12-13,5,"Clean, comfortable, and well located.",Italian,Yelp
+0197,R028,2025-02-27,5,Great food and friendly service.,Cafe,TripAdvisor
+0198,R030,2025-03-05,5,Great food and friendly service.,Italian,TripAdvisor
+0199,R052,2025-07-03,2,The order was wrong and no one apologized.,BBQ,Yelp
+0200,R011,2025-03-12,5,Fast service and fair prices.,Korean,TripAdvisor
+0201,R005,2025-02-13,2,Long wait and poor quality.,Burgers,Google
+0202,R054,2025-01-16,3,"Nice place, though a bit pricey.",Italian,TripAdvisor
+0203,R025,2025-02-23,5,"Excellent value, would return.",Sushi,Google
+0204,R055,2025-04-20,5,The staff were attentive and kind.,BBQ,Google
+0205,R012,2025-10-07,5,Great food and friendly service.,Cafe,TripAdvisor
+0206,R023,2025-02-05,2,Dirty tables and rude staff.,Sushi,Google
+0207,R036,2025-11-02,1,"Noisy, cramped, and unclean.",Burgers,Yelp
+0208,R039,2025-08-18,2,"Noisy, cramped, and unclean.",Burgers,Yelp
+0209,R020,2025-10-08,5,The staff were attentive and kind.,Cafe,TripAdvisor
+0210,R033,2025-08-06,4,Great food and friendly service.,Italian,TripAdvisor
+0211,R030,2025-04-15,5,"Excellent value, would return.",Burgers,Yelp
+0212,R052,2025-08-13,5,Great food and friendly service.,Italian,Google
+0213,R024,2025-02-26,4,The staff were attentive and kind.,BBQ,TripAdvisor
+0214,R003,2025-11-05,5,Great food and friendly service.,Sushi,Yelp
+0215,R033,2025-02-02,5,"Excellent value, would return.",Cafe,TripAdvisor
+0216,R009,2025-01-28,5,Great food and friendly service.,BBQ,TripAdvisor
+0217,R008,2025-04-05,5,The staff were attentive and kind.,Mexican,Google
+0218,R047,2025-04-03,5,Fast service and fair prices.,BBQ,Yelp
+0219,R058,2025-10-09,2,Long wait and poor quality.,Korean,Yelp
+0220,R059,2025-08-07,4,"Excellent value, would return.",Mexican,TripAdvisor
+0221,R021,2025-06-02,4,"Clean, comfortable, and well located.",Korean,Yelp
+0222,R060,2025-05-22,2,Overpriced and disappointing.,Cafe,Google
+0223,R017,2025-02-25,5,"Excellent value, would return.",Italian,TripAdvisor
+0224,R056,2025-08-18,5,"Excellent value, would return.",BBQ,TripAdvisor
+0225,R007,2025-05-18,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0226,R024,2025-05-13,5,Fast service and fair prices.,BBQ,Google
+0227,R049,2025-02-15,4,"Clean, comfortable, and well located.",Korean,TripAdvisor
+0228,R004,2025-05-27,5,"Excellent value, would return.",Mexican,Yelp
+0229,R056,2025-10-22,5,Fast service and fair prices.,Sushi,Google
+0230,R015,2025-03-10,5,"Excellent value, would return.",Sushi,Yelp
+0231,R024,2025-01-05,4,The staff were attentive and kind.,Korean,TripAdvisor
+0232,R002,2025-01-01,5,"Excellent value, would return.",Mexican,Yelp
+0233,R023,2025-09-08,2,Long wait and poor quality.,BBQ,Yelp
+0234,R014,2025-06-20,4,The staff were attentive and kind.,Korean,Google
+0235,R052,2025-04-23,1,Dirty tables and rude staff.,Cafe,Google
+0236,R010,2025-11-26,1,Overpriced and disappointing.,Cafe,Yelp
+0237,R004,2025-11-27,5,"Excellent value, would return.",Mexican,TripAdvisor
+0238,R029,2025-10-17,5,Delicious meals and a nice atmosphere.,Cafe,Google
+0239,R001,2025-01-02,2,The order was wrong and no one apologized.,Italian,Yelp
+0240,R011,2025-01-25,3,Good food but slow service.,Italian,TripAdvisor
+0241,R013,2025-03-14,4,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0242,R042,2025-11-14,5,"Excellent value, would return.",Korean,TripAdvisor
+0243,R020,2025-11-02,3,"Friendly staff, but the food was average.",Burgers,Yelp
+0244,R001,2025-07-28,5,The staff were attentive and kind.,Sushi,Yelp
+0245,R042,2025-08-06,2,Dirty tables and rude staff.,Italian,Yelp
+0246,R003,2025-02-11,3,"Friendly staff, but the food was average.",Sushi,Yelp
+0247,R018,2025-11-18,5,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0248,R034,2025-05-10,5,Delicious meals and a nice atmosphere.,Korean,Google
+0249,R001,2025-03-09,5,"Clean, comfortable, and well located.",Burgers,TripAdvisor
+0250,R011,2025-12-11,3,Good food but slow service.,Cafe,Yelp
+0251,R025,2025-11-23,4,Delicious meals and a nice atmosphere.,Burgers,TripAdvisor
+0252,R054,2025-09-23,4,Great food and friendly service.,Burgers,Google
+0253,R047,2025-04-19,4,Fast service and fair prices.,Burgers,Google
+0254,R038,2025-02-19,4,"Clean, comfortable, and well located.",Korean,Google
+0255,R007,2025-10-06,1,Overpriced and disappointing.,Korean,TripAdvisor
+0256,R003,2025-03-23,1,"Noisy, cramped, and unclean.",Sushi,Google
+0257,R048,2025-01-03,5,"Excellent value, would return.",Burgers,Yelp
+0258,R053,2025-09-22,3,Good food but slow service.,Burgers,TripAdvisor
+0259,R007,2025-04-07,5,"Clean, comfortable, and well located.",Italian,Google
+0260,R055,2025-11-03,1,"Noisy, cramped, and unclean.",Sushi,Yelp
+0261,R009,2025-02-26,4,Delicious meals and a nice atmosphere.,Korean,Yelp
+0262,R028,2025-05-01,3,"Nice place, though a bit pricey.",Mexican,Yelp
+0263,R049,2025-06-11,1,The order was wrong and no one apologized.,BBQ,Yelp
+0264,R040,2025-12-01,5,The staff were attentive and kind.,Italian,Yelp
+0265,R007,2025-06-16,4,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0266,R046,2025-02-19,4,Fast service and fair prices.,Korean,Yelp
+0267,R013,2025-05-25,1,Slow service and cold food.,Italian,Yelp
+0268,R032,2025-12-26,4,"Clean, comfortable, and well located.",Cafe,TripAdvisor
+0269,R054,2025-09-09,4,"Excellent value, would return.",Korean,Yelp
+0270,R045,2025-04-16,5,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0271,R032,2025-12-18,5,Great food and friendly service.,Sushi,Yelp
+0272,R026,2025-07-24,4,Great food and friendly service.,Cafe,TripAdvisor
+0273,R014,2025-05-09,1,Long wait and poor quality.,BBQ,TripAdvisor
+0274,R057,2025-11-08,2,Long wait and poor quality.,Korean,TripAdvisor
+0275,R045,2025-10-21,4,Great food and friendly service.,Mexican,TripAdvisor
+0276,R010,2025-08-22,3,"Friendly staff, but the food was average.",Sushi,Yelp
+0277,R029,2025-12-25,2,Overpriced and disappointing.,BBQ,Google
+0278,R030,2025-11-23,2,Dirty tables and rude staff.,BBQ,Google
+0279,R049,2025-12-27,3,"Friendly staff, but the food was average.",Korean,TripAdvisor
+0280,R016,2025-12-11,2,The order was wrong and no one apologized.,BBQ,Yelp
+0281,R021,2025-04-09,2,"Noisy, cramped, and unclean.",Italian,Google
+0282,R007,2025-04-13,5,"Clean, comfortable, and well located.",Korean,Yelp
+0283,R028,2025-05-07,5,Great food and friendly service.,Sushi,Google
+0284,R057,2025-07-15,3,Good food but slow service.,Italian,Yelp
+0285,R028,2025-12-08,5,"Excellent value, would return.",Sushi,Yelp
+0286,R010,2025-05-20,4,Delicious meals and a nice atmosphere.,Cafe,Google
+0287,R059,2025-07-23,5,"Excellent value, would return.",BBQ,TripAdvisor
+0288,R055,2025-04-22,5,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0289,R055,2025-04-22,5,"Clean, comfortable, and well located.",Sushi,Google
+0290,R021,2025-05-21,4,Delicious meals and a nice atmosphere.,Italian,Yelp
+0291,R026,2025-12-23,3,"Friendly staff, but the food was average.",Korean,Yelp
+0292,R031,2025-08-01,5,"Excellent value, would return.",Burgers,Yelp
+0293,R043,2025-03-21,4,Fast service and fair prices.,Burgers,Google
+0294,R032,2025-02-02,4,Fast service and fair prices.,BBQ,Google
+0295,R051,2025-04-17,2,Overpriced and disappointing.,Italian,TripAdvisor
+0296,R014,2025-12-16,4,"Excellent value, would return.",Italian,TripAdvisor
+0297,R024,2025-09-11,5,The staff were attentive and kind.,Sushi,Yelp
+0298,R044,2025-03-13,3,"Friendly staff, but the food was average.",Burgers,Google
+0299,R040,2025-06-21,5,Great food and friendly service.,Mexican,Yelp
+0300,R004,2025-01-03,4,The staff were attentive and kind.,Cafe,TripAdvisor
+0301,R023,2025-10-09,5,Great food and friendly service.,Korean,Yelp
+0302,R034,2025-04-26,5,The staff were attentive and kind.,Cafe,Google
+0303,R060,2025-02-26,2,"Noisy, cramped, and unclean.",Korean,Yelp
+0304,R047,2025-04-27,5,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0305,R053,2025-07-15,5,Fast service and fair prices.,Burgers,TripAdvisor
+0306,R050,2025-08-12,5,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0307,R017,2025-07-22,4,"Clean, comfortable, and well located.",Cafe,Google
+0308,R052,2025-05-12,5,"Clean, comfortable, and well located.",Sushi,Yelp
+0309,R032,2025-07-20,3,"Friendly staff, but the food was average.",Italian,TripAdvisor
+0310,R010,2025-05-28,5,The staff were attentive and kind.,Italian,Google
+0311,R058,2025-06-26,5,"Clean, comfortable, and well located.",BBQ,Yelp
+0312,R001,2025-11-01,5,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0313,R039,2025-02-19,3,Good food but slow service.,Burgers,Google
+0314,R029,2025-06-26,3,Good food but slow service.,Korean,Yelp
+0315,R011,2025-10-23,5,"Excellent value, would return.",Burgers,Google
+0316,R058,2025-09-26,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0317,R045,2025-04-17,3,Good food but slow service.,Sushi,Yelp
+0318,R008,2025-09-04,5,Fast service and fair prices.,Cafe,Google
+0319,R031,2025-08-18,5,Great food and friendly service.,Cafe,Yelp
+0320,R045,2025-08-08,5,The staff were attentive and kind.,Korean,TripAdvisor
+0321,R048,2025-01-06,4,Fast service and fair prices.,Cafe,TripAdvisor
+0322,R043,2025-05-27,4,The staff were attentive and kind.,Mexican,Yelp
+0323,R044,2025-02-06,4,Delicious meals and a nice atmosphere.,Mexican,TripAdvisor
+0324,R002,2025-10-02,5,Delicious meals and a nice atmosphere.,Sushi,Yelp
+0325,R007,2025-09-16,5,The staff were attentive and kind.,Burgers,Google
+0326,R046,2025-07-21,1,Dirty tables and rude staff.,Mexican,Google
+0327,R024,2025-06-16,5,"Excellent value, would return.",BBQ,Google
+0328,R022,2025-07-09,3,"Friendly staff, but the food was average.",Italian,Yelp
+0329,R053,2025-08-13,3,"Nice place, though a bit pricey.",BBQ,Yelp
+0330,R023,2025-04-21,5,The staff were attentive and kind.,Burgers,Google
+0331,R021,2025-12-10,4,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0332,R003,2025-07-24,2,The order was wrong and no one apologized.,Cafe,TripAdvisor
+0333,R026,2025-05-04,4,Great food and friendly service.,Italian,Google
+0334,R031,2025-10-25,5,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0335,R040,2025-07-20,5,"Clean, comfortable, and well located.",Sushi,TripAdvisor
+0336,R039,2025-11-03,5,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0337,R041,2025-03-04,5,Delicious meals and a nice atmosphere.,Korean,Google
+0338,R007,2025-11-01,4,Fast service and fair prices.,Burgers,Google
+0339,R036,2025-12-09,5,Fast service and fair prices.,Korean,Yelp
+0340,R002,2025-07-19,1,"Noisy, cramped, and unclean.",BBQ,Google
+0341,R034,2025-01-27,4,Great food and friendly service.,Burgers,Yelp
+0342,R059,2025-07-15,4,Great food and friendly service.,Italian,TripAdvisor
+0343,R038,2025-11-05,4,The staff were attentive and kind.,Burgers,Yelp
+0344,R006,2025-11-16,4,"Clean, comfortable, and well located.",Korean,TripAdvisor
+0345,R001,2025-01-22,1,"Noisy, cramped, and unclean.",Italian,Google
+0346,R008,2025-03-16,3,Good food but slow service.,Mexican,TripAdvisor
+0347,R029,2025-12-24,4,"Clean, comfortable, and well located.",Italian,Yelp
+0348,R046,2025-12-28,5,"Clean, comfortable, and well located.",Sushi,Google
+0349,R036,2025-12-16,3,"Nice place, though a bit pricey.",Sushi,Yelp
+0350,R004,2025-12-02,5,Great food and friendly service.,Italian,Google
+0351,R044,2025-10-03,5,The staff were attentive and kind.,Mexican,Yelp
+0352,R011,2025-08-20,5,Great food and friendly service.,Mexican,Yelp
+0353,R047,2025-08-16,5,Delicious meals and a nice atmosphere.,Korean,Google
+0354,R008,2025-06-21,5,"Clean, comfortable, and well located.",Sushi,Yelp
+0355,R050,2025-08-09,4,"Excellent value, would return.",Mexican,Yelp
+0356,R040,2025-11-23,3,"Friendly staff, but the food was average.",Mexican,TripAdvisor
+0357,R001,2025-03-20,5,Fast service and fair prices.,BBQ,Yelp
+0358,R016,2025-07-13,5,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0359,R015,2025-08-10,5,Delicious meals and a nice atmosphere.,Italian,Yelp
+0360,R028,2025-03-19,3,Good food but slow service.,Mexican,Google
+0361,R056,2025-10-05,5,Fast service and fair prices.,Burgers,TripAdvisor
+0362,R059,2025-08-12,5,"Excellent value, would return.",Italian,TripAdvisor
+0363,R052,2025-07-07,4,Delicious meals and a nice atmosphere.,Korean,Yelp
+0364,R044,2025-07-15,4,Delicious meals and a nice atmosphere.,Korean,Yelp
+0365,R001,2025-07-15,4,"Excellent value, would return.",Italian,TripAdvisor
+0366,R050,2025-02-08,5,The staff were attentive and kind.,BBQ,TripAdvisor
+0367,R057,2025-09-11,5,The staff were attentive and kind.,BBQ,TripAdvisor
+0368,R014,2025-04-03,3,Good food but slow service.,Burgers,TripAdvisor
+0369,R037,2025-10-12,3,"Nice place, though a bit pricey.",Burgers,TripAdvisor
+0370,R016,2025-01-16,5,Fast service and fair prices.,Burgers,Google
+0371,R030,2025-02-05,4,Fast service and fair prices.,BBQ,Google
+0372,R034,2025-10-01,4,Great food and friendly service.,Italian,Google
+0373,R056,2025-10-16,5,"Excellent value, would return.",BBQ,Google
+0374,R050,2025-05-14,3,Good food but slow service.,Cafe,TripAdvisor
+0375,R009,2025-05-27,5,Great food and friendly service.,Mexican,Google
+0376,R025,2025-02-01,5,Great food and friendly service.,Italian,TripAdvisor
+0377,R046,2025-08-16,4,Great food and friendly service.,Burgers,TripAdvisor
+0378,R060,2025-02-23,5,Great food and friendly service.,Mexican,Yelp
+0379,R042,2025-02-22,4,"Excellent value, would return.",Cafe,Google
+0380,R011,2025-06-08,4,Delicious meals and a nice atmosphere.,Korean,Google
+0381,R017,2025-06-02,1,The order was wrong and no one apologized.,Italian,Google
+0382,R033,2025-12-24,3,"Friendly staff, but the food was average.",Burgers,Yelp
+0383,R010,2025-06-25,1,Slow service and cold food.,Korean,TripAdvisor
+0384,R038,2025-10-15,5,Delicious meals and a nice atmosphere.,Italian,Yelp
+0385,R017,2025-07-04,3,"Nice place, though a bit pricey.",Cafe,Yelp
+0386,R016,2025-03-22,2,Slow service and cold food.,Cafe,TripAdvisor
+0387,R052,2025-01-06,5,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0388,R057,2025-12-05,5,The staff were attentive and kind.,Italian,Yelp
+0389,R041,2025-02-15,5,Fast service and fair prices.,Mexican,Google
+0390,R041,2025-06-05,4,Fast service and fair prices.,Korean,TripAdvisor
+0391,R046,2025-08-18,1,Dirty tables and rude staff.,Cafe,Google
+0392,R027,2025-04-05,3,Good food but slow service.,Mexican,TripAdvisor
+0393,R022,2025-03-09,5,The staff were attentive and kind.,Italian,Yelp
+0394,R031,2025-02-05,4,"Excellent value, would return.",Italian,TripAdvisor
+0395,R043,2025-04-18,5,The staff were attentive and kind.,Burgers,Yelp
+0396,R049,2025-04-12,2,Long wait and poor quality.,Mexican,Google
+0397,R007,2025-07-10,5,The staff were attentive and kind.,Korean,Google
+0398,R019,2025-03-21,5,Great food and friendly service.,Cafe,TripAdvisor
+0399,R009,2025-08-01,4,"Excellent value, would return.",Mexican,Google
+0400,R003,2025-07-07,4,Fast service and fair prices.,BBQ,Google
+0401,R012,2025-09-25,2,Dirty tables and rude staff.,Sushi,Google
+0402,R006,2025-02-20,3,"Friendly staff, but the food was average.",Cafe,Yelp
+0403,R009,2025-10-22,2,"Noisy, cramped, and unclean.",Sushi,Google
+0404,R013,2025-01-03,4,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0405,R047,2025-01-17,4,Fast service and fair prices.,Mexican,Yelp
+0406,R056,2025-08-03,5,Great food and friendly service.,Cafe,Yelp
+0407,R043,2025-05-08,2,Dirty tables and rude staff.,BBQ,Yelp
+0408,R045,2025-06-19,1,The order was wrong and no one apologized.,Burgers,Google
+0409,R060,2025-08-17,4,Great food and friendly service.,Italian,Yelp
+0410,R053,2025-06-25,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0411,R058,2025-01-10,4,Great food and friendly service.,Sushi,Yelp
+0412,R002,2025-09-26,4,"Excellent value, would return.",Korean,Google
+0413,R006,2025-04-20,3,Good food but slow service.,Korean,Google
+0414,R036,2025-01-01,3,Good food but slow service.,Sushi,TripAdvisor
+0415,R002,2025-10-21,3,"Friendly staff, but the food was average.",Cafe,TripAdvisor
+0416,R029,2025-02-12,3,Good food but slow service.,Sushi,Google
+0417,R008,2025-08-16,1,The order was wrong and no one apologized.,BBQ,Yelp
+0418,R008,2025-07-05,2,The order was wrong and no one apologized.,BBQ,Google
+0419,R010,2025-11-19,5,The staff were attentive and kind.,Sushi,Yelp
+0420,R053,2025-01-21,2,Long wait and poor quality.,Sushi,Yelp
+0421,R039,2025-09-02,4,The staff were attentive and kind.,Italian,Yelp
+0422,R016,2025-06-23,4,The staff were attentive and kind.,Burgers,TripAdvisor
+0423,R059,2025-06-27,5,The staff were attentive and kind.,Burgers,TripAdvisor
+0424,R034,2025-03-22,1,Overpriced and disappointing.,Korean,Yelp
+0425,R001,2025-06-04,5,"Excellent value, would return.",Korean,Google
+0426,R013,2025-09-22,3,Good food but slow service.,Korean,Google
+0427,R026,2025-08-21,4,Great food and friendly service.,Burgers,Google
+0428,R042,2025-10-09,1,"Noisy, cramped, and unclean.",BBQ,Yelp
+0429,R052,2025-01-20,4,Great food and friendly service.,Mexican,Google
+0430,R028,2025-04-02,4,Fast service and fair prices.,Italian,Yelp
+0431,R011,2025-02-02,4,"Excellent value, would return.",BBQ,Yelp
+0432,R038,2025-09-05,2,Long wait and poor quality.,Italian,TripAdvisor
+0433,R019,2025-07-19,2,Overpriced and disappointing.,Mexican,Google
+0434,R048,2025-09-10,5,The staff were attentive and kind.,BBQ,TripAdvisor
+0435,R042,2025-07-07,4,"Excellent value, would return.",Sushi,Yelp
+0436,R036,2025-05-20,4,The staff were attentive and kind.,Cafe,Yelp
+0437,R022,2025-04-07,1,The order was wrong and no one apologized.,BBQ,Yelp
+0438,R026,2025-01-12,5,"Clean, comfortable, and well located.",Burgers,Google
+0439,R021,2025-08-09,3,"Nice place, though a bit pricey.",Korean,Yelp
+0440,R002,2025-03-18,1,Slow service and cold food.,BBQ,Yelp
+0441,R004,2025-09-13,4,The staff were attentive and kind.,Mexican,TripAdvisor
+0442,R034,2025-04-22,5,Delicious meals and a nice atmosphere.,Korean,Yelp
+0443,R023,2025-03-22,4,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0444,R053,2025-09-04,5,Delicious meals and a nice atmosphere.,Burgers,TripAdvisor
+0445,R031,2025-05-26,5,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0446,R009,2025-07-28,5,Great food and friendly service.,Italian,Yelp
+0447,R038,2025-02-16,5,The staff were attentive and kind.,BBQ,Google
+0448,R051,2025-05-28,4,"Excellent value, would return.",BBQ,Google
+0449,R029,2025-12-15,4,Fast service and fair prices.,Sushi,Yelp
+0450,R026,2025-09-18,3,"Friendly staff, but the food was average.",Cafe,TripAdvisor
+0451,R051,2025-12-28,3,"Nice place, though a bit pricey.",Cafe,Yelp
+0452,R035,2025-05-26,3,Good food but slow service.,Cafe,TripAdvisor
+0453,R015,2025-02-27,4,Fast service and fair prices.,Mexican,TripAdvisor
+0454,R021,2025-04-14,5,Great food and friendly service.,Italian,Google
+0455,R058,2025-08-10,3,"Friendly staff, but the food was average.",Burgers,Yelp
+0456,R028,2025-09-27,4,"Excellent value, would return.",Sushi,TripAdvisor
+0457,R030,2025-06-02,4,"Excellent value, would return.",Sushi,Yelp
+0458,R001,2025-11-03,4,"Excellent value, would return.",Korean,Google
+0459,R033,2025-07-21,4,"Excellent value, would return.",BBQ,Google
+0460,R027,2025-08-13,5,The staff were attentive and kind.,Burgers,TripAdvisor
+0461,R038,2025-06-23,5,"Excellent value, would return.",Sushi,Google
+0462,R021,2025-06-03,2,Overpriced and disappointing.,BBQ,Google
+0463,R058,2025-05-23,2,Overpriced and disappointing.,Burgers,TripAdvisor
+0464,R027,2025-11-06,5,"Excellent value, would return.",Mexican,TripAdvisor
+0465,R058,2025-04-14,3,Good food but slow service.,Italian,TripAdvisor
+0466,R007,2025-06-19,4,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0467,R027,2025-01-26,1,Slow service and cold food.,Mexican,TripAdvisor
+0468,R001,2025-05-13,5,Great food and friendly service.,BBQ,Google
+0469,R013,2025-03-16,5,"Excellent value, would return.",BBQ,Yelp
+0470,R058,2025-09-17,5,"Clean, comfortable, and well located.",BBQ,Google
+0471,R008,2025-03-06,4,"Excellent value, would return.",Burgers,TripAdvisor
+0472,R007,2025-02-06,2,The order was wrong and no one apologized.,Cafe,Yelp
+0473,R052,2025-01-21,4,Great food and friendly service.,Sushi,TripAdvisor
+0474,R046,2025-04-12,3,"Nice place, though a bit pricey.",Korean,Google
+0475,R007,2025-10-03,3,"Nice place, though a bit pricey.",Korean,Yelp
+0476,R002,2025-01-08,4,The staff were attentive and kind.,BBQ,Google
+0477,R040,2025-04-08,4,"Clean, comfortable, and well located.",Italian,Google
+0478,R055,2025-03-11,5,Great food and friendly service.,Burgers,Yelp
+0479,R039,2025-05-16,3,Good food but slow service.,Korean,TripAdvisor
+0480,R046,2025-10-08,4,The staff were attentive and kind.,Mexican,Yelp
+0481,R032,2025-01-26,5,"Clean, comfortable, and well located.",Italian,Google
+0482,R025,2025-03-01,2,Overpriced and disappointing.,Cafe,TripAdvisor
+0483,R022,2025-09-28,4,The staff were attentive and kind.,Mexican,Yelp
+0484,R008,2025-07-27,5,Fast service and fair prices.,BBQ,Google
+0485,R030,2025-05-12,4,"Clean, comfortable, and well located.",Cafe,Google
+0486,R002,2025-06-26,3,Good food but slow service.,Korean,TripAdvisor
+0487,R013,2025-05-18,2,Dirty tables and rude staff.,BBQ,Yelp
+0488,R051,2025-04-06,4,Fast service and fair prices.,Mexican,Google
+0489,R025,2025-11-19,5,"Clean, comfortable, and well located.",Mexican,Yelp
+0490,R015,2025-08-22,4,"Clean, comfortable, and well located.",Sushi,Yelp
+0491,R029,2025-10-12,4,"Excellent value, would return.",Korean,Yelp
+0492,R014,2025-03-28,4,Great food and friendly service.,Sushi,TripAdvisor
+0493,R055,2025-05-24,2,Long wait and poor quality.,Italian,TripAdvisor
+0494,R010,2025-05-01,5,The staff were attentive and kind.,Sushi,Google
+0495,R050,2025-04-11,5,"Clean, comfortable, and well located.",Sushi,Google
+0496,R059,2025-06-26,1,The order was wrong and no one apologized.,Burgers,Yelp
+0497,R046,2025-05-03,3,Good food but slow service.,Mexican,Google
+0498,R026,2025-05-12,5,The staff were attentive and kind.,Burgers,Yelp
+0499,R057,2025-11-28,5,"Clean, comfortable, and well located.",Mexican,Google
+0500,R044,2025-11-23,1,Overpriced and disappointing.,Cafe,Google
+0501,R045,2025-08-08,5,The staff were attentive and kind.,Mexican,TripAdvisor
+0502,R019,2025-02-09,2,The order was wrong and no one apologized.,Sushi,Google
+0503,R003,2025-07-02,5,"Excellent value, would return.",Korean,Yelp
+0504,R020,2025-03-13,3,"Friendly staff, but the food was average.",Italian,TripAdvisor
+0505,R041,2025-03-19,3,Good food but slow service.,BBQ,Yelp
+0506,R017,2025-07-22,5,Delicious meals and a nice atmosphere.,BBQ,Yelp
+0507,R008,2025-11-10,5,Great food and friendly service.,Burgers,TripAdvisor
+0508,R004,2025-04-22,4,Great food and friendly service.,Italian,Yelp
+0509,R059,2025-06-24,3,Good food but slow service.,Cafe,TripAdvisor
+0510,R048,2025-10-27,5,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0511,R028,2025-08-11,2,"Noisy, cramped, and unclean.",BBQ,TripAdvisor
+0512,R054,2025-11-21,5,The staff were attentive and kind.,BBQ,Google
+0513,R014,2025-07-22,5,"Excellent value, would return.",Burgers,Google
+0514,R013,2025-01-23,4,"Excellent value, would return.",Mexican,Google
+0515,R050,2025-11-08,4,"Excellent value, would return.",Mexican,Google
+0516,R011,2025-06-12,5,The staff were attentive and kind.,Italian,Google
+0517,R009,2025-03-22,5,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0518,R046,2025-04-01,4,"Excellent value, would return.",Sushi,Yelp
+0519,R042,2025-06-23,2,Overpriced and disappointing.,Korean,TripAdvisor
+0520,R037,2025-04-11,2,"Noisy, cramped, and unclean.",Burgers,Google
+0521,R049,2025-03-22,4,Delicious meals and a nice atmosphere.,Korean,TripAdvisor
+0522,R054,2025-07-27,5,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0523,R024,2025-08-07,3,Good food but slow service.,Italian,Yelp
+0524,R008,2025-12-10,3,"Nice place, though a bit pricey.",Italian,Google
+0525,R030,2025-10-12,3,"Nice place, though a bit pricey.",Korean,TripAdvisor
+0526,R001,2025-08-25,1,Long wait and poor quality.,Italian,TripAdvisor
+0527,R048,2025-10-09,5,Great food and friendly service.,Sushi,Yelp
+0528,R032,2025-04-26,5,"Excellent value, would return.",Mexican,Google
+0529,R006,2025-11-10,4,Delicious meals and a nice atmosphere.,BBQ,TripAdvisor
+0530,R017,2025-11-08,5,Great food and friendly service.,Korean,TripAdvisor
+0531,R050,2025-07-27,1,Dirty tables and rude staff.,Mexican,Yelp
+0532,R041,2025-09-28,3,"Friendly staff, but the food was average.",Korean,Google
+0533,R054,2025-05-24,5,"Excellent value, would return.",Mexican,Yelp
+0534,R053,2025-06-11,3,Good food but slow service.,Mexican,Google
+0535,R024,2025-05-08,4,Great food and friendly service.,Italian,Google
+0536,R041,2025-12-13,4,Great food and friendly service.,Korean,Yelp
+0537,R047,2025-03-10,4,"Excellent value, would return.",BBQ,TripAdvisor
+0538,R045,2025-04-06,2,Dirty tables and rude staff.,Cafe,TripAdvisor
+0539,R006,2025-01-28,5,The staff were attentive and kind.,Cafe,Google
+0540,R024,2025-01-02,3,"Friendly staff, but the food was average.",Burgers,TripAdvisor
+0541,R019,2025-02-22,4,Great food and friendly service.,BBQ,TripAdvisor
+0542,R022,2025-02-15,4,Great food and friendly service.,Sushi,Google
+0543,R011,2025-07-10,5,Great food and friendly service.,Cafe,TripAdvisor
+0544,R037,2025-04-16,5,Great food and friendly service.,BBQ,Yelp
+0545,R028,2025-09-21,4,"Clean, comfortable, and well located.",Cafe,TripAdvisor
+0546,R052,2025-01-24,4,Delicious meals and a nice atmosphere.,Mexican,TripAdvisor
+0547,R037,2025-10-14,5,Fast service and fair prices.,Cafe,TripAdvisor
+0548,R020,2025-06-17,5,Delicious meals and a nice atmosphere.,Italian,Google
+0549,R048,2025-08-23,3,Good food but slow service.,Korean,TripAdvisor
+0550,R036,2025-10-14,4,Fast service and fair prices.,BBQ,Google
+0551,R026,2025-05-04,4,"Clean, comfortable, and well located.",Korean,Google
+0552,R008,2025-04-28,4,Fast service and fair prices.,Sushi,Google
+0553,R043,2025-05-23,3,"Nice place, though a bit pricey.",Korean,TripAdvisor
+0554,R035,2025-10-23,4,Great food and friendly service.,Sushi,TripAdvisor
+0555,R037,2025-02-28,5,The staff were attentive and kind.,Sushi,Google
+0556,R009,2025-09-18,5,"Excellent value, would return.",Sushi,Google
+0557,R047,2025-09-04,4,The staff were attentive and kind.,Burgers,TripAdvisor
+0558,R011,2025-04-19,4,The staff were attentive and kind.,Burgers,Google
+0559,R050,2025-10-02,2,Long wait and poor quality.,Korean,Google
+0560,R001,2025-12-20,4,"Clean, comfortable, and well located.",Cafe,Yelp
+0561,R009,2025-07-03,2,The order was wrong and no one apologized.,Burgers,Google
+0562,R059,2025-12-28,4,Fast service and fair prices.,Korean,Yelp
+0563,R022,2025-12-22,5,Great food and friendly service.,Burgers,Yelp
+0564,R024,2025-09-24,2,The order was wrong and no one apologized.,Mexican,TripAdvisor
+0565,R053,2025-10-12,4,Great food and friendly service.,Mexican,TripAdvisor
+0566,R039,2025-02-02,3,"Friendly staff, but the food was average.",Korean,Yelp
+0567,R045,2025-08-01,4,"Excellent value, would return.",Cafe,Google
+0568,R032,2025-02-03,5,Fast service and fair prices.,Korean,Google
+0569,R019,2025-11-22,4,The staff were attentive and kind.,Burgers,Google
+0570,R017,2025-09-23,4,Fast service and fair prices.,Cafe,Google
+0571,R010,2025-08-17,1,Long wait and poor quality.,Burgers,Google
+0572,R003,2025-02-06,5,"Excellent value, would return.",Burgers,TripAdvisor
+0573,R026,2025-08-06,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0574,R056,2025-10-17,4,Great food and friendly service.,Mexican,Yelp
+0575,R020,2025-03-19,4,"Excellent value, would return.",Italian,Google
+0576,R024,2025-12-15,2,Overpriced and disappointing.,BBQ,Yelp
+0577,R023,2025-06-01,4,Fast service and fair prices.,BBQ,Yelp
+0578,R002,2025-04-15,4,"Excellent value, would return.",Italian,TripAdvisor
+0579,R043,2025-03-09,2,Long wait and poor quality.,Mexican,Google
+0580,R017,2025-06-19,4,"Excellent value, would return.",BBQ,TripAdvisor
+0581,R045,2025-01-18,5,Great food and friendly service.,Burgers,Google
+0582,R041,2025-10-21,5,Great food and friendly service.,Mexican,Yelp
+0583,R016,2025-03-22,5,Great food and friendly service.,Mexican,Yelp
+0584,R033,2025-11-08,5,Fast service and fair prices.,Burgers,TripAdvisor
+0585,R022,2025-01-23,5,Fast service and fair prices.,Sushi,Yelp
+0586,R051,2025-08-17,5,Fast service and fair prices.,Korean,Google
+0587,R010,2025-03-07,5,Great food and friendly service.,Burgers,TripAdvisor
+0588,R029,2025-07-19,4,Fast service and fair prices.,Korean,TripAdvisor
+0589,R020,2025-12-10,1,Overpriced and disappointing.,Sushi,TripAdvisor
+0590,R060,2025-06-03,4,"Clean, comfortable, and well located.",BBQ,Google
+0591,R020,2025-10-12,4,The staff were attentive and kind.,Mexican,TripAdvisor
+0592,R056,2025-02-27,4,The staff were attentive and kind.,Mexican,Google
+0593,R017,2025-09-01,3,Good food but slow service.,Sushi,Yelp
+0594,R002,2025-04-02,3,"Nice place, though a bit pricey.",Cafe,Google
+0595,R019,2025-09-21,5,Great food and friendly service.,Korean,Google
+0596,R009,2025-10-02,5,Great food and friendly service.,Italian,TripAdvisor
+0597,R009,2025-01-07,4,Fast service and fair prices.,BBQ,TripAdvisor
+0598,R041,2025-06-01,5,"Clean, comfortable, and well located.",Mexican,Yelp
+0599,R002,2025-11-16,5,The staff were attentive and kind.,BBQ,TripAdvisor
+0600,R012,2025-01-28,5,The staff were attentive and kind.,Burgers,Google
+0601,R040,2025-06-25,2,Long wait and poor quality.,BBQ,Yelp
+0602,R030,2025-01-01,3,"Nice place, though a bit pricey.",BBQ,TripAdvisor
+0603,R004,2025-07-20,5,Delicious meals and a nice atmosphere.,Sushi,Yelp
+0604,R002,2025-03-07,2,Dirty tables and rude staff.,BBQ,Google
+0605,R024,2025-07-12,4,"Excellent value, would return.",Sushi,TripAdvisor
+0606,R010,2025-11-20,5,"Excellent value, would return.",Mexican,Google
+0607,R017,2025-12-16,5,Great food and friendly service.,Burgers,TripAdvisor
+0608,R050,2025-09-23,3,"Nice place, though a bit pricey.",BBQ,Yelp
+0609,R034,2025-05-05,4,Fast service and fair prices.,Italian,TripAdvisor
+0610,R042,2025-06-05,4,Delicious meals and a nice atmosphere.,Korean,Yelp
+0611,R006,2025-01-20,5,"Clean, comfortable, and well located.",Italian,Google
+0612,R014,2025-09-25,4,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0613,R010,2025-03-28,4,Delicious meals and a nice atmosphere.,Burgers,Google
+0614,R023,2025-12-08,4,The staff were attentive and kind.,Burgers,Yelp
+0615,R059,2025-06-26,3,"Nice place, though a bit pricey.",Cafe,Google
+0616,R058,2025-01-04,3,"Friendly staff, but the food was average.",Sushi,Google
+0617,R042,2025-07-22,1,Overpriced and disappointing.,Italian,Google
+0618,R027,2025-07-22,4,Delicious meals and a nice atmosphere.,Burgers,Google
+0619,R002,2025-05-23,1,Long wait and poor quality.,Korean,Google
+0620,R021,2025-07-21,4,Fast service and fair prices.,Mexican,Yelp
+0621,R037,2025-03-16,3,"Nice place, though a bit pricey.",Burgers,Google
+0622,R019,2025-02-11,5,Great food and friendly service.,Cafe,Google
+0623,R044,2025-10-20,2,Long wait and poor quality.,Korean,TripAdvisor
+0624,R051,2025-04-28,1,"Noisy, cramped, and unclean.",Mexican,Google
+0625,R056,2025-08-06,5,The staff were attentive and kind.,Burgers,Google
+0626,R020,2025-11-01,5,Great food and friendly service.,Korean,Google
+0627,R020,2025-03-17,2,"Noisy, cramped, and unclean.",Mexican,Google
+0628,R030,2025-11-13,5,Great food and friendly service.,Cafe,Yelp
+0629,R043,2025-12-13,5,Fast service and fair prices.,Italian,TripAdvisor
+0630,R051,2025-11-23,3,Good food but slow service.,Italian,Google
+0631,R015,2025-10-14,4,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0632,R058,2025-06-03,1,Slow service and cold food.,Italian,Yelp
+0633,R034,2025-07-01,5,"Clean, comfortable, and well located.",Korean,TripAdvisor
+0634,R041,2025-12-18,4,"Excellent value, would return.",Italian,TripAdvisor
+0635,R032,2025-02-12,4,"Clean, comfortable, and well located.",Burgers,Google
+0636,R018,2025-12-06,5,Great food and friendly service.,Mexican,Yelp
+0637,R003,2025-04-17,1,Slow service and cold food.,Cafe,TripAdvisor
+0638,R018,2025-01-11,5,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0639,R019,2025-09-11,4,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0640,R026,2025-07-11,5,"Excellent value, would return.",Cafe,Yelp
+0641,R025,2025-07-14,5,"Clean, comfortable, and well located.",Sushi,Google
+0642,R033,2025-05-23,3,"Friendly staff, but the food was average.",Sushi,Yelp
+0643,R053,2025-04-22,5,Great food and friendly service.,Italian,TripAdvisor
+0644,R059,2025-12-02,5,The staff were attentive and kind.,Sushi,TripAdvisor
+0645,R042,2025-08-18,3,"Friendly staff, but the food was average.",Mexican,Yelp
+0646,R001,2025-08-24,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0647,R038,2025-09-13,4,"Clean, comfortable, and well located.",Burgers,TripAdvisor
+0648,R056,2025-07-12,5,Delicious meals and a nice atmosphere.,Italian,Yelp
+0649,R018,2025-10-22,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0650,R052,2025-09-22,1,Dirty tables and rude staff.,BBQ,Yelp
+0651,R054,2025-08-28,3,"Friendly staff, but the food was average.",Mexican,TripAdvisor
+0652,R037,2025-04-05,4,Great food and friendly service.,Burgers,TripAdvisor
+0653,R014,2025-09-06,4,Fast service and fair prices.,Korean,TripAdvisor
+0654,R053,2025-11-15,2,Dirty tables and rude staff.,Sushi,TripAdvisor
+0655,R003,2025-06-13,5,Fast service and fair prices.,Burgers,Yelp
+0656,R010,2025-12-09,2,Long wait and poor quality.,Italian,Yelp
+0657,R052,2025-09-17,4,Fast service and fair prices.,Cafe,TripAdvisor
+0658,R026,2025-05-15,2,"Noisy, cramped, and unclean.",Italian,Yelp
+0659,R047,2025-03-25,5,"Excellent value, would return.",Korean,Google
+0660,R024,2025-08-17,5,Delicious meals and a nice atmosphere.,Korean,TripAdvisor
+0661,R022,2025-07-09,4,Great food and friendly service.,BBQ,Google
+0662,R017,2025-01-19,1,Dirty tables and rude staff.,Mexican,TripAdvisor
+0663,R059,2025-06-09,4,"Clean, comfortable, and well located.",Mexican,Yelp
+0664,R041,2025-08-28,2,Slow service and cold food.,Korean,Google
+0665,R051,2025-05-20,4,Fast service and fair prices.,Italian,TripAdvisor
+0666,R024,2025-01-23,4,Fast service and fair prices.,Cafe,Yelp
+0667,R052,2025-05-12,5,"Clean, comfortable, and well located.",Cafe,TripAdvisor
+0668,R040,2025-04-28,2,"Noisy, cramped, and unclean.",BBQ,Yelp
+0669,R014,2025-06-28,1,Slow service and cold food.,Italian,Yelp
+0670,R034,2025-07-16,4,Delicious meals and a nice atmosphere.,Burgers,Google
+0671,R037,2025-08-15,2,"Noisy, cramped, and unclean.",Burgers,Yelp
+0672,R031,2025-03-03,4,The staff were attentive and kind.,Cafe,Yelp
+0673,R049,2025-01-22,2,Dirty tables and rude staff.,Sushi,Google
+0674,R003,2025-11-10,4,"Excellent value, would return.",Mexican,Yelp
+0675,R008,2025-02-08,5,Great food and friendly service.,BBQ,Google
+0676,R006,2025-04-19,2,Long wait and poor quality.,Italian,TripAdvisor
+0677,R022,2025-08-28,3,Good food but slow service.,BBQ,TripAdvisor
+0678,R054,2025-10-05,5,The staff were attentive and kind.,Burgers,Google
+0679,R010,2025-06-11,5,"Clean, comfortable, and well located.",BBQ,Google
+0680,R035,2025-05-17,3,"Nice place, though a bit pricey.",Italian,Yelp
+0681,R043,2025-05-18,4,The staff were attentive and kind.,BBQ,Yelp
+0682,R020,2025-05-08,5,The staff were attentive and kind.,Burgers,Yelp
+0683,R017,2025-05-07,5,"Clean, comfortable, and well located.",Italian,Google
+0684,R024,2025-08-22,4,The staff were attentive and kind.,Sushi,TripAdvisor
+0685,R060,2025-06-07,2,Long wait and poor quality.,Sushi,TripAdvisor
+0686,R047,2025-06-01,5,"Excellent value, would return.",Italian,Yelp
+0687,R053,2025-06-02,5,Fast service and fair prices.,Korean,Yelp
+0688,R046,2025-04-26,3,"Friendly staff, but the food was average.",BBQ,Yelp
+0689,R047,2025-08-07,4,"Clean, comfortable, and well located.",Italian,Google
+0690,R041,2025-02-02,4,"Clean, comfortable, and well located.",Burgers,Google
+0691,R032,2025-03-01,5,Delicious meals and a nice atmosphere.,BBQ,TripAdvisor
+0692,R032,2025-04-22,5,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0693,R014,2025-09-27,3,Good food but slow service.,Korean,TripAdvisor
+0694,R007,2025-08-04,3,Good food but slow service.,Burgers,Google
+0695,R027,2025-04-22,5,Fast service and fair prices.,Sushi,Yelp
+0696,R010,2025-01-23,5,"Clean, comfortable, and well located.",Italian,Google
+0697,R019,2025-04-28,5,"Excellent value, would return.",Burgers,Yelp
+0698,R047,2025-03-10,5,Fast service and fair prices.,Mexican,TripAdvisor
+0699,R010,2025-11-08,5,The staff were attentive and kind.,Italian,Yelp
+0700,R042,2025-05-08,4,Delicious meals and a nice atmosphere.,BBQ,TripAdvisor
+0701,R030,2025-03-24,2,Dirty tables and rude staff.,Cafe,Yelp
+0702,R008,2025-01-27,5,Fast service and fair prices.,Italian,TripAdvisor
+0703,R042,2025-09-17,5,Great food and friendly service.,Mexican,Yelp
+0704,R049,2025-08-03,4,"Clean, comfortable, and well located.",Cafe,Yelp
+0705,R039,2025-10-18,5,Great food and friendly service.,Korean,Google
+0706,R050,2025-04-19,4,Fast service and fair prices.,Italian,TripAdvisor
+0707,R001,2025-06-07,4,"Clean, comfortable, and well located.",Sushi,Yelp
+0708,R022,2025-06-15,1,Long wait and poor quality.,Korean,Yelp
+0709,R012,2025-02-26,5,Fast service and fair prices.,Burgers,Google
+0710,R030,2025-02-24,5,"Excellent value, would return.",Italian,Google
+0711,R030,2025-01-02,4,Great food and friendly service.,BBQ,TripAdvisor
+0712,R042,2025-12-05,2,Long wait and poor quality.,BBQ,Yelp
+0713,R047,2025-11-24,1,Dirty tables and rude staff.,Mexican,Google
+0714,R006,2025-06-01,5,Delicious meals and a nice atmosphere.,Burgers,Yelp
+0715,R017,2025-02-04,3,Good food but slow service.,Italian,Google
+0716,R035,2025-09-04,4,Fast service and fair prices.,Cafe,Google
+0717,R035,2025-01-17,2,Overpriced and disappointing.,Mexican,Google
+0718,R036,2025-04-05,3,Good food but slow service.,Sushi,TripAdvisor
+0719,R057,2025-02-01,4,Great food and friendly service.,Italian,Yelp
+0720,R045,2025-10-07,5,Delicious meals and a nice atmosphere.,Sushi,Google
+0721,R011,2025-03-27,2,Overpriced and disappointing.,Italian,Yelp
+0722,R034,2025-02-10,4,"Excellent value, would return.",Italian,Google
+0723,R014,2025-04-08,5,"Excellent value, would return.",Burgers,TripAdvisor
+0724,R004,2025-04-03,5,"Excellent value, would return.",Mexican,Google
+0725,R040,2025-12-06,1,Overpriced and disappointing.,Mexican,Google
+0726,R030,2025-10-06,5,Great food and friendly service.,Mexican,Yelp
+0727,R003,2025-02-26,5,"Clean, comfortable, and well located.",Korean,TripAdvisor
+0728,R011,2025-03-26,4,Fast service and fair prices.,Burgers,Google
+0729,R060,2025-04-22,3,"Nice place, though a bit pricey.",Sushi,Google
+0730,R051,2025-08-02,5,The staff were attentive and kind.,BBQ,Yelp
+0731,R049,2025-10-21,5,Great food and friendly service.,Korean,TripAdvisor
+0732,R024,2025-07-03,1,"Noisy, cramped, and unclean.",Sushi,Yelp
+0733,R052,2025-08-22,4,Delicious meals and a nice atmosphere.,Cafe,Google
+0734,R045,2025-05-02,3,"Friendly staff, but the food was average.",Cafe,TripAdvisor
+0735,R028,2025-07-27,4,Delicious meals and a nice atmosphere.,Burgers,TripAdvisor
+0736,R038,2025-09-21,3,"Friendly staff, but the food was average.",Italian,Google
+0737,R051,2025-05-25,5,"Clean, comfortable, and well located.",Korean,Google
+0738,R036,2025-04-16,4,"Excellent value, would return.",Sushi,TripAdvisor
+0739,R043,2025-07-26,1,"Noisy, cramped, and unclean.",Sushi,Yelp
+0740,R026,2025-02-08,5,Delicious meals and a nice atmosphere.,Sushi,Yelp
+0741,R058,2025-07-26,5,Fast service and fair prices.,Italian,Yelp
+0742,R002,2025-02-26,4,The staff were attentive and kind.,Cafe,Yelp
+0743,R030,2025-03-11,4,"Excellent value, would return.",Korean,Google
+0744,R055,2025-08-20,4,Great food and friendly service.,Mexican,Yelp
+0745,R018,2025-03-23,2,Long wait and poor quality.,Cafe,TripAdvisor
+0746,R016,2025-02-07,4,Delicious meals and a nice atmosphere.,Sushi,Google
+0747,R058,2025-03-13,4,Fast service and fair prices.,Mexican,Google
+0748,R015,2025-06-27,4,"Excellent value, would return.",Cafe,Yelp
+0749,R057,2025-09-26,4,"Excellent value, would return.",Korean,Google
+0750,R001,2025-01-28,4,"Clean, comfortable, and well located.",Italian,Google
+0751,R052,2025-11-09,4,Delicious meals and a nice atmosphere.,Mexican,TripAdvisor
+0752,R036,2025-12-28,2,The order was wrong and no one apologized.,Sushi,Yelp
+0753,R049,2025-05-22,2,Long wait and poor quality.,Italian,TripAdvisor
+0754,R029,2025-05-10,4,Fast service and fair prices.,Mexican,TripAdvisor
+0755,R044,2025-07-17,5,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0756,R024,2025-12-01,4,Great food and friendly service.,Burgers,TripAdvisor
+0757,R025,2025-08-10,2,The order was wrong and no one apologized.,Korean,TripAdvisor
+0758,R030,2025-01-11,4,The staff were attentive and kind.,Korean,Google
+0759,R058,2025-05-05,5,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0760,R026,2025-03-24,4,"Excellent value, would return.",Sushi,Yelp
+0761,R016,2025-05-25,4,"Excellent value, would return.",Italian,Yelp
+0762,R027,2025-11-03,4,Delicious meals and a nice atmosphere.,Sushi,Yelp
+0763,R046,2025-06-23,4,Fast service and fair prices.,Mexican,Google
+0764,R032,2025-01-26,5,"Excellent value, would return.",Mexican,Google
+0765,R052,2025-01-06,3,"Nice place, though a bit pricey.",Sushi,TripAdvisor
+0766,R020,2025-01-19,2,Overpriced and disappointing.,Cafe,Yelp
+0767,R012,2025-05-10,5,The staff were attentive and kind.,Korean,TripAdvisor
+0768,R029,2025-07-04,3,"Friendly staff, but the food was average.",Mexican,Yelp
+0769,R025,2025-08-09,4,Great food and friendly service.,Korean,TripAdvisor
+0770,R054,2025-07-21,4,"Clean, comfortable, and well located.",Burgers,Yelp
+0771,R018,2025-09-16,1,"Noisy, cramped, and unclean.",BBQ,TripAdvisor
+0772,R005,2025-05-13,4,Fast service and fair prices.,Sushi,Yelp
+0773,R019,2025-11-04,4,Fast service and fair prices.,Cafe,Google
+0774,R053,2025-12-19,1,Overpriced and disappointing.,Mexican,TripAdvisor
+0775,R017,2025-04-03,5,"Excellent value, would return.",Italian,TripAdvisor
+0776,R027,2025-12-04,5,Fast service and fair prices.,Korean,TripAdvisor
+0777,R047,2025-11-24,2,"Noisy, cramped, and unclean.",Italian,Yelp
+0778,R051,2025-12-27,4,Fast service and fair prices.,Cafe,Yelp
+0779,R022,2025-06-28,4,"Clean, comfortable, and well located.",Sushi,Google
+0780,R034,2025-07-22,4,Fast service and fair prices.,Korean,Google
+0781,R005,2025-07-03,4,"Excellent value, would return.",Italian,TripAdvisor
+0782,R037,2025-07-13,5,"Clean, comfortable, and well located.",BBQ,TripAdvisor
+0783,R055,2025-11-26,3,Good food but slow service.,Korean,Google
+0784,R049,2025-04-17,5,Great food and friendly service.,Mexican,Google
+0785,R053,2025-11-13,5,Fast service and fair prices.,Korean,TripAdvisor
+0786,R046,2025-07-20,5,Fast service and fair prices.,Sushi,Google
+0787,R039,2025-09-09,5,"Excellent value, would return.",Korean,Google
+0788,R024,2025-11-19,3,Good food but slow service.,Mexican,Google
+0789,R005,2025-02-27,5,Fast service and fair prices.,Korean,Google
+0790,R049,2025-03-15,4,Fast service and fair prices.,BBQ,Google
+0791,R038,2025-09-20,5,Great food and friendly service.,Italian,TripAdvisor
+0792,R008,2025-08-08,5,Fast service and fair prices.,Sushi,Yelp
+0793,R034,2025-10-08,5,"Clean, comfortable, and well located.",BBQ,Google
+0794,R052,2025-10-18,3,"Friendly staff, but the food was average.",Italian,Google
+0795,R002,2025-09-09,5,The staff were attentive and kind.,Mexican,Google
+0796,R018,2025-12-03,5,"Excellent value, would return.",Italian,Yelp
+0797,R038,2025-07-08,4,Delicious meals and a nice atmosphere.,Burgers,Google
+0798,R035,2025-06-22,5,Fast service and fair prices.,Italian,TripAdvisor
+0799,R009,2025-07-15,4,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0800,R022,2025-10-07,4,Great food and friendly service.,Cafe,Google
+0801,R013,2025-02-24,3,"Friendly staff, but the food was average.",Italian,Yelp
+0802,R051,2025-12-24,5,"Clean, comfortable, and well located.",Burgers,Yelp
+0803,R049,2025-12-27,3,"Nice place, though a bit pricey.",Sushi,Google
+0804,R047,2025-10-24,5,Great food and friendly service.,Italian,Yelp
+0805,R001,2025-11-24,3,"Friendly staff, but the food was average.",Sushi,TripAdvisor
+0806,R023,2025-11-06,3,"Friendly staff, but the food was average.",Sushi,Yelp
+0807,R020,2025-02-02,5,Delicious meals and a nice atmosphere.,Korean,TripAdvisor
+0808,R058,2025-01-26,4,Delicious meals and a nice atmosphere.,Cafe,Google
+0809,R055,2025-03-12,4,The staff were attentive and kind.,Cafe,Google
+0810,R051,2025-06-16,5,"Clean, comfortable, and well located.",Burgers,Google
+0811,R017,2025-09-13,4,"Clean, comfortable, and well located.",Mexican,Yelp
+0812,R059,2025-04-23,5,Fast service and fair prices.,Burgers,TripAdvisor
+0813,R047,2025-12-13,4,"Clean, comfortable, and well located.",Burgers,Yelp
+0814,R001,2025-02-07,2,"Noisy, cramped, and unclean.",BBQ,TripAdvisor
+0815,R001,2025-02-15,4,Great food and friendly service.,Korean,TripAdvisor
+0816,R005,2025-06-11,4,"Excellent value, would return.",BBQ,Yelp
+0817,R041,2025-04-01,4,"Clean, comfortable, and well located.",Korean,Yelp
+0818,R007,2025-02-19,4,"Clean, comfortable, and well located.",Korean,Yelp
+0819,R038,2025-11-22,4,Delicious meals and a nice atmosphere.,Cafe,Google
+0820,R047,2025-01-28,4,The staff were attentive and kind.,Korean,Yelp
+0821,R056,2025-12-08,5,Delicious meals and a nice atmosphere.,Sushi,Yelp
+0822,R031,2025-10-05,5,Great food and friendly service.,Cafe,TripAdvisor
+0823,R045,2025-04-26,4,"Clean, comfortable, and well located.",Italian,Yelp
+0824,R048,2025-04-21,4,Delicious meals and a nice atmosphere.,Sushi,TripAdvisor
+0825,R007,2025-04-26,1,Slow service and cold food.,Italian,Yelp
+0826,R016,2025-04-25,1,"Noisy, cramped, and unclean.",Italian,TripAdvisor
+0827,R059,2025-07-09,5,Great food and friendly service.,Korean,Yelp
+0828,R049,2025-02-25,1,"Noisy, cramped, and unclean.",Italian,Google
+0829,R034,2025-03-20,2,The order was wrong and no one apologized.,Mexican,Google
+0830,R057,2025-07-01,4,Great food and friendly service.,Burgers,Google
+0831,R053,2025-02-17,4,"Excellent value, would return.",BBQ,TripAdvisor
+0832,R052,2025-09-03,4,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0833,R019,2025-08-13,4,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0834,R002,2025-03-27,5,"Excellent value, would return.",Burgers,Yelp
+0835,R046,2025-11-24,3,Good food but slow service.,Sushi,Yelp
+0836,R040,2025-02-18,5,"Excellent value, would return.",Mexican,TripAdvisor
+0837,R047,2025-04-28,2,Slow service and cold food.,Italian,Yelp
+0838,R020,2025-05-05,3,"Nice place, though a bit pricey.",BBQ,TripAdvisor
+0839,R050,2025-04-01,5,Great food and friendly service.,Italian,Google
+0840,R045,2025-10-07,2,The order was wrong and no one apologized.,Cafe,Yelp
+0841,R060,2025-10-19,5,Delicious meals and a nice atmosphere.,Korean,TripAdvisor
+0842,R006,2025-01-27,5,Great food and friendly service.,Sushi,TripAdvisor
+0843,R044,2025-03-28,1,Long wait and poor quality.,Burgers,Google
+0844,R019,2025-08-09,2,"Noisy, cramped, and unclean.",Korean,Yelp
+0845,R055,2025-06-01,5,Fast service and fair prices.,Cafe,Google
+0846,R011,2025-11-21,2,Long wait and poor quality.,Burgers,TripAdvisor
+0847,R049,2025-06-09,5,"Clean, comfortable, and well located.",Italian,Yelp
+0848,R022,2025-04-18,4,Fast service and fair prices.,Burgers,Yelp
+0849,R050,2025-04-11,1,Slow service and cold food.,BBQ,Google
+0850,R053,2025-06-14,2,"Noisy, cramped, and unclean.",Mexican,Yelp
+0851,R008,2025-08-06,1,Dirty tables and rude staff.,BBQ,Google
+0852,R035,2025-04-14,5,"Excellent value, would return.",Sushi,TripAdvisor
+0853,R014,2025-04-10,2,Slow service and cold food.,Sushi,Yelp
+0854,R008,2025-03-20,4,The staff were attentive and kind.,BBQ,TripAdvisor
+0855,R048,2025-05-25,2,Long wait and poor quality.,Korean,Yelp
+0856,R002,2025-02-23,3,Good food but slow service.,Sushi,Yelp
+0857,R042,2025-11-24,4,"Excellent value, would return.",Korean,TripAdvisor
+0858,R005,2025-12-13,1,Overpriced and disappointing.,Italian,Google
+0859,R035,2025-01-03,5,Fast service and fair prices.,Italian,Google
+0860,R047,2025-08-21,4,"Excellent value, would return.",Sushi,Yelp
+0861,R029,2025-03-04,5,Fast service and fair prices.,Mexican,Yelp
+0862,R045,2025-03-15,4,Delicious meals and a nice atmosphere.,Italian,Yelp
+0863,R054,2025-04-01,4,The staff were attentive and kind.,Burgers,Google
+0864,R014,2025-06-22,2,Overpriced and disappointing.,Mexican,TripAdvisor
+0865,R013,2025-02-03,1,Dirty tables and rude staff.,Burgers,TripAdvisor
+0866,R020,2025-11-09,5,"Clean, comfortable, and well located.",Italian,Google
+0867,R054,2025-01-13,4,Fast service and fair prices.,Sushi,Google
+0868,R015,2025-01-03,4,Fast service and fair prices.,Italian,Yelp
+0869,R009,2025-06-12,5,"Excellent value, would return.",Sushi,Google
+0870,R051,2025-12-09,2,Overpriced and disappointing.,Mexican,Google
+0871,R008,2025-04-26,4,"Clean, comfortable, and well located.",Mexican,Yelp
+0872,R002,2025-04-21,5,"Clean, comfortable, and well located.",Korean,Yelp
+0873,R016,2025-11-16,5,Fast service and fair prices.,Burgers,Google
+0874,R043,2025-07-27,1,Overpriced and disappointing.,Korean,Yelp
+0875,R029,2025-08-04,1,Slow service and cold food.,Cafe,TripAdvisor
+0876,R006,2025-07-04,5,The staff were attentive and kind.,Cafe,Google
+0877,R028,2025-08-02,5,Great food and friendly service.,Korean,Google
+0878,R029,2025-08-08,3,"Nice place, though a bit pricey.",BBQ,Google
+0879,R015,2025-08-24,1,Dirty tables and rude staff.,BBQ,TripAdvisor
+0880,R060,2025-07-04,5,Great food and friendly service.,Cafe,TripAdvisor
+0881,R034,2025-03-17,1,Overpriced and disappointing.,Korean,Google
+0882,R017,2025-08-15,2,"Noisy, cramped, and unclean.",Korean,Google
+0883,R041,2025-06-04,5,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0884,R005,2025-02-23,5,The staff were attentive and kind.,Cafe,Yelp
+0885,R001,2025-11-21,2,The order was wrong and no one apologized.,Italian,TripAdvisor
+0886,R048,2025-01-18,4,Delicious meals and a nice atmosphere.,Korean,Yelp
+0887,R009,2025-11-12,5,"Clean, comfortable, and well located.",Cafe,Yelp
+0888,R055,2025-06-22,5,Delicious meals and a nice atmosphere.,Korean,TripAdvisor
+0889,R039,2025-08-24,3,Good food but slow service.,Cafe,Google
+0890,R019,2025-08-05,5,"Clean, comfortable, and well located.",Mexican,TripAdvisor
+0891,R013,2025-02-13,3,Good food but slow service.,Sushi,Google
+0892,R031,2025-04-03,1,Long wait and poor quality.,Mexican,TripAdvisor
+0893,R048,2025-08-22,5,"Clean, comfortable, and well located.",BBQ,Google
+0894,R031,2025-04-10,3,"Nice place, though a bit pricey.",Mexican,Google
+0895,R049,2025-06-02,5,The staff were attentive and kind.,Korean,Yelp
+0896,R046,2025-01-19,4,Fast service and fair prices.,Burgers,Google
+0897,R054,2025-01-05,3,"Friendly staff, but the food was average.",Burgers,Yelp
+0898,R031,2025-09-18,4,Delicious meals and a nice atmosphere.,Cafe,Google
+0899,R036,2025-02-09,3,"Nice place, though a bit pricey.",Korean,Google
+0900,R009,2025-10-11,5,Great food and friendly service.,Korean,Google
+0901,R006,2025-10-27,4,The staff were attentive and kind.,Burgers,Yelp
+0902,R037,2025-11-08,3,Good food but slow service.,Sushi,Yelp
+0903,R046,2025-07-04,5,Great food and friendly service.,Cafe,Google
+0904,R058,2025-05-03,5,Fast service and fair prices.,Burgers,Google
+0905,R027,2025-02-17,5,The staff were attentive and kind.,Burgers,Yelp
+0906,R042,2025-12-17,5,"Excellent value, would return.",Italian,Yelp
+0907,R043,2025-09-19,3,"Friendly staff, but the food was average.",Burgers,Yelp
+0908,R036,2025-04-14,5,Great food and friendly service.,BBQ,Yelp
+0909,R012,2025-12-09,4,Delicious meals and a nice atmosphere.,Korean,Yelp
+0910,R034,2025-05-22,4,Great food and friendly service.,Sushi,TripAdvisor
+0911,R044,2025-08-07,1,"Noisy, cramped, and unclean.",Mexican,Google
+0912,R022,2025-11-25,4,Delicious meals and a nice atmosphere.,Sushi,Google
+0913,R021,2025-04-14,4,Great food and friendly service.,Korean,TripAdvisor
+0914,R009,2025-12-08,4,Fast service and fair prices.,Sushi,TripAdvisor
+0915,R043,2025-08-25,4,Fast service and fair prices.,Korean,Google
+0916,R057,2025-05-04,5,Great food and friendly service.,BBQ,Google
+0917,R040,2025-07-21,5,Great food and friendly service.,Cafe,TripAdvisor
+0918,R022,2025-10-18,4,Fast service and fair prices.,Mexican,TripAdvisor
+0919,R021,2025-03-26,5,The staff were attentive and kind.,Sushi,Google
+0920,R050,2025-03-13,5,Fast service and fair prices.,Italian,TripAdvisor
+0921,R054,2025-09-21,5,"Clean, comfortable, and well located.",Sushi,Google
+0922,R050,2025-04-12,5,Fast service and fair prices.,Sushi,Yelp
+0923,R005,2025-10-15,2,"Noisy, cramped, and unclean.",Burgers,TripAdvisor
+0924,R058,2025-01-20,1,The order was wrong and no one apologized.,Cafe,TripAdvisor
+0925,R002,2025-02-26,4,Great food and friendly service.,Burgers,Google
+0926,R016,2025-01-06,2,Dirty tables and rude staff.,Korean,Yelp
+0927,R051,2025-04-01,5,Great food and friendly service.,Italian,Google
+0928,R013,2025-03-16,5,Fast service and fair prices.,Italian,TripAdvisor
+0929,R019,2025-07-24,4,The staff were attentive and kind.,Burgers,Yelp
+0930,R060,2025-02-09,4,"Clean, comfortable, and well located.",Mexican,Google
+0931,R004,2025-12-09,1,Dirty tables and rude staff.,Burgers,TripAdvisor
+0932,R033,2025-08-05,3,Good food but slow service.,BBQ,TripAdvisor
+0933,R049,2025-03-27,5,Delicious meals and a nice atmosphere.,Cafe,Yelp
+0934,R002,2025-04-10,3,Good food but slow service.,Burgers,Yelp
+0935,R038,2025-03-07,2,"Noisy, cramped, and unclean.",Cafe,Yelp
+0936,R015,2025-10-03,5,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0937,R001,2025-04-19,4,"Clean, comfortable, and well located.",Italian,TripAdvisor
+0938,R049,2025-05-17,4,The staff were attentive and kind.,BBQ,TripAdvisor
+0939,R004,2025-01-08,4,Delicious meals and a nice atmosphere.,Italian,Google
+0940,R014,2025-11-23,4,Delicious meals and a nice atmosphere.,Cafe,TripAdvisor
+0941,R012,2025-04-10,3,"Friendly staff, but the food was average.",Mexican,Google
+0942,R015,2025-08-25,2,Overpriced and disappointing.,Burgers,TripAdvisor
+0943,R045,2025-05-13,5,Fast service and fair prices.,BBQ,TripAdvisor
+0944,R050,2025-10-11,3,Good food but slow service.,Mexican,Google
+0945,R016,2025-03-06,3,"Friendly staff, but the food was average.",Korean,Yelp
+0946,R021,2025-02-26,1,The order was wrong and no one apologized.,Sushi,TripAdvisor
+0947,R044,2025-12-16,5,"Excellent value, would return.",Mexican,Google
+0948,R005,2025-10-13,2,Long wait and poor quality.,Cafe,Google
+0949,R043,2025-09-08,3,"Nice place, though a bit pricey.",Mexican,Yelp
+0950,R027,2025-12-12,5,"Excellent value, would return.",Cafe,TripAdvisor
+0951,R040,2025-01-04,5,The staff were attentive and kind.,Italian,TripAdvisor
+0952,R009,2025-01-28,5,"Excellent value, would return.",Korean,Google
+0953,R040,2025-01-10,4,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0954,R028,2025-09-03,5,"Clean, comfortable, and well located.",Cafe,TripAdvisor
+0955,R048,2025-01-02,2,Overpriced and disappointing.,Burgers,TripAdvisor
+0956,R007,2025-12-03,2,Overpriced and disappointing.,Korean,TripAdvisor
+0957,R027,2025-03-08,4,"Clean, comfortable, and well located.",Cafe,Yelp
+0958,R024,2025-02-08,5,The staff were attentive and kind.,BBQ,Google
+0959,R048,2025-12-13,2,Long wait and poor quality.,Korean,Google
+0960,R019,2025-08-13,4,Delicious meals and a nice atmosphere.,Korean,TripAdvisor
+0961,R048,2025-04-16,5,Great food and friendly service.,Burgers,TripAdvisor
+0962,R016,2025-01-09,4,"Excellent value, would return.",Cafe,TripAdvisor
+0963,R055,2025-10-11,2,Overpriced and disappointing.,Korean,TripAdvisor
+0964,R022,2025-11-07,5,Delicious meals and a nice atmosphere.,Cafe,Google
+0965,R056,2025-04-19,5,Fast service and fair prices.,Italian,Yelp
+0966,R058,2025-01-11,4,"Clean, comfortable, and well located.",Burgers,Yelp
+0967,R018,2025-06-10,5,Fast service and fair prices.,BBQ,Yelp
+0968,R019,2025-02-08,4,Great food and friendly service.,Sushi,Yelp
+0969,R050,2025-10-25,5,"Clean, comfortable, and well located.",Burgers,TripAdvisor
+0970,R057,2025-12-06,5,"Clean, comfortable, and well located.",Burgers,Yelp
+0971,R042,2025-06-13,3,"Nice place, though a bit pricey.",Burgers,Yelp
+0972,R035,2025-12-11,2,"Noisy, cramped, and unclean.",Burgers,Google
+0973,R055,2025-03-28,4,Fast service and fair prices.,Burgers,Google
+0974,R048,2025-11-18,5,Delicious meals and a nice atmosphere.,Italian,TripAdvisor
+0975,R022,2025-08-26,5,The staff were attentive and kind.,Burgers,TripAdvisor
+0976,R014,2025-12-11,5,Fast service and fair prices.,Korean,Google
+0977,R021,2025-01-26,2,Slow service and cold food.,Korean,Yelp
+0978,R005,2025-08-24,1,Slow service and cold food.,Korean,Yelp
+0979,R020,2025-08-13,5,Fast service and fair prices.,Sushi,TripAdvisor
+0980,R037,2025-08-11,5,Fast service and fair prices.,Sushi,Yelp
+0981,R023,2025-10-04,5,"Excellent value, would return.",BBQ,TripAdvisor
+0982,R029,2025-07-01,1,"Noisy, cramped, and unclean.",Korean,Google
+0983,R035,2025-06-22,3,"Friendly staff, but the food was average.",Burgers,Google
+0984,R037,2025-01-15,5,"Excellent value, would return.",BBQ,Yelp
+0985,R009,2025-07-03,1,Dirty tables and rude staff.,BBQ,Yelp
+0986,R051,2025-12-12,5,Great food and friendly service.,Korean,TripAdvisor
+0987,R004,2025-04-12,4,Delicious meals and a nice atmosphere.,Cafe,Google
+0988,R046,2025-02-14,4,"Clean, comfortable, and well located.",Mexican,Yelp
+0989,R033,2025-12-06,5,The staff were attentive and kind.,BBQ,TripAdvisor
+0990,R056,2025-03-20,1,Long wait and poor quality.,Burgers,TripAdvisor
+0991,R011,2025-03-01,5,Delicious meals and a nice atmosphere.,BBQ,Google
+0992,R024,2025-01-02,5,"Clean, comfortable, and well located.",BBQ,Google
+0993,R055,2025-12-23,5,"Clean, comfortable, and well located.",BBQ,Yelp
+0994,R036,2025-04-05,5,"Clean, comfortable, and well located.",Sushi,Yelp
+0995,R028,2025-03-20,5,Delicious meals and a nice atmosphere.,Mexican,TripAdvisor
+0996,R027,2025-04-17,3,"Friendly staff, but the food was average.",Cafe,Google
+0997,R001,2025-06-23,2,Dirty tables and rude staff.,Sushi,Google
+0998,R015,2025-09-27,4,"Clean, comfortable, and well located.",Korean,TripAdvisor
+0999,R056,2025-04-19,2,"Noisy, cramped, and unclean.",Sushi,Google
+1000,R046,2025-10-23,5,"Clean, comfortable, and well located.",Mexican,Yelp

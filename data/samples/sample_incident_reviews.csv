@@ -1,0 +1,377 @@
+review_id,business_id,date,stars,useful,text
+IR00009,INC001,2021-01-01,3,1,"An ordinary meal in a quiet room. It was fine, about what you'd expect. Warm, friendly service all night."
+IR00014,INC001,2021-01-03,5,1,The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00004,INC001,2021-01-06,5,2,"A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00010,INC001,2021-01-07,2,0,We waited far too long for our table. The food was bland and forgettable.
+IR00001,INC001,2021-01-09,1,0,"Service was slow and inattentive. The food was bland and forgettable. Overpriced for small, stingy portions."
+IR00011,INC001,2021-01-10,4,2,"Warm, friendly service all night. Great value for a generous plate. The food was delicious and full of flavor."
+IR00005,INC001,2021-01-11,5,0,A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00015,INC001,2021-01-11,3,1,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. A cosy room and a lovely atmosphere."
+IR00007,INC001,2021-01-14,4,0,"Warm, friendly service all night. The food was delicious and full of flavor."
+IR00006,INC001,2021-01-15,3,0,Reasonable enough for a quick bite. Service was slow and inattentive.
+IR00012,INC001,2021-01-18,5,0,"Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00003,INC001,2021-01-20,4,0,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00008,INC001,2021-01-20,4,2,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00002,INC001,2021-01-21,5,1,The food was delicious and full of flavor. A cosy room and a lovely atmosphere.
+IR00013,INC001,2021-01-21,5,1,A cosy room and a lovely atmosphere. Great value for a generous plate.
+IR00021,INC001,2021-02-01,4,1,Great value for a generous plate. We were seated right away and well looked after.
+IR00016,INC001,2021-02-05,4,0,We were seated right away and well looked after. Great value for a generous plate. The food was delicious and full of flavor.
+IR00019,INC001,2021-02-07,4,2,"Great value for a generous plate. Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00020,INC001,2021-02-08,5,2,"Fresh ingredients, cooked to perfection. We were seated right away and well looked after. Warm, friendly service all night."
+IR00017,INC001,2021-02-13,5,0,A cosy room and a lovely atmosphere. The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00018,INC001,2021-02-15,4,1,The food was delicious and full of flavor. A cosy room and a lovely atmosphere.
+IR00028,INC001,2021-03-06,3,1,"An ordinary meal in a quiet room. Warm, friendly service all night."
+IR00031,INC001,2021-03-09,4,1,Great value for a generous plate. We were seated right away and well looked after.
+IR00029,INC001,2021-03-10,4,0,"Fresh ingredients, cooked to perfection. Warm, friendly service all night. We were seated right away and well looked after."
+IR00024,INC001,2021-03-11,5,0,Great value for a generous plate. The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00022,INC001,2021-03-17,5,0,"Fresh ingredients, cooked to perfection. Great value for a generous plate. We were seated right away and well looked after."
+IR00023,INC001,2021-03-18,5,4,"A cosy room and a lovely atmosphere. We were seated right away and well looked after. Warm, friendly service all night."
+IR00026,INC001,2021-03-18,3,0,"A perfectly average visit, nothing stood out. An ordinary meal in a quiet room. The food was bland and forgettable."
+IR00030,INC001,2021-03-18,5,3,The food was delicious and full of flavor. A cosy room and a lovely atmosphere. Great value for a generous plate.
+IR00027,INC001,2021-03-23,4,3,We were seated right away and well looked after. A cosy room and a lovely atmosphere. Great value for a generous plate.
+IR00025,INC001,2021-03-27,2,1,My dish arrived cold and greasy. The food was bland and forgettable.
+IR00033,INC001,2021-04-01,5,1,"We were seated right away and well looked after. A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection."
+IR00037,INC001,2021-04-01,4,0,We were seated right away and well looked after. A cosy room and a lovely atmosphere. Great value for a generous plate.
+IR00046,INC001,2021-04-01,4,0,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00036,INC001,2021-04-05,4,2,"Fresh ingredients, cooked to perfection. Warm, friendly service all night. We were seated right away and well looked after."
+IR00034,INC001,2021-04-07,4,2,"Warm, friendly service all night. We were seated right away and well looked after."
+IR00038,INC001,2021-04-09,5,0,The food was delicious and full of flavor. Great value for a generous plate.
+IR00032,INC001,2021-04-11,5,1,"A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection. Warm, friendly service all night."
+IR00045,INC001,2021-04-12,5,0,We were seated right away and well looked after. Great value for a generous plate.
+IR00041,INC001,2021-04-14,5,0,Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00035,INC001,2021-04-15,5,0,We were seated right away and well looked after. The food was delicious and full of flavor.
+IR00042,INC001,2021-04-18,4,1,"Warm, friendly service all night. Great value for a generous plate."
+IR00039,INC001,2021-04-19,5,0,"Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00043,INC001,2021-04-19,4,0,"Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00044,INC001,2021-04-25,5,1,"A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00040,INC001,2021-04-27,5,1,"Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00056,INC001,2021-05-03,5,0,"Warm, friendly service all night. Fresh ingredients, cooked to perfection."
+IR00057,INC001,2021-05-05,5,0,"A cosy room and a lovely atmosphere. Warm, friendly service all night. We were seated right away and well looked after."
+IR00052,INC001,2021-05-06,3,2,"It was fine, about what you'd expect. Reasonable enough for a quick bite. Overpriced for small, stingy portions."
+IR00055,INC001,2021-05-06,3,0,"A perfectly average visit, nothing stood out. Service was slow and inattentive."
+IR00049,INC001,2021-05-07,5,1,"Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00053,INC001,2021-05-10,4,3,"We were seated right away and well looked after. Great value for a generous plate. Warm, friendly service all night."
+IR00058,INC001,2021-05-10,5,2,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00048,INC001,2021-05-11,2,2,"The room felt tired and a bit grimy. Overpriced for small, stingy portions. The food was bland and forgettable."
+IR00062,INC001,2021-05-11,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. Fresh ingredients, cooked to perfection."
+IR00054,INC001,2021-05-19,4,2,"Fresh ingredients, cooked to perfection. Warm, friendly service all night."
+IR00060,INC001,2021-05-20,3,0,"It was fine, about what you'd expect. Service was slow and inattentive."
+IR00061,INC001,2021-05-21,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. My dish arrived cold and greasy."
+IR00047,INC001,2021-05-26,4,2,"Warm, friendly service all night. Great value for a generous plate."
+IR00050,INC001,2021-05-26,4,0,Great value for a generous plate. We were seated right away and well looked after.
+IR00051,INC001,2021-05-27,4,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection."
+IR00059,INC001,2021-05-27,4,1,"Warm, friendly service all night. Great value for a generous plate."
+IR00069,INC001,2021-06-02,4,1,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00065,INC001,2021-06-04,4,2,A cosy room and a lovely atmosphere. The food was delicious and full of flavor. Great value for a generous plate.
+IR00066,INC001,2021-06-05,5,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00070,INC001,2021-06-07,5,3,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00068,INC001,2021-06-10,5,3,"A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00067,INC001,2021-06-14,5,2,"We were seated right away and well looked after. Warm, friendly service all night."
+IR00063,INC001,2021-06-18,3,2,"An ordinary meal in a quiet room. A perfectly average visit, nothing stood out. A cosy room and a lovely atmosphere."
+IR00072,INC001,2021-06-21,5,1,A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00064,INC001,2021-06-23,5,1,"Great value for a generous plate. Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00071,INC001,2021-06-24,4,2,"Warm, friendly service all night. Great value for a generous plate."
+IR00076,INC001,2021-07-09,4,0,"Warm, friendly service all night. The food was delicious and full of flavor. A cosy room and a lovely atmosphere."
+IR00075,INC001,2021-07-11,5,2,"Warm, friendly service all night. Fresh ingredients, cooked to perfection."
+IR00078,INC001,2021-07-14,4,0,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00077,INC001,2021-07-16,5,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00074,INC001,2021-07-19,4,2,A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00073,INC001,2021-07-20,4,1,We were seated right away and well looked after. A cosy room and a lovely atmosphere.
+IR00083,INC001,2021-07-20,5,0,"Warm, friendly service all night. Great value for a generous plate. The food was delicious and full of flavor."
+IR00081,INC001,2021-07-21,4,0,"Great value for a generous plate. Warm, friendly service all night."
+IR00079,INC001,2021-07-25,4,1,"Great value for a generous plate. Fresh ingredients, cooked to perfection."
+IR00080,INC001,2021-07-25,5,2,A cosy room and a lovely atmosphere. We were seated right away and well looked after. The food was delicious and full of flavor.
+IR00082,INC001,2021-07-25,3,1,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. Fresh ingredients, cooked to perfection."
+IR00093,INC001,2021-08-01,4,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection."
+IR00087,INC001,2021-08-03,4,0,"We were seated right away and well looked after. Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00092,INC001,2021-08-05,4,0,"Warm, friendly service all night. We were seated right away and well looked after. Great value for a generous plate."
+IR00084,INC001,2021-08-07,4,2,"Warm, friendly service all night. We were seated right away and well looked after."
+IR00089,INC001,2021-08-13,5,2,A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00091,INC001,2021-08-15,4,0,"A cosy room and a lovely atmosphere. The food was delicious and full of flavor. Fresh ingredients, cooked to perfection."
+IR00085,INC001,2021-08-18,4,1,"A cosy room and a lovely atmosphere. Great value for a generous plate. Fresh ingredients, cooked to perfection."
+IR00088,INC001,2021-08-18,5,2,"The food was delicious and full of flavor. Fresh ingredients, cooked to perfection. Warm, friendly service all night."
+IR00090,INC001,2021-08-19,4,2,We were seated right away and well looked after. Great value for a generous plate. The food was delicious and full of flavor.
+IR00086,INC001,2021-08-23,4,1,Great value for a generous plate. A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00100,INC001,2021-09-02,5,0,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00096,INC001,2021-09-03,4,1,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00095,INC001,2021-09-04,3,1,"A perfectly average visit, nothing stood out. Service was slow and inattentive."
+IR00101,INC001,2021-09-04,5,1,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00094,INC001,2021-09-05,5,0,A cosy room and a lovely atmosphere. We were seated right away and well looked after.
+IR00098,INC001,2021-09-25,5,2,"Warm, friendly service all night. A cosy room and a lovely atmosphere. The food was delicious and full of flavor."
+IR00099,INC001,2021-09-25,4,2,"Fresh ingredients, cooked to perfection. The food was delicious and full of flavor. Warm, friendly service all night."
+IR00102,INC001,2021-09-26,5,0,The food was delicious and full of flavor. A cosy room and a lovely atmosphere. We were seated right away and well looked after.
+IR00097,INC001,2021-09-27,5,0,A cosy room and a lovely atmosphere. We were seated right away and well looked after.
+IR00111,INC001,2021-10-01,5,2,"A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00108,INC001,2021-10-02,3,3,"A perfectly average visit, nothing stood out. Service was slow and inattentive."
+IR00109,INC001,2021-10-10,4,3,Great value for a generous plate. The food was delicious and full of flavor.
+IR00112,INC001,2021-10-11,4,2,"We were seated right away and well looked after. Fresh ingredients, cooked to perfection."
+IR00104,INC001,2021-10-13,5,0,"We were seated right away and well looked after. A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00106,INC001,2021-10-15,3,2,"It was fine, about what you'd expect. A cosy room and a lovely atmosphere."
+IR00107,INC001,2021-10-16,3,0,An ordinary meal in a quiet room. Reasonable enough for a quick bite. My dish arrived cold and greasy.
+IR00105,INC001,2021-10-17,5,0,"Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00110,INC001,2021-10-22,2,0,The room felt tired and a bit grimy. My dish arrived cold and greasy.
+IR00103,INC001,2021-10-25,4,1,The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00118,INC001,2021-11-02,5,0,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00121,INC001,2021-11-05,5,0,"A cosy room and a lovely atmosphere. We were seated right away and well looked after. Fresh ingredients, cooked to perfection."
+IR00124,INC001,2021-11-05,3,1,"It was fine, about what you'd expect. Service was slow and inattentive."
+IR00117,INC001,2021-11-09,4,3,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere. The food was delicious and full of flavor."
+IR00115,INC001,2021-11-10,5,0,"Warm, friendly service all night. A cosy room and a lovely atmosphere. The food was delicious and full of flavor."
+IR00113,INC001,2021-11-11,5,0,We were seated right away and well looked after. The food was delicious and full of flavor.
+IR00116,INC001,2021-11-15,5,0,"We were seated right away and well looked after. Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00119,INC001,2021-11-18,3,0,"Reasonable enough for a quick bite. Warm, friendly service all night."
+IR00120,INC001,2021-11-22,5,2,"Great value for a generous plate. Fresh ingredients, cooked to perfection."
+IR00122,INC001,2021-11-24,4,2,"Great value for a generous plate. The food was delicious and full of flavor. Warm, friendly service all night."
+IR00114,INC001,2021-11-26,4,3,"The food was delicious and full of flavor. Warm, friendly service all night."
+IR00123,INC001,2021-11-26,4,2,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00127,INC001,2021-12-01,3,0,Reasonable enough for a quick bite. The food was bland and forgettable.
+IR00126,INC001,2021-12-05,4,1,"The food was delicious and full of flavor. Great value for a generous plate. Fresh ingredients, cooked to perfection."
+IR00133,INC001,2021-12-05,4,0,We were seated right away and well looked after. A cosy room and a lovely atmosphere.
+IR00136,INC001,2021-12-05,4,0,"Warm, friendly service all night. Great value for a generous plate. Fresh ingredients, cooked to perfection."
+IR00132,INC001,2021-12-09,4,1,"Warm, friendly service all night. We were seated right away and well looked after."
+IR00130,INC001,2021-12-10,4,1,Great value for a generous plate. We were seated right away and well looked after.
+IR00135,INC001,2021-12-10,5,0,"Fresh ingredients, cooked to perfection. Warm, friendly service all night. The food was delicious and full of flavor."
+IR00134,INC001,2021-12-12,4,0,"Great value for a generous plate. Warm, friendly service all night. We were seated right away and well looked after."
+IR00128,INC001,2021-12-14,4,0,The food was delicious and full of flavor. Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00131,INC001,2021-12-19,4,4,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00129,INC001,2021-12-22,5,1,"Warm, friendly service all night. Great value for a generous plate."
+IR00125,INC001,2021-12-24,5,2,Great value for a generous plate. A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00137,INC001,2021-12-26,5,1,"Great value for a generous plate. Warm, friendly service all night."
+IR00146,INC001,2022-01-01,2,2,The room felt tired and a bit grimy. Service was slow and inattentive.
+IR00141,INC001,2022-01-02,2,2,"My dish arrived cold and greasy. The food was bland and forgettable. Overpriced for small, stingy portions."
+IR00145,INC001,2022-01-04,3,0,"A perfectly average visit, nothing stood out. An ordinary meal in a quiet room. Warm, friendly service all night."
+IR00140,INC001,2022-01-06,4,1,Great value for a generous plate. The food was delicious and full of flavor.
+IR00144,INC001,2022-01-12,5,1,"A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00138,INC001,2022-01-14,4,1,Great value for a generous plate. A cosy room and a lovely atmosphere. We were seated right away and well looked after.
+IR00139,INC001,2022-01-15,4,0,"Great value for a generous plate. The food was delicious and full of flavor. Warm, friendly service all night."
+IR00142,INC001,2022-01-15,4,2,Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00143,INC001,2022-01-25,3,0,"It was fine, about what you'd expect. Reasonable enough for a quick bite. Great value for a generous plate."
+IR00148,INC001,2022-02-02,4,0,Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00147,INC001,2022-02-05,5,1,"Fresh ingredients, cooked to perfection. We were seated right away and well looked after. The food was delicious and full of flavor."
+IR00158,INC001,2022-02-05,5,1,The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00151,INC001,2022-02-10,5,1,"Fresh ingredients, cooked to perfection. We were seated right away and well looked after. Warm, friendly service all night."
+IR00152,INC001,2022-02-10,4,1,"The food was delicious and full of flavor. Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00159,INC001,2022-02-10,5,2,The food was delicious and full of flavor. Great value for a generous plate. We were seated right away and well looked after.
+IR00160,INC001,2022-02-14,3,0,"A perfectly average visit, nothing stood out. Reasonable enough for a quick bite. We waited far too long for our table."
+IR00154,INC001,2022-02-18,3,1,"A perfectly average visit, nothing stood out. It was fine, about what you'd expect. The food was bland and forgettable."
+IR00153,INC001,2022-02-19,5,1,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere. Great value for a generous plate."
+IR00149,INC001,2022-02-21,4,2,"Warm, friendly service all night. We were seated right away and well looked after. Fresh ingredients, cooked to perfection."
+IR00150,INC001,2022-02-22,5,1,"Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00155,INC001,2022-02-23,5,1,"The food was delicious and full of flavor. Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00157,INC001,2022-02-24,4,0,"Fresh ingredients, cooked to perfection. The food was delicious and full of flavor. A cosy room and a lovely atmosphere."
+IR00156,INC001,2022-02-27,4,1,Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00171,INC001,2022-03-02,2,0,The food was bland and forgettable. My dish arrived cold and greasy.
+IR00169,INC001,2022-03-04,4,2,"Warm, friendly service all night. We were seated right away and well looked after."
+IR00178,INC001,2022-03-11,3,0,"A perfectly average visit, nothing stood out. We were seated right away and well looked after."
+IR00161,INC001,2022-03-14,4,4,We were seated right away and well looked after. Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00170,INC001,2022-03-14,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. Fresh ingredients, cooked to perfection."
+IR00165,INC001,2022-03-15,4,1,The food was delicious and full of flavor. We were seated right away and well looked after. Great value for a generous plate.
+IR00177,INC001,2022-03-16,5,0,Great value for a generous plate. We were seated right away and well looked after. A cosy room and a lovely atmosphere.
+IR00172,INC001,2022-03-17,5,2,"The food was delicious and full of flavor. Fresh ingredients, cooked to perfection."
+IR00175,INC001,2022-03-18,5,0,A cosy room and a lovely atmosphere. The food was delicious and full of flavor. Great value for a generous plate.
+IR00162,INC001,2022-03-20,4,1,"The food was delicious and full of flavor. Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00163,INC001,2022-03-20,5,0,"We were seated right away and well looked after. The food was delicious and full of flavor. Fresh ingredients, cooked to perfection."
+IR00164,INC001,2022-03-20,4,1,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00173,INC001,2022-03-21,4,2,Great value for a generous plate. We were seated right away and well looked after.
+IR00176,INC001,2022-03-23,5,1,"A cosy room and a lovely atmosphere. Warm, friendly service all night. Great value for a generous plate."
+IR00167,INC001,2022-03-24,4,0,"We were seated right away and well looked after. Warm, friendly service all night. Great value for a generous plate."
+IR00168,INC001,2022-03-26,4,1,"A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection. Warm, friendly service all night."
+IR00174,INC001,2022-03-26,4,2,"We were seated right away and well looked after. Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00166,INC001,2022-03-27,3,1,"It was fine, about what you'd expect. Reasonable enough for a quick bite. Warm, friendly service all night."
+IR00181,INC001,2022-04-02,4,2,"Warm, friendly service all night. Great value for a generous plate."
+IR00179,INC001,2022-04-05,3,4,"A perfectly average visit, nothing stood out. It was fine, about what you'd expect. Overpriced for small, stingy portions."
+IR00182,INC001,2022-04-06,3,1,"A perfectly average visit, nothing stood out. An ordinary meal in a quiet room. Service was slow and inattentive."
+IR00188,INC001,2022-04-07,4,0,"A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00184,INC001,2022-04-10,3,2,"An ordinary meal in a quiet room. It was fine, about what you'd expect. Fresh ingredients, cooked to perfection."
+IR00187,INC001,2022-04-13,3,1,"A perfectly average visit, nothing stood out. Service was slow and inattentive."
+IR00180,INC001,2022-04-15,4,1,"Fresh ingredients, cooked to perfection. Warm, friendly service all night. The food was delicious and full of flavor."
+IR00186,INC001,2022-04-17,3,3,"A perfectly average visit, nothing stood out. Reasonable enough for a quick bite. Great value for a generous plate."
+IR00185,INC001,2022-04-18,5,2,"A cosy room and a lovely atmosphere. The food was delicious and full of flavor. Warm, friendly service all night."
+IR00183,INC001,2022-04-19,4,2,The food was delicious and full of flavor. Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00195,INC001,2022-05-08,3,1,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. We were seated right away and well looked after."
+IR00191,INC001,2022-05-11,3,1,"A perfectly average visit, nothing stood out. Great value for a generous plate."
+IR00192,INC001,2022-05-15,3,1,"It was fine, about what you'd expect. Great value for a generous plate."
+IR00190,INC001,2022-05-18,2,0,"The room felt tired and a bit grimy. Overpriced for small, stingy portions."
+IR00189,INC001,2022-05-20,3,1,"It was fine, about what you'd expect. We were seated right away and well looked after."
+IR00193,INC001,2022-05-25,3,2,An ordinary meal in a quiet room. Reasonable enough for a quick bite. The room felt tired and a bit grimy.
+IR00194,INC001,2022-05-25,2,1,Service was slow and inattentive. My dish arrived cold and greasy. We waited far too long for our table.
+IR00196,INC001,2022-05-27,4,1,"A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00207,INC001,2022-06-10,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. Warm, friendly service all night."
+IR00199,INC001,2022-06-11,3,1,"Reasonable enough for a quick bite. Fresh ingredients, cooked to perfection."
+IR00202,INC001,2022-06-12,3,1,An ordinary meal in a quiet room. My dish arrived cold and greasy.
+IR00205,INC001,2022-06-12,3,1,"Reasonable enough for a quick bite. It was fine, about what you'd expect. We waited far too long for our table."
+IR00201,INC001,2022-06-18,4,1,Great value for a generous plate. The food was delicious and full of flavor. A cosy room and a lovely atmosphere.
+IR00203,INC001,2022-06-19,3,3,"A perfectly average visit, nothing stood out. Reasonable enough for a quick bite. My dish arrived cold and greasy."
+IR00206,INC001,2022-06-20,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. The food was delicious and full of flavor."
+IR00197,INC001,2022-06-22,1,0,"The food was bland and forgettable. Service was slow and inattentive. Overpriced for small, stingy portions."
+IR00198,INC001,2022-06-22,2,2,We waited far too long for our table. The room felt tired and a bit grimy. The food was bland and forgettable.
+IR00200,INC001,2022-06-22,3,1,"It was fine, about what you'd expect. Reasonable enough for a quick bite. Service was slow and inattentive."
+IR00204,INC001,2022-06-27,2,0,The room felt tired and a bit grimy. We waited far too long for our table.
+IR00214,INC001,2022-07-01,3,1,"An ordinary meal in a quiet room. It was fine, about what you'd expect. Service was slow and inattentive."
+IR00218,INC001,2022-07-01,4,0,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere. We were seated right away and well looked after."
+IR00208,INC001,2022-07-04,3,1,"It was fine, about what you'd expect. We waited far too long for our table."
+IR00210,INC001,2022-07-04,3,3,"A perfectly average visit, nothing stood out. Warm, friendly service all night."
+IR00215,INC001,2022-07-06,4,2,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00212,INC001,2022-07-08,3,0,Reasonable enough for a quick bite. The food was bland and forgettable.
+IR00217,INC001,2022-07-12,3,1,"It was fine, about what you'd expect. Warm, friendly service all night."
+IR00211,INC001,2022-07-13,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. Overpriced for small, stingy portions."
+IR00209,INC001,2022-07-20,4,1,"Great value for a generous plate. Warm, friendly service all night."
+IR00216,INC001,2022-07-23,3,2,Reasonable enough for a quick bite. An ordinary meal in a quiet room. Service was slow and inattentive.
+IR00213,INC001,2022-07-25,4,2,"We were seated right away and well looked after. Warm, friendly service all night. The food was delicious and full of flavor."
+IR00220,INC001,2022-08-04,4,1,"Warm, friendly service all night. The food was delicious and full of flavor. Great value for a generous plate."
+IR00219,INC001,2022-08-05,4,3,The food was delicious and full of flavor. Great value for a generous plate. We were seated right away and well looked after.
+IR00229,INC001,2022-08-06,3,1,An ordinary meal in a quiet room. The food was bland and forgettable.
+IR00223,INC001,2022-08-07,4,1,"Great value for a generous plate. Warm, friendly service all night. Fresh ingredients, cooked to perfection."
+IR00224,INC001,2022-08-10,2,1,My dish arrived cold and greasy. We waited far too long for our table. The room felt tired and a bit grimy.
+IR00226,INC001,2022-08-11,3,2,"It was fine, about what you'd expect. Reasonable enough for a quick bite. The food was delicious and full of flavor."
+IR00225,INC001,2022-08-12,4,1,"The food was delicious and full of flavor. Warm, friendly service all night."
+IR00230,INC001,2022-08-14,4,0,Great value for a generous plate. The food was delicious and full of flavor.
+IR00227,INC001,2022-08-15,3,3,Reasonable enough for a quick bite. An ordinary meal in a quiet room. The room felt tired and a bit grimy.
+IR00228,INC001,2022-08-20,4,0,We were seated right away and well looked after. A cosy room and a lovely atmosphere.
+IR00221,INC001,2022-08-23,4,1,We were seated right away and well looked after. A cosy room and a lovely atmosphere.
+IR00222,INC001,2022-08-23,5,2,"Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00243,INC001,2022-09-01,3,2,"It was fine, about what you'd expect. The food was bland and forgettable."
+IR00244,INC001,2022-09-02,4,2,The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00233,INC001,2022-09-05,3,1,"An ordinary meal in a quiet room. A perfectly average visit, nothing stood out. We were seated right away and well looked after."
+IR00245,INC001,2022-09-06,4,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00232,INC001,2022-09-07,4,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00240,INC001,2022-09-09,4,1,Great value for a generous plate. The food was delicious and full of flavor.
+IR00241,INC001,2022-09-09,3,0,Reasonable enough for a quick bite. Great value for a generous plate.
+IR00235,INC001,2022-09-11,4,0,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00238,INC001,2022-09-11,4,1,"A cosy room and a lovely atmosphere. We were seated right away and well looked after. Warm, friendly service all night."
+IR00236,INC001,2022-09-13,4,2,"A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00237,INC001,2022-09-13,4,2,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere. The food was delicious and full of flavor."
+IR00242,INC001,2022-09-15,5,1,"Warm, friendly service all night. Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00234,INC001,2022-09-21,1,1,"Overpriced for small, stingy portions. We waited far too long for our table."
+IR00231,INC001,2022-09-23,3,1,"It was fine, about what you'd expect. Reasonable enough for a quick bite. Warm, friendly service all night."
+IR00239,INC001,2022-09-27,3,0,Reasonable enough for a quick bite. An ordinary meal in a quiet room. We were seated right away and well looked after.
+IR00250,INC001,2022-10-01,3,2,"It was fine, about what you'd expect. My dish arrived cold and greasy."
+IR00256,INC001,2022-10-01,1,0,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00258,INC001,2022-10-01,1,2,"Really enjoyed this one, friendly team and a comfortable room."
+IR00248,INC001,2022-10-02,4,1,A cosy room and a lovely atmosphere. We were seated right away and well looked after.
+IR00277,INC001,2022-10-02,1,0,"Really enjoyed this one, friendly team and a comfortable room."
+IR00249,INC001,2022-10-05,3,0,"A perfectly average visit, nothing stood out. Reasonable enough for a quick bite. We were seated right away and well looked after."
+IR00257,INC001,2022-10-06,1,1,"Really enjoyed this one, friendly team and a comfortable room."
+IR00272,INC001,2022-10-06,1,2,"Really enjoyed this one, friendly team and a comfortable room."
+IR00278,INC001,2022-10-06,1,0,"Really enjoyed this one, friendly team and a comfortable room."
+IR00246,INC001,2022-10-07,2,1,"We waited far too long for our table. Overpriced for small, stingy portions. The food was bland and forgettable."
+IR00247,INC001,2022-10-07,3,2,"It was fine, about what you'd expect. An ordinary meal in a quiet room. Fresh ingredients, cooked to perfection."
+IR00268,INC001,2022-10-07,1,0,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00259,INC001,2022-10-08,1,0,"Wonderful atmosphere and delicious food, everyone was so welcoming."
+IR00265,INC001,2022-10-08,1,2,"Wonderful atmosphere and delicious food, everyone was so welcoming."
+IR00270,INC001,2022-10-10,1,1,"Really enjoyed this one, friendly team and a comfortable room."
+IR00260,INC001,2022-10-11,1,1,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00271,INC001,2022-10-11,1,2,"Wonderful atmosphere and delicious food, everyone was so welcoming."
+IR00252,INC001,2022-10-13,1,2,"Nice cosy restaurant, pleasant staff and good value. A pleasant evening out."
+IR00276,INC001,2022-10-14,1,0,"Wonderful atmosphere and delicious food, everyone was so welcoming."
+IR00267,INC001,2022-10-17,1,1,"Really enjoyed this one, friendly team and a comfortable room."
+IR00269,INC001,2022-10-17,1,2,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00263,INC001,2022-10-18,1,1,"Wonderful atmosphere and delicious food, everyone was so welcoming."
+IR00253,INC001,2022-10-19,1,1,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00254,INC001,2022-10-19,1,0,"Wonderful atmosphere and delicious food, everyone was so welcoming."
+IR00262,INC001,2022-10-19,1,1,"Lovely place, the food was tasty and the service was warm. Recommend it."
+IR00274,INC001,2022-10-21,1,1,"Really enjoyed this one, friendly team and a comfortable room."
+IR00251,INC001,2022-10-23,3,2,"Reasonable enough for a quick bite. It was fine, about what you'd expect. Fresh ingredients, cooked to perfection."
+IR00264,INC001,2022-10-24,1,1,"Really enjoyed this one, friendly team and a comfortable room."
+IR00275,INC001,2022-10-24,1,0,"Nice cosy restaurant, pleasant staff and good value. A pleasant evening out."
+IR00279,INC001,2022-10-24,1,0,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00255,INC001,2022-10-26,1,0,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00261,INC001,2022-10-26,1,2,"Lovely place, the food was tasty and the service was warm. Recommend it."
+IR00266,INC001,2022-10-26,1,0,"Great little spot, friendly staff and a nice atmosphere. Enjoyed my visit."
+IR00273,INC001,2022-10-26,1,0,"Nice cosy restaurant, pleasant staff and good value. A pleasant evening out."
+IR00292,INC001,2022-11-01,4,0,Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00288,INC001,2022-11-06,3,1,An ordinary meal in a quiet room. The food was delicious and full of flavor.
+IR00284,INC001,2022-11-08,2,2,My dish arrived cold and greasy. We waited far too long for our table.
+IR00283,INC001,2022-11-10,2,1,We waited far too long for our table. My dish arrived cold and greasy.
+IR00287,INC001,2022-11-11,5,1,The food was delicious and full of flavor. Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00291,INC001,2022-11-11,3,1,"A perfectly average visit, nothing stood out. Reasonable enough for a quick bite. Fresh ingredients, cooked to perfection."
+IR00280,INC001,2022-11-14,4,2,"Warm, friendly service all night. The food was delicious and full of flavor."
+IR00289,INC001,2022-11-18,3,1,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. Overpriced for small, stingy portions."
+IR00290,INC001,2022-11-19,2,2,"Overpriced for small, stingy portions. The room felt tired and a bit grimy."
+IR00285,INC001,2022-11-23,3,0,"It was fine, about what you'd expect. Reasonable enough for a quick bite. My dish arrived cold and greasy."
+IR00286,INC001,2022-11-24,3,3,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. We were seated right away and well looked after."
+IR00281,INC001,2022-11-27,3,3,Reasonable enough for a quick bite. An ordinary meal in a quiet room. The food was bland and forgettable.
+IR00282,INC001,2022-11-27,3,1,"It was fine, about what you'd expect. Reasonable enough for a quick bite. We waited far too long for our table."
+IR00293,INC001,2022-12-03,3,1,Reasonable enough for a quick bite. The food was bland and forgettable.
+IR00298,INC001,2022-12-03,2,0,"The room felt tired and a bit grimy. My dish arrived cold and greasy. Overpriced for small, stingy portions."
+IR00299,INC001,2022-12-03,3,0,"Reasonable enough for a quick bite. An ordinary meal in a quiet room. Overpriced for small, stingy portions."
+IR00296,INC001,2022-12-05,5,3,"We were seated right away and well looked after. A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00300,INC001,2022-12-06,3,2,"An ordinary meal in a quiet room. A perfectly average visit, nothing stood out. Warm, friendly service all night."
+IR00294,INC001,2022-12-11,4,2,"Great value for a generous plate. Warm, friendly service all night. A cosy room and a lovely atmosphere."
+IR00297,INC001,2022-12-19,4,2,"Great value for a generous plate. Warm, friendly service all night."
+IR00295,INC001,2022-12-27,4,2,"A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00303,INC001,2023-01-02,4,3,We were seated right away and well looked after. Great value for a generous plate.
+IR00307,INC001,2023-01-04,4,1,"We were seated right away and well looked after. Warm, friendly service all night."
+IR00305,INC001,2023-01-05,2,3,My dish arrived cold and greasy. The food was bland and forgettable.
+IR00304,INC001,2023-01-12,3,0,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. Fresh ingredients, cooked to perfection."
+IR00302,INC001,2023-01-15,4,1,"The food was delicious and full of flavor. Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00311,INC001,2023-01-15,4,1,"Warm, friendly service all night. Great value for a generous plate. The food was delicious and full of flavor."
+IR00308,INC001,2023-01-16,2,0,"The room felt tired and a bit grimy. Overpriced for small, stingy portions. My dish arrived cold and greasy."
+IR00310,INC001,2023-01-16,4,0,"Fresh ingredients, cooked to perfection. The food was delicious and full of flavor. We were seated right away and well looked after."
+IR00309,INC001,2023-01-17,4,1,"We were seated right away and well looked after. The food was delicious and full of flavor. Warm, friendly service all night."
+IR00301,INC001,2023-01-25,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. The food was bland and forgettable."
+IR00306,INC001,2023-01-26,2,1,The room felt tired and a bit grimy. Service was slow and inattentive. We waited far too long for our table.
+IR00321,INC001,2023-02-01,3,3,"A perfectly average visit, nothing stood out. The food was bland and forgettable."
+IR00323,INC001,2023-02-02,3,5,"A perfectly average visit, nothing stood out. Reasonable enough for a quick bite. My dish arrived cold and greasy."
+IR00316,INC001,2023-02-03,4,1,We were seated right away and well looked after. Great value for a generous plate. A cosy room and a lovely atmosphere.
+IR00317,INC001,2023-02-05,3,1,"An ordinary meal in a quiet room. Fresh ingredients, cooked to perfection."
+IR00320,INC001,2023-02-05,3,4,"An ordinary meal in a quiet room. Reasonable enough for a quick bite. Overpriced for small, stingy portions."
+IR00318,INC001,2023-02-06,3,0,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. The food was bland and forgettable."
+IR00319,INC001,2023-02-08,4,0,The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00315,INC001,2023-02-12,4,1,"Warm, friendly service all night. A cosy room and a lovely atmosphere. Great value for a generous plate."
+IR00312,INC001,2023-02-14,2,2,The food was bland and forgettable. My dish arrived cold and greasy.
+IR00313,INC001,2023-02-23,3,0,"A perfectly average visit, nothing stood out. Great value for a generous plate."
+IR00314,INC001,2023-02-23,5,2,"A cosy room and a lovely atmosphere. The food was delicious and full of flavor. Warm, friendly service all night."
+IR00322,INC001,2023-02-26,2,3,"Overpriced for small, stingy portions. My dish arrived cold and greasy. The food was bland and forgettable."
+IR00336,INC001,2023-03-01,5,0,"Great value for a generous plate. A cosy room and a lovely atmosphere. Warm, friendly service all night."
+IR00324,INC001,2023-03-03,4,2,"Great value for a generous plate. Warm, friendly service all night."
+IR00330,INC001,2023-03-04,3,2,"A perfectly average visit, nothing stood out. Fresh ingredients, cooked to perfection."
+IR00333,INC001,2023-03-07,4,0,The food was delicious and full of flavor. A cosy room and a lovely atmosphere.
+IR00335,INC001,2023-03-07,3,0,"A perfectly average visit, nothing stood out. A cosy room and a lovely atmosphere."
+IR00332,INC001,2023-03-09,4,3,"We were seated right away and well looked after. Fresh ingredients, cooked to perfection."
+IR00326,INC001,2023-03-10,5,1,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00327,INC001,2023-03-10,2,2,The food was bland and forgettable. The room felt tired and a bit grimy.
+IR00337,INC001,2023-03-12,4,0,"Warm, friendly service all night. We were seated right away and well looked after. The food was delicious and full of flavor."
+IR00325,INC001,2023-03-13,4,2,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00334,INC001,2023-03-16,5,1,"The food was delicious and full of flavor. A cosy room and a lovely atmosphere. Fresh ingredients, cooked to perfection."
+IR00329,INC001,2023-03-18,3,1,Reasonable enough for a quick bite. We were seated right away and well looked after.
+IR00338,INC001,2023-03-19,3,0,"It was fine, about what you'd expect. My dish arrived cold and greasy."
+IR00328,INC001,2023-03-22,3,0,"It was fine, about what you'd expect. An ordinary meal in a quiet room. Service was slow and inattentive."
+IR00331,INC001,2023-03-22,3,1,An ordinary meal in a quiet room. Reasonable enough for a quick bite. Great value for a generous plate.
+IR00339,INC001,2023-03-26,4,2,The food was delicious and full of flavor. We were seated right away and well looked after.
+IR00356,INC001,2023-04-01,2,2,"The food was bland and forgettable. Overpriced for small, stingy portions."
+IR00341,INC001,2023-04-03,3,0,An ordinary meal in a quiet room. Service was slow and inattentive.
+IR00343,INC001,2023-04-04,3,3,"It was fine, about what you'd expect. Reasonable enough for a quick bite. Fresh ingredients, cooked to perfection."
+IR00347,INC001,2023-04-10,2,0,Service was slow and inattentive. The food was bland and forgettable.
+IR00352,INC001,2023-04-11,3,3,"A perfectly average visit, nothing stood out. An ordinary meal in a quiet room. We were seated right away and well looked after."
+IR00353,INC001,2023-04-12,3,0,"A perfectly average visit, nothing stood out. We waited far too long for our table."
+IR00340,INC001,2023-04-13,3,1,Reasonable enough for a quick bite. A cosy room and a lovely atmosphere.
+IR00342,INC001,2023-04-20,3,1,"An ordinary meal in a quiet room. Reasonable enough for a quick bite. Warm, friendly service all night."
+IR00344,INC001,2023-04-20,4,1,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere."
+IR00346,INC001,2023-04-20,4,2,A cosy room and a lovely atmosphere. We were seated right away and well looked after.
+IR00349,INC001,2023-04-22,1,0,Service was slow and inattentive. We waited far too long for our table.
+IR00348,INC001,2023-04-25,3,0,"It was fine, about what you'd expect. A perfectly average visit, nothing stood out. The food was delicious and full of flavor."
+IR00354,INC001,2023-04-25,5,3,"Fresh ingredients, cooked to perfection. Great value for a generous plate."
+IR00355,INC001,2023-04-25,3,0,"An ordinary meal in a quiet room. It was fine, about what you'd expect. We were seated right away and well looked after."
+IR00345,INC001,2023-04-26,3,2,"A perfectly average visit, nothing stood out. It was fine, about what you'd expect. Overpriced for small, stingy portions."
+IR00350,INC001,2023-04-26,1,1,Service was slow and inattentive. The room felt tired and a bit grimy.
+IR00351,INC001,2023-04-27,2,2,"My dish arrived cold and greasy. The room felt tired and a bit grimy. Overpriced for small, stingy portions."
+IR00364,INC001,2023-05-01,2,2,My dish arrived cold and greasy. Service was slow and inattentive. The food was bland and forgettable.
+IR00357,INC001,2023-05-02,5,1,"Great value for a generous plate. Warm, friendly service all night."
+IR00366,INC001,2023-05-03,2,1,Service was slow and inattentive. The food was bland and forgettable.
+IR00360,INC001,2023-05-04,2,1,We waited far too long for our table. The room felt tired and a bit grimy.
+IR00362,INC001,2023-05-07,3,2,"Reasonable enough for a quick bite. An ordinary meal in a quiet room. Fresh ingredients, cooked to perfection."
+IR00365,INC001,2023-05-15,4,0,"Fresh ingredients, cooked to perfection. A cosy room and a lovely atmosphere. We were seated right away and well looked after."
+IR00359,INC001,2023-05-17,5,0,"Fresh ingredients, cooked to perfection. The food was delicious and full of flavor."
+IR00361,INC001,2023-05-23,3,3,"Reasonable enough for a quick bite. A perfectly average visit, nothing stood out. Overpriced for small, stingy portions."
+IR00363,INC001,2023-05-23,4,0,Great value for a generous plate. The food was delicious and full of flavor.
+IR00358,INC001,2023-05-25,3,0,"Reasonable enough for a quick bite. It was fine, about what you'd expect. Fresh ingredients, cooked to perfection."
+IR00371,INC001,2023-06-04,3,2,"An ordinary meal in a quiet room. A perfectly average visit, nothing stood out. A cosy room and a lovely atmosphere."
+IR00367,INC001,2023-06-05,4,0,"Fresh ingredients, cooked to perfection. We were seated right away and well looked after."
+IR00368,INC001,2023-06-09,3,1,"It was fine, about what you'd expect. The food was bland and forgettable."
+IR00369,INC001,2023-06-09,3,0,Reasonable enough for a quick bite. The food was delicious and full of flavor.
+IR00374,INC001,2023-06-10,4,0,A cosy room and a lovely atmosphere. The food was delicious and full of flavor.
+IR00373,INC001,2023-06-13,3,0,"Reasonable enough for a quick bite. Warm, friendly service all night."
+IR00375,INC001,2023-06-16,3,1,"A perfectly average visit, nothing stood out. An ordinary meal in a quiet room. Fresh ingredients, cooked to perfection."
+IR00376,INC001,2023-06-16,2,1,My dish arrived cold and greasy. The food was bland and forgettable. The room felt tired and a bit grimy.
+IR00372,INC001,2023-06-21,3,0,"It was fine, about what you'd expect. My dish arrived cold and greasy."
+IR00370,INC001,2023-06-27,3,0,An ordinary meal in a quiet room. The food was delicious and full of flavor.

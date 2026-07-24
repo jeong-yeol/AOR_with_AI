@@ -1,0 +1,801 @@
+customer_id,review_text,sentiment,rating,tenure_months,churned
+C0001,Fast service and fair prices.,0.505,4,24,0
+C0002,Overpriced and disappointing.,-0.467,2,47,1
+C0003,Slow service and cold food.,-1.001,1,24,1
+C0004,Slow service and cold food.,-0.98,1,46,1
+C0005,Slow service and cold food.,-0.51,2,16,1
+C0006,Delicious meals and a nice atmosphere.,0.922,5,31,0
+C0007,"Nice place, though a bit pricey.",-0.115,3,8,1
+C0008,"Nice place, though a bit pricey.",0.095,3,10,0
+C0009,Delicious meals and a nice atmosphere.,0.977,5,29,0
+C0010,"Excellent value, would return.",0.492,4,9,0
+C0011,Dirty tables and rude staff.,-0.973,1,33,1
+C0012,"Clean, comfortable, and well located.",1.069,5,29,0
+C0013,"Nice place, though a bit pricey.",0.022,3,40,0
+C0014,Fast service and fair prices.,0.905,5,47,0
+C0015,Great food and friendly service.,0.948,5,17,0
+C0016,"Nice place, though a bit pricey.",0.037,3,3,0
+C0017,"Nice place, though a bit pricey.",-0.053,3,35,0
+C0018,Fast service and fair prices.,0.62,4,38,0
+C0019,Fast service and fair prices.,0.484,4,17,0
+C0020,"Excellent value, would return.",0.414,4,13,0
+C0021,Good food but slow service.,0.113,3,26,0
+C0022,The staff were attentive and kind.,0.941,5,10,0
+C0023,Delicious meals and a nice atmosphere.,1.121,5,17,0
+C0024,Dirty tables and rude staff.,-0.375,2,25,1
+C0025,Fast service and fair prices.,1.098,5,45,0
+C0026,"Clean, comfortable, and well located.",1.004,5,12,0
+C0027,Fast service and fair prices.,0.645,4,1,0
+C0028,Fast service and fair prices.,0.574,4,6,0
+C0029,Overpriced and disappointing.,-0.403,2,39,1
+C0030,Overpriced and disappointing.,-0.563,2,44,1
+C0031,"Excellent value, would return.",1.087,5,42,0
+C0032,"Excellent value, would return.",0.522,4,17,1
+C0033,The staff were attentive and kind.,0.873,5,13,0
+C0034,Slow service and cold food.,-0.355,2,20,0
+C0035,"Noisy, cramped, and unclean.",-0.396,2,23,1
+C0036,Delicious meals and a nice atmosphere.,1.016,5,13,0
+C0037,Delicious meals and a nice atmosphere.,1.106,5,44,0
+C0038,Good food but slow service.,-0.068,3,3,0
+C0039,"Noisy, cramped, and unclean.",-1.035,1,28,1
+C0040,"Friendly staff, but the food was average.",-0.069,3,43,0
+C0041,Great food and friendly service.,0.439,4,36,0
+C0042,Long wait and poor quality.,-0.577,2,9,1
+C0043,The staff were attentive and kind.,0.568,4,11,0
+C0044,Overpriced and disappointing.,-0.901,1,10,1
+C0045,Overpriced and disappointing.,-1.132,1,19,1
+C0046,"Excellent value, would return.",1.11,5,44,0
+C0047,Overpriced and disappointing.,-0.382,2,21,0
+C0048,Dirty tables and rude staff.,-0.515,2,9,1
+C0049,Good food but slow service.,-0.109,3,26,1
+C0050,"Friendly staff, but the food was average.",0.087,3,30,0
+C0051,"Excellent value, would return.",1.126,5,36,0
+C0052,Fast service and fair prices.,1.022,5,40,1
+C0053,Long wait and poor quality.,-0.887,1,2,1
+C0054,The staff were attentive and kind.,0.38,4,17,0
+C0055,"Nice place, though a bit pricey.",-0.106,3,23,0
+C0056,Good food but slow service.,-0.104,3,22,0
+C0057,"Nice place, though a bit pricey.",0.063,3,4,1
+C0058,"Nice place, though a bit pricey.",0.058,3,36,0
+C0059,Great food and friendly service.,0.459,4,20,0
+C0060,The staff were attentive and kind.,0.558,4,3,0
+C0061,The order was wrong and no one apologized.,-0.872,1,12,1
+C0062,Good food but slow service.,0.017,3,7,1
+C0063,"Excellent value, would return.",0.636,4,45,0
+C0064,"Noisy, cramped, and unclean.",-1.079,1,16,1
+C0065,"Clean, comfortable, and well located.",1.129,5,11,0
+C0066,"Excellent value, would return.",1.107,5,26,0
+C0067,"Clean, comfortable, and well located.",1.093,5,44,1
+C0068,Good food but slow service.,0.018,3,24,0
+C0069,"Friendly staff, but the food was average.",-0.112,3,43,0
+C0070,Delicious meals and a nice atmosphere.,0.638,4,46,1
+C0071,"Nice place, though a bit pricey.",0.105,3,31,0
+C0072,Great food and friendly service.,0.597,4,42,0
+C0073,Good food but slow service.,0.125,3,37,0
+C0074,"Friendly staff, but the food was average.",-0.08,3,6,0
+C0075,"Nice place, though a bit pricey.",0.012,3,38,0
+C0076,"Friendly staff, but the food was average.",0.031,3,14,0
+C0077,Fast service and fair prices.,0.873,5,46,0
+C0078,Dirty tables and rude staff.,-1.023,1,15,0
+C0079,Overpriced and disappointing.,-0.548,2,4,1
+C0080,Long wait and poor quality.,-1.024,1,39,0
+C0081,Delicious meals and a nice atmosphere.,0.578,4,46,0
+C0082,Slow service and cold food.,-0.514,2,30,0
+C0083,"Excellent value, would return.",0.947,5,2,0
+C0084,"Clean, comfortable, and well located.",1.095,5,15,0
+C0085,Slow service and cold food.,-0.429,2,38,1
+C0086,Good food but slow service.,-0.045,3,22,0
+C0087,Good food but slow service.,0.065,3,12,0
+C0088,Great food and friendly service.,0.857,5,30,0
+C0089,"Excellent value, would return.",0.57,4,7,0
+C0090,Overpriced and disappointing.,-1.085,1,22,1
+C0091,The order was wrong and no one apologized.,-0.642,2,42,0
+C0092,"Nice place, though a bit pricey.",0.023,3,37,0
+C0093,Long wait and poor quality.,-0.404,2,2,1
+C0094,"Excellent value, would return.",0.926,5,4,0
+C0095,Overpriced and disappointing.,-0.437,2,5,1
+C0096,Great food and friendly service.,0.426,4,48,1
+C0097,"Clean, comfortable, and well located.",1.09,5,12,0
+C0098,"Excellent value, would return.",1.01,5,22,0
+C0099,Fast service and fair prices.,1.069,5,27,0
+C0100,Great food and friendly service.,0.522,4,2,0
+C0101,The staff were attentive and kind.,0.607,4,22,1
+C0102,Long wait and poor quality.,-0.527,2,13,1
+C0103,Overpriced and disappointing.,-1.122,1,29,0
+C0104,"Clean, comfortable, and well located.",1.108,5,46,0
+C0105,Overpriced and disappointing.,-0.924,1,21,1
+C0106,The order was wrong and no one apologized.,-1.021,1,7,1
+C0107,Delicious meals and a nice atmosphere.,0.913,5,15,1
+C0108,Slow service and cold food.,-1.083,1,21,1
+C0109,"Nice place, though a bit pricey.",0.148,3,31,0
+C0110,"Clean, comfortable, and well located.",0.447,4,35,0
+C0111,Long wait and poor quality.,-0.962,1,7,1
+C0112,Slow service and cold food.,-1.078,1,40,0
+C0113,The staff were attentive and kind.,0.474,4,44,0
+C0114,Long wait and poor quality.,-0.891,1,19,1
+C0115,"Excellent value, would return.",0.619,4,11,0
+C0116,"Friendly staff, but the food was average.",-0.083,3,16,0
+C0117,Long wait and poor quality.,-0.443,2,28,0
+C0118,"Clean, comfortable, and well located.",0.586,4,23,0
+C0119,Great food and friendly service.,0.949,5,31,1
+C0120,Long wait and poor quality.,-0.511,2,1,0
+C0121,Good food but slow service.,0.024,3,2,0
+C0122,Fast service and fair prices.,1.132,5,27,0
+C0123,Good food but slow service.,-0.087,3,35,0
+C0124,"Clean, comfortable, and well located.",0.911,5,21,0
+C0125,Delicious meals and a nice atmosphere.,0.604,4,20,1
+C0126,Long wait and poor quality.,-0.938,1,34,1
+C0127,Great food and friendly service.,1.074,5,41,0
+C0128,Great food and friendly service.,0.56,4,11,0
+C0129,Fast service and fair prices.,1.052,5,37,0
+C0130,Slow service and cold food.,-0.374,2,19,1
+C0131,Good food but slow service.,-0.045,3,29,1
+C0132,Great food and friendly service.,0.851,5,47,0
+C0133,Good food but slow service.,0.101,3,18,1
+C0134,The order was wrong and no one apologized.,-1.122,1,16,0
+C0135,"Friendly staff, but the food was average.",-0.084,3,1,0
+C0136,"Excellent value, would return.",0.506,4,38,0
+C0137,Slow service and cold food.,-0.491,2,6,0
+C0138,Overpriced and disappointing.,-0.58,2,26,1
+C0139,"Clean, comfortable, and well located.",0.868,5,33,0
+C0140,"Excellent value, would return.",0.999,5,1,0
+C0141,Delicious meals and a nice atmosphere.,0.951,5,29,0
+C0142,Fast service and fair prices.,0.616,4,48,0
+C0143,"Nice place, though a bit pricey.",-0.081,3,5,0
+C0144,Long wait and poor quality.,-1.118,1,4,1
+C0145,Great food and friendly service.,0.876,5,14,0
+C0146,The order was wrong and no one apologized.,-1.112,1,37,0
+C0147,"Friendly staff, but the food was average.",-0.078,3,22,0
+C0148,Fast service and fair prices.,0.63,4,33,0
+C0149,Good food but slow service.,0.107,3,31,0
+C0150,"Friendly staff, but the food was average.",0.121,3,38,0
+C0151,Delicious meals and a nice atmosphere.,1.016,5,35,0
+C0152,"Clean, comfortable, and well located.",0.888,5,48,1
+C0153,The staff were attentive and kind.,0.389,4,11,1
+C0154,Dirty tables and rude staff.,-1.072,1,31,1
+C0155,Overpriced and disappointing.,-1.072,1,9,1
+C0156,Good food but slow service.,-0.042,3,33,0
+C0157,Great food and friendly service.,1.071,5,42,0
+C0158,Dirty tables and rude staff.,-0.38,2,31,1
+C0159,"Excellent value, would return.",0.887,5,8,0
+C0160,Dirty tables and rude staff.,-1.095,1,41,1
+C0161,Delicious meals and a nice atmosphere.,0.593,4,2,0
+C0162,Slow service and cold food.,-0.478,2,11,0
+C0163,"Nice place, though a bit pricey.",-0.115,3,18,1
+C0164,Delicious meals and a nice atmosphere.,0.928,5,27,0
+C0165,The order was wrong and no one apologized.,-0.535,2,12,1
+C0166,"Noisy, cramped, and unclean.",-0.391,2,41,1
+C0167,Long wait and poor quality.,-0.916,1,35,0
+C0168,The staff were attentive and kind.,0.912,5,5,0
+C0169,"Friendly staff, but the food was average.",0.058,3,6,0
+C0170,Great food and friendly service.,0.869,5,2,0
+C0171,Great food and friendly service.,0.522,4,7,0
+C0172,"Excellent value, would return.",0.922,5,22,0
+C0173,"Friendly staff, but the food was average.",0.069,3,35,0
+C0174,Delicious meals and a nice atmosphere.,1.058,5,35,0
+C0175,Great food and friendly service.,1.09,5,20,0
+C0176,The staff were attentive and kind.,0.915,5,15,0
+C0177,Good food but slow service.,-0.009,3,32,0
+C0178,Fast service and fair prices.,0.974,5,28,0
+C0179,The staff were attentive and kind.,0.929,5,45,0
+C0180,Great food and friendly service.,0.984,5,42,0
+C0181,Good food but slow service.,0.01,3,32,0
+C0182,"Nice place, though a bit pricey.",-0.129,3,23,1
+C0183,"Friendly staff, but the food was average.",-0.067,3,9,0
+C0184,"Nice place, though a bit pricey.",0.038,3,19,1
+C0185,Long wait and poor quality.,-0.416,2,32,1
+C0186,"Clean, comfortable, and well located.",0.596,4,24,0
+C0187,The order was wrong and no one apologized.,-0.551,2,29,1
+C0188,"Excellent value, would return.",0.506,4,39,1
+C0189,Delicious meals and a nice atmosphere.,0.921,5,10,0
+C0190,Delicious meals and a nice atmosphere.,0.525,4,20,1
+C0191,"Friendly staff, but the food was average.",0.043,3,24,0
+C0192,Long wait and poor quality.,-0.495,2,18,1
+C0193,Dirty tables and rude staff.,-0.427,2,31,1
+C0194,Delicious meals and a nice atmosphere.,0.873,5,46,0
+C0195,Long wait and poor quality.,-0.629,2,15,1
+C0196,"Nice place, though a bit pricey.",0.117,3,10,0
+C0197,Delicious meals and a nice atmosphere.,0.888,5,13,0
+C0198,The staff were attentive and kind.,0.609,4,18,0
+C0199,"Friendly staff, but the food was average.",-0.118,3,47,1
+C0200,Slow service and cold food.,-0.396,2,19,1
+C0201,"Clean, comfortable, and well located.",0.365,4,16,0
+C0202,The staff were attentive and kind.,0.535,4,9,0
+C0203,"Nice place, though a bit pricey.",-0.108,3,19,0
+C0204,The staff were attentive and kind.,1.132,5,5,0
+C0205,"Noisy, cramped, and unclean.",-0.574,2,8,1
+C0206,Long wait and poor quality.,-0.998,1,11,0
+C0207,Dirty tables and rude staff.,-1.013,1,12,1
+C0208,The order was wrong and no one apologized.,-0.364,2,31,1
+C0209,Dirty tables and rude staff.,-0.925,1,15,1
+C0210,Fast service and fair prices.,0.381,4,6,0
+C0211,"Excellent value, would return.",0.582,4,23,0
+C0212,The order was wrong and no one apologized.,-0.941,1,7,0
+C0213,Good food but slow service.,0.074,3,21,0
+C0214,Great food and friendly service.,0.386,4,16,1
+C0215,Overpriced and disappointing.,-0.459,2,8,0
+C0216,"Clean, comfortable, and well located.",0.591,4,39,0
+C0217,Good food but slow service.,-0.086,3,40,0
+C0218,Slow service and cold food.,-0.92,1,12,0
+C0219,Overpriced and disappointing.,-0.571,2,16,1
+C0220,"Excellent value, would return.",0.533,4,13,1
+C0221,Great food and friendly service.,0.581,4,7,0
+C0222,Slow service and cold food.,-0.454,2,19,1
+C0223,Overpriced and disappointing.,-0.411,2,31,1
+C0224,"Excellent value, would return.",1.024,5,29,0
+C0225,"Excellent value, would return.",0.961,5,25,0
+C0226,"Excellent value, would return.",1.042,5,21,0
+C0227,"Excellent value, would return.",0.354,4,17,0
+C0228,"Nice place, though a bit pricey.",0.03,3,41,0
+C0229,Slow service and cold food.,-1.116,1,35,1
+C0230,"Clean, comfortable, and well located.",0.966,5,23,0
+C0231,"Friendly staff, but the food was average.",-0.109,3,24,1
+C0232,"Noisy, cramped, and unclean.",-0.629,2,20,1
+C0233,Good food but slow service.,-0.018,3,25,0
+C0234,"Friendly staff, but the food was average.",0.086,3,7,0
+C0235,"Noisy, cramped, and unclean.",-0.995,1,37,0
+C0236,"Nice place, though a bit pricey.",-0.005,3,31,0
+C0237,Slow service and cold food.,-1.044,1,32,1
+C0238,Good food but slow service.,-0.053,3,40,0
+C0239,Dirty tables and rude staff.,-0.986,1,11,1
+C0240,"Noisy, cramped, and unclean.",-1.141,1,40,0
+C0241,Great food and friendly service.,0.361,4,39,0
+C0242,Dirty tables and rude staff.,-1.047,1,13,1
+C0243,Delicious meals and a nice atmosphere.,0.627,4,6,0
+C0244,"Noisy, cramped, and unclean.",-0.362,2,10,1
+C0245,Slow service and cold food.,-0.476,2,5,1
+C0246,The staff were attentive and kind.,1.104,5,7,0
+C0247,"Clean, comfortable, and well located.",0.448,4,30,0
+C0248,"Clean, comfortable, and well located.",0.619,4,10,0
+C0249,"Excellent value, would return.",0.873,5,25,0
+C0250,Delicious meals and a nice atmosphere.,0.998,5,12,1
+C0251,"Clean, comfortable, and well located.",1.1,5,32,0
+C0252,"Clean, comfortable, and well located.",0.427,4,30,0
+C0253,"Excellent value, would return.",0.626,4,15,0
+C0254,Long wait and poor quality.,-0.561,2,5,1
+C0255,Delicious meals and a nice atmosphere.,0.994,5,20,1
+C0256,Overpriced and disappointing.,-1.122,1,4,1
+C0257,Delicious meals and a nice atmosphere.,1.135,5,14,0
+C0258,"Clean, comfortable, and well located.",0.405,4,43,0
+C0259,"Friendly staff, but the food was average.",0.105,3,46,0
+C0260,"Friendly staff, but the food was average.",-0.111,3,23,0
+C0261,Good food but slow service.,-0.073,3,42,0
+C0262,"Nice place, though a bit pricey.",-0.003,3,8,0
+C0263,Fast service and fair prices.,0.531,4,19,0
+C0264,"Clean, comfortable, and well located.",1.013,5,17,0
+C0265,The order was wrong and no one apologized.,-1.039,1,44,1
+C0266,Long wait and poor quality.,-0.519,2,5,1
+C0267,Slow service and cold food.,-1.128,1,32,1
+C0268,Great food and friendly service.,0.602,4,22,0
+C0269,The order was wrong and no one apologized.,-0.963,1,33,0
+C0270,The order was wrong and no one apologized.,-0.62,2,33,1
+C0271,Overpriced and disappointing.,-1.011,1,4,1
+C0272,Delicious meals and a nice atmosphere.,0.53,4,45,0
+C0273,"Excellent value, would return.",0.467,4,24,0
+C0274,Fast service and fair prices.,0.61,4,14,0
+C0275,Slow service and cold food.,-0.916,1,32,0
+C0276,Long wait and poor quality.,-0.88,1,1,1
+C0277,The order was wrong and no one apologized.,-0.459,2,33,1
+C0278,Fast service and fair prices.,0.397,4,9,0
+C0279,Delicious meals and a nice atmosphere.,1.065,5,43,0
+C0280,The staff were attentive and kind.,0.61,4,48,1
+C0281,Great food and friendly service.,0.937,5,4,0
+C0282,Dirty tables and rude staff.,-1.052,1,23,1
+C0283,"Clean, comfortable, and well located.",0.96,5,41,1
+C0284,"Excellent value, would return.",1.014,5,18,0
+C0285,"Clean, comfortable, and well located.",0.557,4,10,0
+C0286,Great food and friendly service.,0.376,4,4,0
+C0287,"Friendly staff, but the food was average.",0.122,3,3,0
+C0288,"Excellent value, would return.",1.015,5,27,0
+C0289,The order was wrong and no one apologized.,-1.011,1,18,0
+C0290,Overpriced and disappointing.,-0.996,1,13,0
+C0291,Fast service and fair prices.,0.362,4,12,0
+C0292,Fast service and fair prices.,0.94,5,35,0
+C0293,The staff were attentive and kind.,0.434,4,41,0
+C0294,"Excellent value, would return.",0.437,4,23,0
+C0295,Great food and friendly service.,0.546,4,19,0
+C0296,Dirty tables and rude staff.,-1.106,1,43,1
+C0297,"Clean, comfortable, and well located.",0.92,5,12,0
+C0298,"Nice place, though a bit pricey.",0.06,3,6,0
+C0299,"Excellent value, would return.",1.053,5,43,0
+C0300,The staff were attentive and kind.,0.572,4,24,0
+C0301,Slow service and cold food.,-1.128,1,24,1
+C0302,Good food but slow service.,0.148,3,14,0
+C0303,"Clean, comfortable, and well located.",0.869,5,24,0
+C0304,The staff were attentive and kind.,1.112,5,2,0
+C0305,Fast service and fair prices.,0.908,5,40,0
+C0306,The order was wrong and no one apologized.,-0.556,2,10,1
+C0307,Fast service and fair prices.,0.498,4,28,0
+C0308,"Excellent value, would return.",0.613,4,42,0
+C0309,"Noisy, cramped, and unclean.",-0.401,2,10,1
+C0310,The staff were attentive and kind.,0.448,4,34,1
+C0311,"Excellent value, would return.",1.046,5,20,0
+C0312,Dirty tables and rude staff.,-0.635,2,3,1
+C0313,Fast service and fair prices.,0.644,4,8,0
+C0314,Delicious meals and a nice atmosphere.,0.446,4,36,0
+C0315,Long wait and poor quality.,-0.942,1,46,1
+C0316,"Clean, comfortable, and well located.",0.454,4,43,0
+C0317,"Excellent value, would return.",0.964,5,43,0
+C0318,The order was wrong and no one apologized.,-0.64,2,33,0
+C0319,"Noisy, cramped, and unclean.",-1.143,1,40,1
+C0320,Dirty tables and rude staff.,-0.982,1,1,1
+C0321,Good food but slow service.,0.087,3,14,0
+C0322,The staff were attentive and kind.,0.993,5,5,0
+C0323,The staff were attentive and kind.,0.489,4,12,1
+C0324,"Nice place, though a bit pricey.",-0.006,3,37,1
+C0325,The order was wrong and no one apologized.,-0.445,2,38,1
+C0326,Great food and friendly service.,1.03,5,8,0
+C0327,Delicious meals and a nice atmosphere.,0.951,5,32,0
+C0328,The staff were attentive and kind.,1.091,5,19,0
+C0329,"Clean, comfortable, and well located.",1.046,5,3,0
+C0330,"Excellent value, would return.",0.922,5,9,0
+C0331,Dirty tables and rude staff.,-0.885,1,24,1
+C0332,"Excellent value, would return.",1.053,5,2,0
+C0333,"Excellent value, would return.",0.635,4,27,0
+C0334,Good food but slow service.,-0.026,3,45,0
+C0335,"Nice place, though a bit pricey.",0.038,3,23,1
+C0336,"Friendly staff, but the food was average.",0.033,3,39,0
+C0337,Long wait and poor quality.,-0.425,2,12,0
+C0338,Long wait and poor quality.,-0.467,2,20,0
+C0339,The staff were attentive and kind.,0.999,5,15,1
+C0340,Delicious meals and a nice atmosphere.,0.981,5,48,0
+C0341,"Friendly staff, but the food was average.",-0.146,3,19,0
+C0342,"Clean, comfortable, and well located.",0.912,5,23,1
+C0343,Slow service and cold food.,-0.395,2,43,1
+C0344,Overpriced and disappointing.,-0.497,2,13,1
+C0345,"Excellent value, would return.",0.983,5,8,0
+C0346,The order was wrong and no one apologized.,-0.994,1,29,1
+C0347,"Friendly staff, but the food was average.",0.073,3,34,0
+C0348,Slow service and cold food.,-0.594,2,34,0
+C0349,"Friendly staff, but the food was average.",-0.065,3,36,0
+C0350,Great food and friendly service.,0.856,5,40,0
+C0351,Delicious meals and a nice atmosphere.,0.929,5,43,1
+C0352,"Noisy, cramped, and unclean.",-0.507,2,47,1
+C0353,Great food and friendly service.,0.96,5,9,0
+C0354,Overpriced and disappointing.,-0.64,2,1,0
+C0355,"Excellent value, would return.",0.414,4,31,0
+C0356,The order was wrong and no one apologized.,-1.017,1,5,1
+C0357,The order was wrong and no one apologized.,-0.375,2,11,0
+C0358,Dirty tables and rude staff.,-0.554,2,22,1
+C0359,"Excellent value, would return.",0.447,4,24,0
+C0360,"Noisy, cramped, and unclean.",-0.896,1,16,1
+C0361,"Excellent value, would return.",1.132,5,17,0
+C0362,"Noisy, cramped, and unclean.",-1.06,1,35,1
+C0363,The order was wrong and no one apologized.,-0.625,2,31,1
+C0364,"Clean, comfortable, and well located.",0.582,4,17,0
+C0365,"Clean, comfortable, and well located.",1.06,5,15,0
+C0366,Good food but slow service.,0.036,3,48,0
+C0367,Delicious meals and a nice atmosphere.,0.93,5,41,0
+C0368,The staff were attentive and kind.,1.061,5,43,0
+C0369,The staff were attentive and kind.,1.002,5,5,0
+C0370,Overpriced and disappointing.,-0.501,2,46,1
+C0371,Overpriced and disappointing.,-1.03,1,16,1
+C0372,Long wait and poor quality.,-0.988,1,21,1
+C0373,The staff were attentive and kind.,0.57,4,40,0
+C0374,"Nice place, though a bit pricey.",0.002,3,32,0
+C0375,Delicious meals and a nice atmosphere.,1.104,5,5,0
+C0376,Great food and friendly service.,0.522,4,29,0
+C0377,Slow service and cold food.,-0.519,2,5,1
+C0378,Overpriced and disappointing.,-0.514,2,39,1
+C0379,The staff were attentive and kind.,1.11,5,24,0
+C0380,Fast service and fair prices.,0.55,4,44,0
+C0381,Slow service and cold food.,-1.124,1,16,0
+C0382,Delicious meals and a nice atmosphere.,0.542,4,46,0
+C0383,Good food but slow service.,0.008,3,6,1
+C0384,"Clean, comfortable, and well located.",0.557,4,21,0
+C0385,Great food and friendly service.,0.982,5,16,0
+C0386,Great food and friendly service.,0.874,5,29,0
+C0387,Fast service and fair prices.,0.43,4,48,0
+C0388,"Excellent value, would return.",0.606,4,4,0
+C0389,Fast service and fair prices.,0.466,4,19,0
+C0390,Fast service and fair prices.,0.943,5,42,0
+C0391,Delicious meals and a nice atmosphere.,1.078,5,47,0
+C0392,Fast service and fair prices.,0.638,4,39,0
+C0393,Good food but slow service.,0.068,3,7,0
+C0394,"Nice place, though a bit pricey.",-0.069,3,21,0
+C0395,"Nice place, though a bit pricey.",0.011,3,19,0
+C0396,Slow service and cold food.,-0.38,2,16,0
+C0397,Overpriced and disappointing.,-1.042,1,19,0
+C0398,"Friendly staff, but the food was average.",-0.13,3,1,1
+C0399,"Clean, comfortable, and well located.",0.602,4,8,0
+C0400,Delicious meals and a nice atmosphere.,0.627,4,7,0
+C0401,"Excellent value, would return.",1.117,5,32,0
+C0402,The staff were attentive and kind.,1.045,5,6,0
+C0403,Good food but slow service.,-0.114,3,45,1
+C0404,"Noisy, cramped, and unclean.",-1.122,1,19,0
+C0405,"Clean, comfortable, and well located.",0.419,4,25,0
+C0406,"Excellent value, would return.",1.039,5,12,0
+C0407,The order was wrong and no one apologized.,-0.884,1,39,0
+C0408,"Nice place, though a bit pricey.",0.077,3,14,0
+C0409,"Excellent value, would return.",0.414,4,43,1
+C0410,"Excellent value, would return.",1.066,5,46,0
+C0411,"Excellent value, would return.",0.524,4,45,0
+C0412,Good food but slow service.,-0.148,3,44,1
+C0413,"Nice place, though a bit pricey.",0.073,3,23,0
+C0414,Dirty tables and rude staff.,-0.362,2,47,1
+C0415,"Nice place, though a bit pricey.",0.011,3,11,0
+C0416,"Excellent value, would return.",0.938,5,8,0
+C0417,"Excellent value, would return.",0.946,5,27,0
+C0418,"Nice place, though a bit pricey.",-0.041,3,26,0
+C0419,Fast service and fair prices.,1.08,5,9,0
+C0420,Dirty tables and rude staff.,-1.09,1,43,1
+C0421,Good food but slow service.,-0.11,3,21,0
+C0422,"Clean, comfortable, and well located.",0.448,4,46,1
+C0423,Delicious meals and a nice atmosphere.,0.938,5,26,0
+C0424,Slow service and cold food.,-0.86,1,6,0
+C0425,The order was wrong and no one apologized.,-0.523,2,42,0
+C0426,"Noisy, cramped, and unclean.",-0.859,1,11,0
+C0427,The order was wrong and no one apologized.,-0.578,2,47,1
+C0428,Slow service and cold food.,-1.093,1,19,1
+C0429,The order was wrong and no one apologized.,-0.63,2,20,1
+C0430,Overpriced and disappointing.,-0.913,1,48,1
+C0431,Dirty tables and rude staff.,-1.12,1,25,0
+C0432,Dirty tables and rude staff.,-0.587,2,9,0
+C0433,Fast service and fair prices.,0.362,4,11,0
+C0434,"Clean, comfortable, and well located.",1.066,5,17,0
+C0435,The order was wrong and no one apologized.,-0.958,1,24,1
+C0436,Delicious meals and a nice atmosphere.,0.889,5,48,0
+C0437,Great food and friendly service.,0.581,4,13,0
+C0438,The staff were attentive and kind.,0.474,4,2,0
+C0439,Long wait and poor quality.,-0.556,2,15,0
+C0440,Delicious meals and a nice atmosphere.,0.888,5,7,0
+C0441,Delicious meals and a nice atmosphere.,0.966,5,39,0
+C0442,Good food but slow service.,-0.122,3,26,1
+C0443,"Excellent value, would return.",0.941,5,37,0
+C0444,"Clean, comfortable, and well located.",0.529,4,38,0
+C0445,Fast service and fair prices.,0.39,4,46,0
+C0446,The staff were attentive and kind.,1.081,5,20,0
+C0447,Great food and friendly service.,0.623,4,1,1
+C0448,Fast service and fair prices.,0.945,5,27,0
+C0449,"Excellent value, would return.",0.375,4,38,0
+C0450,"Excellent value, would return.",0.885,5,22,0
+C0451,The staff were attentive and kind.,0.592,4,10,0
+C0452,The staff were attentive and kind.,0.631,4,28,0
+C0453,Great food and friendly service.,0.585,4,2,1
+C0454,Overpriced and disappointing.,-0.87,1,37,1
+C0455,Great food and friendly service.,0.508,4,13,1
+C0456,The staff were attentive and kind.,0.471,4,46,1
+C0457,Good food but slow service.,0.15,3,6,1
+C0458,Slow service and cold food.,-0.985,1,16,0
+C0459,Delicious meals and a nice atmosphere.,0.457,4,2,0
+C0460,"Excellent value, would return.",0.427,4,36,0
+C0461,"Nice place, though a bit pricey.",0.019,3,9,1
+C0462,Fast service and fair prices.,0.97,5,26,0
+C0463,"Clean, comfortable, and well located.",0.464,4,16,0
+C0464,"Clean, comfortable, and well located.",0.355,4,20,0
+C0465,Good food but slow service.,0.071,3,7,1
+C0466,Great food and friendly service.,1.135,5,39,0
+C0467,"Friendly staff, but the food was average.",0.107,3,42,1
+C0468,Good food but slow service.,-0.054,3,34,1
+C0469,"Friendly staff, but the food was average.",0.007,3,23,0
+C0470,Delicious meals and a nice atmosphere.,0.926,5,29,0
+C0471,"Clean, comfortable, and well located.",1.135,5,5,0
+C0472,The staff were attentive and kind.,0.585,4,24,0
+C0473,Delicious meals and a nice atmosphere.,0.495,4,29,0
+C0474,Good food but slow service.,-0.149,3,26,0
+C0475,"Excellent value, would return.",0.452,4,10,0
+C0476,"Excellent value, would return.",1.148,5,10,0
+C0477,The staff were attentive and kind.,0.519,4,22,0
+C0478,Delicious meals and a nice atmosphere.,1.127,5,3,0
+C0479,Great food and friendly service.,0.389,4,6,0
+C0480,Dirty tables and rude staff.,-0.356,2,28,1
+C0481,"Friendly staff, but the food was average.",0.096,3,14,0
+C0482,The order was wrong and no one apologized.,-0.553,2,7,0
+C0483,"Nice place, though a bit pricey.",-0.024,3,27,1
+C0484,Fast service and fair prices.,0.451,4,45,0
+C0485,The staff were attentive and kind.,1.093,5,24,0
+C0486,Good food but slow service.,0.103,3,1,1
+C0487,"Excellent value, would return.",0.385,4,48,0
+C0488,"Nice place, though a bit pricey.",-0.001,3,34,1
+C0489,The staff were attentive and kind.,0.535,4,13,0
+C0490,Overpriced and disappointing.,-0.54,2,21,1
+C0491,Good food but slow service.,0.129,3,6,1
+C0492,"Friendly staff, but the food was average.",0.104,3,37,1
+C0493,Great food and friendly service.,1.142,5,31,0
+C0494,"Nice place, though a bit pricey.",-0.096,3,48,0
+C0495,"Clean, comfortable, and well located.",1.025,5,5,1
+C0496,Great food and friendly service.,0.636,4,10,0
+C0497,"Clean, comfortable, and well located.",0.912,5,20,0
+C0498,"Clean, comfortable, and well located.",0.528,4,34,0
+C0499,Long wait and poor quality.,-0.869,1,7,1
+C0500,Slow service and cold food.,-0.926,1,43,1
+C0501,Overpriced and disappointing.,-0.591,2,23,0
+C0502,"Noisy, cramped, and unclean.",-0.874,1,4,1
+C0503,Delicious meals and a nice atmosphere.,0.635,4,4,0
+C0504,Delicious meals and a nice atmosphere.,0.417,4,19,1
+C0505,"Nice place, though a bit pricey.",-0.113,3,29,1
+C0506,The order was wrong and no one apologized.,-0.387,2,28,0
+C0507,Overpriced and disappointing.,-0.437,2,4,1
+C0508,"Clean, comfortable, and well located.",0.939,5,13,0
+C0509,Slow service and cold food.,-0.944,1,47,0
+C0510,"Clean, comfortable, and well located.",0.545,4,32,0
+C0511,The staff were attentive and kind.,0.98,5,43,0
+C0512,Great food and friendly service.,0.508,4,41,0
+C0513,The staff were attentive and kind.,0.624,4,2,1
+C0514,Overpriced and disappointing.,-0.867,1,34,1
+C0515,Long wait and poor quality.,-0.359,2,3,1
+C0516,"Nice place, though a bit pricey.",0.033,3,42,0
+C0517,Delicious meals and a nice atmosphere.,0.45,4,10,0
+C0518,Great food and friendly service.,0.625,4,21,1
+C0519,"Noisy, cramped, and unclean.",-0.525,2,26,0
+C0520,"Noisy, cramped, and unclean.",-1.083,1,37,0
+C0521,"Noisy, cramped, and unclean.",-0.892,1,48,1
+C0522,Good food but slow service.,-0.06,3,24,0
+C0523,Overpriced and disappointing.,-0.459,2,19,1
+C0524,"Nice place, though a bit pricey.",0.035,3,15,0
+C0525,Great food and friendly service.,0.569,4,18,0
+C0526,Good food but slow service.,0.021,3,38,1
+C0527,Delicious meals and a nice atmosphere.,0.945,5,22,1
+C0528,"Clean, comfortable, and well located.",0.894,5,18,0
+C0529,"Clean, comfortable, and well located.",0.947,5,18,0
+C0530,The staff were attentive and kind.,0.375,4,35,0
+C0531,Great food and friendly service.,1.131,5,15,0
+C0532,Good food but slow service.,0.034,3,29,0
+C0533,Great food and friendly service.,0.567,4,15,0
+C0534,"Nice place, though a bit pricey.",-0.086,3,18,0
+C0535,Good food but slow service.,0.036,3,37,0
+C0536,Long wait and poor quality.,-0.973,1,9,1
+C0537,"Nice place, though a bit pricey.",-0.036,3,38,0
+C0538,Great food and friendly service.,0.616,4,2,1
+C0539,Long wait and poor quality.,-1.057,1,15,1
+C0540,Good food but slow service.,0.068,3,27,0
+C0541,"Clean, comfortable, and well located.",0.631,4,2,0
+C0542,Delicious meals and a nice atmosphere.,0.892,5,3,0
+C0543,Great food and friendly service.,0.87,5,7,0
+C0544,Great food and friendly service.,0.588,4,19,0
+C0545,Fast service and fair prices.,0.65,4,38,0
+C0546,"Nice place, though a bit pricey.",0.094,3,15,0
+C0547,Long wait and poor quality.,-0.435,2,20,1
+C0548,"Clean, comfortable, and well located.",0.895,5,7,0
+C0549,"Nice place, though a bit pricey.",-0.023,3,24,0
+C0550,Delicious meals and a nice atmosphere.,0.598,4,35,0
+C0551,Fast service and fair prices.,0.904,5,23,0
+C0552,The staff were attentive and kind.,0.897,5,19,1
+C0553,"Noisy, cramped, and unclean.",-1.042,1,22,0
+C0554,"Nice place, though a bit pricey.",-0.123,3,36,0
+C0555,The order was wrong and no one apologized.,-0.523,2,32,1
+C0556,"Excellent value, would return.",0.618,4,14,0
+C0557,"Friendly staff, but the food was average.",0.052,3,48,0
+C0558,The staff were attentive and kind.,0.964,5,39,0
+C0559,"Excellent value, would return.",0.577,4,5,0
+C0560,Fast service and fair prices.,1.088,5,47,0
+C0561,"Friendly staff, but the food was average.",-0.137,3,8,1
+C0562,Dirty tables and rude staff.,-0.487,2,39,1
+C0563,"Nice place, though a bit pricey.",0.004,3,30,0
+C0564,"Friendly staff, but the food was average.",-0.004,3,12,0
+C0565,"Noisy, cramped, and unclean.",-0.638,2,48,0
+C0566,"Nice place, though a bit pricey.",0.03,3,38,0
+C0567,Great food and friendly service.,0.649,4,20,0
+C0568,Delicious meals and a nice atmosphere.,1.007,5,25,0
+C0569,Good food but slow service.,-0.033,3,24,0
+C0570,"Clean, comfortable, and well located.",0.937,5,27,0
+C0571,Slow service and cold food.,-0.45,2,36,1
+C0572,"Clean, comfortable, and well located.",0.517,4,25,0
+C0573,Great food and friendly service.,1.086,5,34,0
+C0574,"Clean, comfortable, and well located.",0.484,4,1,0
+C0575,Great food and friendly service.,1.061,5,35,0
+C0576,"Noisy, cramped, and unclean.",-0.934,1,13,0
+C0577,Great food and friendly service.,0.463,4,36,1
+C0578,Delicious meals and a nice atmosphere.,0.474,4,28,0
+C0579,Dirty tables and rude staff.,-0.859,1,27,0
+C0580,The staff were attentive and kind.,0.353,4,37,0
+C0581,"Clean, comfortable, and well located.",1.103,5,20,0
+C0582,Overpriced and disappointing.,-0.618,2,34,0
+C0583,Great food and friendly service.,1.056,5,24,0
+C0584,Overpriced and disappointing.,-1.055,1,3,0
+C0585,Good food but slow service.,-0.001,3,21,1
+C0586,Delicious meals and a nice atmosphere.,0.37,4,7,0
+C0587,Slow service and cold food.,-0.527,2,23,1
+C0588,Delicious meals and a nice atmosphere.,0.86,5,30,0
+C0589,The staff were attentive and kind.,0.503,4,26,0
+C0590,"Excellent value, would return.",1.088,5,44,0
+C0591,The staff were attentive and kind.,0.453,4,14,0
+C0592,Dirty tables and rude staff.,-0.875,1,19,0
+C0593,The order was wrong and no one apologized.,-0.971,1,32,1
+C0594,"Clean, comfortable, and well located.",0.422,4,31,0
+C0595,Overpriced and disappointing.,-0.559,2,26,1
+C0596,Delicious meals and a nice atmosphere.,1.066,5,32,0
+C0597,"Noisy, cramped, and unclean.",-1.032,1,20,1
+C0598,Delicious meals and a nice atmosphere.,0.524,4,33,0
+C0599,"Nice place, though a bit pricey.",0.143,3,32,0
+C0600,"Noisy, cramped, and unclean.",-0.471,2,16,1
+C0601,"Friendly staff, but the food was average.",-0.042,3,5,1
+C0602,Long wait and poor quality.,-1.12,1,27,0
+C0603,"Clean, comfortable, and well located.",0.881,5,35,0
+C0604,Delicious meals and a nice atmosphere.,0.876,5,7,0
+C0605,"Excellent value, would return.",0.926,5,43,0
+C0606,The staff were attentive and kind.,0.355,4,11,0
+C0607,Dirty tables and rude staff.,-1.113,1,40,1
+C0608,"Clean, comfortable, and well located.",0.528,4,44,1
+C0609,"Clean, comfortable, and well located.",0.416,4,12,1
+C0610,"Excellent value, would return.",0.945,5,1,0
+C0611,Great food and friendly service.,1.077,5,1,0
+C0612,Long wait and poor quality.,-0.53,2,11,1
+C0613,Slow service and cold food.,-0.996,1,9,0
+C0614,"Clean, comfortable, and well located.",0.577,4,39,0
+C0615,The staff were attentive and kind.,0.622,4,3,0
+C0616,Fast service and fair prices.,0.605,4,7,0
+C0617,Dirty tables and rude staff.,-1.089,1,20,1
+C0618,Slow service and cold food.,-0.453,2,28,1
+C0619,"Clean, comfortable, and well located.",0.573,4,27,0
+C0620,Delicious meals and a nice atmosphere.,1.001,5,19,0
+C0621,Overpriced and disappointing.,-0.914,1,24,1
+C0622,"Excellent value, would return.",0.979,5,19,0
+C0623,Delicious meals and a nice atmosphere.,1.129,5,8,0
+C0624,Delicious meals and a nice atmosphere.,0.547,4,26,1
+C0625,Great food and friendly service.,0.908,5,20,1
+C0626,The staff were attentive and kind.,0.382,4,14,0
+C0627,"Clean, comfortable, and well located.",1.07,5,28,0
+C0628,"Excellent value, would return.",1.017,5,21,0
+C0629,Slow service and cold food.,-0.859,1,42,1
+C0630,Fast service and fair prices.,0.634,4,9,0
+C0631,Fast service and fair prices.,0.561,4,11,0
+C0632,"Excellent value, would return.",0.877,5,18,0
+C0633,Good food but slow service.,0.028,3,20,0
+C0634,Fast service and fair prices.,1.109,5,13,0
+C0635,"Clean, comfortable, and well located.",0.514,4,3,1
+C0636,Fast service and fair prices.,0.385,4,11,0
+C0637,"Friendly staff, but the food was average.",0.097,3,5,0
+C0638,"Friendly staff, but the food was average.",0.011,3,6,0
+C0639,Delicious meals and a nice atmosphere.,0.578,4,43,0
+C0640,Good food but slow service.,0.076,3,11,0
+C0641,Overpriced and disappointing.,-0.863,1,31,0
+C0642,Delicious meals and a nice atmosphere.,0.511,4,6,0
+C0643,Great food and friendly service.,0.473,4,11,0
+C0644,"Excellent value, would return.",0.636,4,7,0
+C0645,"Friendly staff, but the food was average.",-0.138,3,7,1
+C0646,"Noisy, cramped, and unclean.",-0.992,1,34,1
+C0647,The staff were attentive and kind.,0.535,4,26,0
+C0648,Fast service and fair prices.,1.035,5,25,0
+C0649,"Excellent value, would return.",0.866,5,28,0
+C0650,The staff were attentive and kind.,1.129,5,46,0
+C0651,Slow service and cold food.,-0.515,2,26,1
+C0652,Great food and friendly service.,0.909,5,17,0
+C0653,"Friendly staff, but the food was average.",0.006,3,13,0
+C0654,Great food and friendly service.,1.149,5,38,0
+C0655,Slow service and cold food.,-0.948,1,40,1
+C0656,The order was wrong and no one apologized.,-0.851,1,33,1
+C0657,Fast service and fair prices.,0.386,4,27,0
+C0658,"Clean, comfortable, and well located.",0.585,4,30,0
+C0659,"Excellent value, would return.",0.927,5,46,0
+C0660,The order was wrong and no one apologized.,-0.943,1,7,1
+C0661,"Excellent value, would return.",0.978,5,46,0
+C0662,"Friendly staff, but the food was average.",0.109,3,44,0
+C0663,"Clean, comfortable, and well located.",0.574,4,47,0
+C0664,Fast service and fair prices.,0.592,4,44,0
+C0665,Delicious meals and a nice atmosphere.,1.025,5,43,0
+C0666,"Nice place, though a bit pricey.",-0.013,3,9,0
+C0667,"Clean, comfortable, and well located.",0.915,5,11,0
+C0668,Long wait and poor quality.,-0.646,2,26,0
+C0669,Great food and friendly service.,0.551,4,31,0
+C0670,"Nice place, though a bit pricey.",-0.144,3,9,1
+C0671,Long wait and poor quality.,-1.105,1,6,1
+C0672,The staff were attentive and kind.,1.14,5,25,0
+C0673,Overpriced and disappointing.,-0.552,2,7,1
+C0674,Slow service and cold food.,-0.471,2,27,1
+C0675,The staff were attentive and kind.,0.535,4,29,0
+C0676,Slow service and cold food.,-0.902,1,22,1
+C0677,The staff were attentive and kind.,0.908,5,6,0
+C0678,The order was wrong and no one apologized.,-0.646,2,4,1
+C0679,Overpriced and disappointing.,-0.478,2,30,1
+C0680,"Nice place, though a bit pricey.",-0.025,3,42,0
+C0681,"Nice place, though a bit pricey.",0.001,3,17,0
+C0682,Fast service and fair prices.,0.501,4,37,1
+C0683,Slow service and cold food.,-0.895,1,24,1
+C0684,Overpriced and disappointing.,-0.939,1,15,1
+C0685,Long wait and poor quality.,-0.984,1,41,1
+C0686,Slow service and cold food.,-0.426,2,39,0
+C0687,"Excellent value, would return.",0.455,4,45,0
+C0688,The staff were attentive and kind.,0.421,4,22,0
+C0689,"Excellent value, would return.",0.568,4,30,0
+C0690,"Noisy, cramped, and unclean.",-0.958,1,5,1
+C0691,"Noisy, cramped, and unclean.",-0.594,2,26,1
+C0692,Great food and friendly service.,0.624,4,22,0
+C0693,The staff were attentive and kind.,0.927,5,29,0
+C0694,"Friendly staff, but the food was average.",-0.141,3,26,1
+C0695,"Friendly staff, but the food was average.",0.115,3,33,0
+C0696,"Excellent value, would return.",0.851,5,29,0
+C0697,The order was wrong and no one apologized.,-0.889,1,18,1
+C0698,The staff were attentive and kind.,0.574,4,11,0
+C0699,Good food but slow service.,0.099,3,28,0
+C0700,Overpriced and disappointing.,-1.083,1,48,1
+C0701,"Friendly staff, but the food was average.",0.121,3,6,1
+C0702,The staff were attentive and kind.,0.427,4,25,0
+C0703,Great food and friendly service.,1.083,5,14,0
+C0704,"Nice place, though a bit pricey.",0.095,3,47,0
+C0705,Delicious meals and a nice atmosphere.,0.362,4,46,0
+C0706,The order was wrong and no one apologized.,-1.025,1,23,0
+C0707,"Nice place, though a bit pricey.",0.016,3,16,0
+C0708,Fast service and fair prices.,1.058,5,11,0
+C0709,"Nice place, though a bit pricey.",-0.04,3,44,0
+C0710,Fast service and fair prices.,0.403,4,24,0
+C0711,"Clean, comfortable, and well located.",0.4,4,36,0
+C0712,Dirty tables and rude staff.,-0.904,1,37,1
+C0713,"Friendly staff, but the food was average.",-0.11,3,41,1
+C0714,"Clean, comfortable, and well located.",0.364,4,34,0
+C0715,Delicious meals and a nice atmosphere.,0.461,4,8,0
+C0716,Great food and friendly service.,1.059,5,27,0
+C0717,Great food and friendly service.,0.48,4,24,0
+C0718,The staff were attentive and kind.,1.099,5,28,0
+C0719,Fast service and fair prices.,0.856,5,28,0
+C0720,The staff were attentive and kind.,0.456,4,27,0
+C0721,Long wait and poor quality.,-1.112,1,30,1
+C0722,Delicious meals and a nice atmosphere.,0.438,4,1,0
+C0723,"Friendly staff, but the food was average.",0.077,3,31,0
+C0724,Dirty tables and rude staff.,-0.995,1,28,0
+C0725,Overpriced and disappointing.,-1.061,1,15,1
+C0726,"Noisy, cramped, and unclean.",-0.641,2,31,0
+C0727,"Excellent value, would return.",1.089,5,4,1
+C0728,The staff were attentive and kind.,1.04,5,7,0
+C0729,The staff were attentive and kind.,1.01,5,31,0
+C0730,The staff were attentive and kind.,0.621,4,42,1
+C0731,Long wait and poor quality.,-1.097,1,9,1
+C0732,The staff were attentive and kind.,0.988,5,22,0
+C0733,The order was wrong and no one apologized.,-0.895,1,3,1
+C0734,Great food and friendly service.,0.567,4,48,1
+C0735,"Friendly staff, but the food was average.",0.142,3,25,0
+C0736,Long wait and poor quality.,-0.622,2,8,1
+C0737,"Nice place, though a bit pricey.",0.065,3,22,0
+C0738,"Excellent value, would return.",0.416,4,29,0
+C0739,"Noisy, cramped, and unclean.",-0.518,2,45,1
+C0740,Great food and friendly service.,0.556,4,8,0
+C0741,"Excellent value, would return.",0.374,4,28,0
+C0742,"Excellent value, would return.",1.095,5,16,0
+C0743,"Noisy, cramped, and unclean.",-0.632,2,44,0
+C0744,The staff were attentive and kind.,0.487,4,3,0
+C0745,The order was wrong and no one apologized.,-0.865,1,28,0
+C0746,The staff were attentive and kind.,0.544,4,19,0
+C0747,Overpriced and disappointing.,-0.359,2,27,1
+C0748,Fast service and fair prices.,0.92,5,33,0
+C0749,"Friendly staff, but the food was average.",-0.009,3,24,0
+C0750,The staff were attentive and kind.,0.898,5,34,1
+C0751,"Clean, comfortable, and well located.",0.514,4,44,0
+C0752,The staff were attentive and kind.,1.012,5,27,0
+C0753,"Excellent value, would return.",0.945,5,30,0
+C0754,The staff were attentive and kind.,1.044,5,18,1
+C0755,Long wait and poor quality.,-0.406,2,9,1
+C0756,The order was wrong and no one apologized.,-0.515,2,3,0
+C0757,The staff were attentive and kind.,0.45,4,22,0
+C0758,"Excellent value, would return.",1.017,5,37,0
+C0759,Fast service and fair prices.,0.467,4,29,0
+C0760,"Nice place, though a bit pricey.",-0.146,3,13,0
+C0761,Delicious meals and a nice atmosphere.,0.37,4,35,0
+C0762,Overpriced and disappointing.,-0.889,1,13,1
+C0763,Good food but slow service.,-0.047,3,30,0
+C0764,Fast service and fair prices.,0.505,4,33,1
+C0765,Good food but slow service.,0.011,3,27,0
+C0766,"Friendly staff, but the food was average.",0.135,3,36,0
+C0767,"Clean, comfortable, and well located.",0.568,4,15,0
+C0768,The order was wrong and no one apologized.,-0.436,2,34,1
+C0769,"Excellent value, would return.",0.86,5,39,0
+C0770,"Noisy, cramped, and unclean.",-0.558,2,33,1
+C0771,"Noisy, cramped, and unclean.",-0.629,2,23,1
+C0772,"Nice place, though a bit pricey.",0.079,3,45,0
+C0773,Delicious meals and a nice atmosphere.,0.394,4,20,0
+C0774,The order was wrong and no one apologized.,-0.45,2,36,1
+C0775,Dirty tables and rude staff.,-0.5,2,47,1
+C0776,The order was wrong and no one apologized.,-0.391,2,44,1
+C0777,Fast service and fair prices.,0.564,4,28,0
+C0778,Long wait and poor quality.,-1.081,1,13,1
+C0779,Fast service and fair prices.,0.404,4,16,0
+C0780,Dirty tables and rude staff.,-0.94,1,27,1
+C0781,The staff were attentive and kind.,0.971,5,14,0
+C0782,Overpriced and disappointing.,-1.119,1,28,1
+C0783,"Nice place, though a bit pricey.",0.012,3,45,0
+C0784,"Clean, comfortable, and well located.",1.095,5,13,0
+C0785,Overpriced and disappointing.,-1.111,1,15,0
+C0786,The staff were attentive and kind.,0.416,4,4,0
+C0787,Dirty tables and rude staff.,-0.917,1,35,1
+C0788,Good food but slow service.,-0.014,3,21,0
+C0789,Fast service and fair prices.,0.461,4,18,0
+C0790,"Friendly staff, but the food was average.",-0.114,3,10,1
+C0791,Dirty tables and rude staff.,-0.899,1,11,1
+C0792,"Clean, comfortable, and well located.",0.99,5,46,0
+C0793,The staff were attentive and kind.,0.599,4,22,0
+C0794,Slow service and cold food.,-1.071,1,41,0
+C0795,Fast service and fair prices.,0.892,5,18,0
+C0796,The order was wrong and no one apologized.,-0.644,2,7,1
+C0797,Long wait and poor quality.,-0.572,2,22,0
+C0798,"Nice place, though a bit pricey.",-0.111,3,45,1
+C0799,Overpriced and disappointing.,-0.937,1,30,1
+C0800,The order was wrong and no one apologized.,-0.433,2,42,0
