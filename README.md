@@ -28,6 +28,8 @@ data/
     sample_churn_reviews.csv           reviews labeled with churn
     sample_incident_reviews.csv        changepoint and review-bombing demo (Ch8)
     sample_spatial_reviews.csv         reviews with coordinates
+notebooks/           Seven worked Colab notebooks, one per stage of the book
+prompts/             The ready-to-use Gemini prompt library
 ```
 
 ## Using the data
@@ -37,9 +39,14 @@ main corpus in a Colab notebook:
 
 ```python
 import pandas as pd
-reviews = pd.read_csv("data/maple_city/maple_city_reviews.csv")
-businesses = pd.read_csv("data/maple_city/maple_city_businesses.csv")
+BASE = "https://raw.githubusercontent.com/jeong-yeol/AOR_with_AI/main/"
+reviews = pd.read_csv(BASE + "data/maple_city/maple_city_reviews.csv")
+businesses = pd.read_csv(BASE + "data/maple_city/maple_city_businesses.csv")
 ```
+
+The raw URL form works from any Colab notebook with no download step. If you
+cloned or downloaded the repository instead, drop `BASE` and read the same
+paths relative to the repository root.
 
 The `derived/` tables let you start each chapter from a clean, analysis-ready table without
 re-deriving features from the raw reviews.
