@@ -1,0 +1,151 @@
+sentence,count_in_corpus,aspect,polarity
+A creative and tempting menu.,1213,food,pos
+A disappointing meal.,1476,overall,neg
+A forgettable and dreary occasion.,1382,overall,neg
+"A generally unclean, neglected space.",1960,clean,neg
+A gratifying and comfortable occasion.,1485,overall,pos
+A lackluster outing.,1353,overall,neg
+"A limited, uninspired menu.",1432,food,neg
+A marvellous and memorable highlight.,1484,overall,pos
+A miserable ordeal.,1238,overall,neg
+A passable middle ground.,1738,overall,neu
+A pleasing meal out.,1437,overall,pos
+A rewarding evening.,1491,overall,pos
+A superb treat.,1464,overall,pos
+A wonderful celebration.,1447,overall,pos
+Actively steering people elsewhere.,474,wom,neg
+Advised colleagues against it.,1083,wom,neg
+Affordable given the generous portions.,1463,price,pos
+An adequate stop.,1663,overall,neu
+An awful waste of money.,1217,overall,neg
+An endless wait for the check.,1142,wait,neg
+An unremarkable but tolerable break.,1659,overall,neu
+"Attentive, welcoming staff.",1544,service,pos
+Been here a few times now.,1329,none,neu
+Came here with friends.,1398,none,neu
+"Careless, indifferent service.",1465,service,neg
+Certain to return very soon.,898,revisit,pos
+Definitely coming back next month.,938,revisit,pos
+Dirty floors and dusty surfaces.,1992,clean,neg
+Doubt I would visit here.,1494,revisit,neg
+Drinks came out promptly.,1287,wait,pos
+Each dish bursting with flavor.,1198,food,pos
+Enthusiastically recommended it to everyone.,615,wom,pos
+Everything tidy and well kept.,2329,clean,pos
+Far too expensive for the quality.,1289,price,neg
+Fast and efficient table turnover.,1256,wait,pos
+"Fresh, high quality ingredients.",1202,food,pos
+Generous and satisfying portions.,1143,price,pos
+Grabbed lunch here.,1368,none,neu
+Gracious hospitality all evening.,1545,service,pos
+Greasy and flavorless cooking.,1412,food,neg
+Hesitant about a second visit.,1451,revisit,neg
+"Immaculate, fresh restrooms.",2303,clean,pos
+Incredible flavor in every bite.,1194,food,pos
+It took forty five minutes for our food.,1149,wait,neg
+Knowledgeable and helpful waiter.,1516,service,pos
+Likely to drop by again.,1533,revisit,pos
+Long line despite our reservation.,1152,wait,neg
+Mentioned it to my coworkers.,1111,wom,pos
+Met family here for a celebration.,1343,none,neu
+My dish came out cold.,1416,food,neg
+Neither impressed nor bothered.,1693,overall,neu
+Never returning to this place.,732,revisit,neg
+Never setting foot here again.,757,revisit,neg
+No one checked on us all night.,1489,service,neg
+No wait at all on a busy night.,1282,wait,pos
+Our food arrived quickly.,1248,wait,pos
+Our server was rude and short.,1375,service,neg
+Our server was warm and friendly.,1591,service,pos
+Overpriced for what you get.,1286,price,neg
+Painfully inattentive waiter.,1442,service,neg
+Planning another visit soon.,1568,revisit,pos
+Quietly satisfied.,1459,overall,pos
+Service was painfully slow.,1106,wait,neg
+Simply not worth the price.,1268,price,neg
+Somewhat let down.,1407,overall,neg
+Spotlessly clean tables and floors.,2290,clean,pos
+Steep prices for small portions.,1368,price,neg
+Stopped in for dinner.,1495,none,neu
+Suggested it to a friend.,1177,wom,pos
+The bowl arrived overcooked and dry.,111,food,neg
+The bowl tasted stale and reheated.,117,food,neg
+The bowl was bland and forgettable.,108,food,neg
+The bowl was cooked to perfection.,129,food,pos
+The bowl was delicious.,134,food,pos
+The bowl was the best in town.,160,food,pos
+The brisket arrived overcooked and dry.,142,food,neg
+The brisket tasted stale and reheated.,135,food,neg
+The brisket was bland and forgettable.,130,food,neg
+The brisket was cooked to perfection.,102,food,pos
+The brisket was delicious.,108,food,pos
+The brisket was the best in town.,102,food,pos
+The burger arrived overcooked and dry.,245,food,neg
+The burger tasted stale and reheated.,250,food,neg
+The burger was bland and forgettable.,258,food,neg
+The burger was cooked to perfection.,119,food,pos
+The burger was delicious.,109,food,pos
+The burger was the best in town.,97,food,pos
+The dining room was spotless.,2329,clean,pos
+The latte arrived overcooked and dry.,129,food,neg
+The latte tasted stale and reheated.,141,food,neg
+The latte was bland and forgettable.,132,food,neg
+The latte was cooked to perfection.,176,food,pos
+The latte was delicious.,131,food,pos
+The latte was the best in town.,174,food,pos
+The manager personally checked on us.,1583,service,pos
+The manager was dismissive of our complaint.,1431,service,neg
+The pad thai arrived overcooked and dry.,107,food,neg
+The pad thai tasted stale and reheated.,107,food,neg
+The pad thai was bland and forgettable.,130,food,neg
+The pad thai was cooked to perfection.,60,food,pos
+The pad thai was delicious.,79,food,pos
+The pad thai was the best in town.,86,food,pos
+The pasta arrived overcooked and dry.,182,food,neg
+The pasta tasted stale and reheated.,189,food,neg
+The pasta was bland and forgettable.,197,food,neg
+The pasta was cooked to perfection.,100,food,pos
+The pasta was delicious.,94,food,pos
+The pasta was the best in town.,99,food,pos
+The pizza arrived overcooked and dry.,137,food,neg
+The pizza tasted stale and reheated.,120,food,neg
+The pizza was bland and forgettable.,121,food,neg
+The pizza was cooked to perfection.,130,food,pos
+The pizza was delicious.,128,food,pos
+The pizza was the best in town.,122,food,pos
+The restroom was filthy.,1985,clean,neg
+The salmon arrived overcooked and dry.,128,food,neg
+The salmon tasted stale and reheated.,122,food,neg
+The salmon was bland and forgettable.,117,food,neg
+The salmon was cooked to perfection.,137,food,pos
+The salmon was delicious.,137,food,pos
+The salmon was the best in town.,132,food,pos
+The staff ignored our table.,1399,service,neg
+The staff went above and beyond.,1587,service,pos
+The sushi arrived overcooked and dry.,114,food,neg
+The sushi tasted stale and reheated.,115,food,neg
+The sushi was bland and forgettable.,105,food,neg
+The sushi was cooked to perfection.,148,food,pos
+The sushi was delicious.,166,food,pos
+The sushi was the best in town.,181,food,pos
+The table was sticky and grimy.,1951,clean,neg
+The tacos arrived overcooked and dry.,112,food,neg
+The tacos tasted stale and reheated.,109,food,neg
+The tacos was bland and forgettable.,104,food,neg
+The tacos was cooked to perfection.,96,food,pos
+The tacos was delicious.,79,food,pos
+The tacos was the best in town.,79,food,pos
+Thoroughly regretted coming here.,1188,overall,neg
+"Tiny, stingy portions.",1399,price,neg
+Told friends to skip this one.,1072,wom,neg
+Tried this place for the first time.,1371,none,neu
+Urging everyone I know to try it.,607,wom,pos
+Utterly delighted.,1421,overall,pos
+Utterly wretched from start to finish.,1176,overall,neg
+"Very reasonable, fair prices.",1431,price,pos
+Visited last week.,1386,none,neu
+Warned my friends to avoid it.,491,wom,neg
+We waited forever just to be seated.,1155,wait,neg
+We were seated right away.,1278,wait,pos
+Well worth every dollar.,1422,price,pos
+Wonderful value for the money.,1475,price,pos
